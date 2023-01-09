@@ -1,0 +1,90 @@
+{
+    "Ticketing": {
+        "name": "Cafe",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$200,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The Teaching Kitchen will support hands-on experiential learning connected to the Sustainable Food Systems program. Blending commercial and residential kitchen elements, the Teaching Kitchen will contain cooking stations for classroom demonstrations, a wide range of equipment and appliances and additional seating space. Our Sustainable Food Systems program will leverage this teaching kitchen to prepare students for complex global challenges related to a sustainable, equitable and healthy food future."
+    },
+    "lobby_entrance": {
+        "name": "Lobby Entrance Corridor",
+        "img_path": "../images/Brown_Hall/ BrownHall_Lobby.webp",
+        "price": "$200,000",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "description": "At the entrance of Brown Hall is a large common area that communicates the university's vision for the new building and its inhabitants. The connection back to Sage Hall will preserve and strengthen the interdisciplinary interactions between disciplines."
+    },
+    "classrooms": {
+        "name": "Classrooms",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "Large $150,000 or Medium $100,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning."
+    },
+    "mon_stair": {
+        "name": "The Monumental Stair",
+        "img_path": "../images/Brown_Hall/BrownHall_MonStairs.webp",
+        "price": "$100,000",
+        "fill": "#6fccdd",
+        "stroke": "#2998ac",
+        "description": "The openness of the building's design extends to the grand staircase, which guides traffic upstairs while encouraging interaction among community members."
+    },
+    "reception_area": {
+        "name": "Reception Area",
+        "img_path": "../images/Brown_Hall/BrownHall_ReceptionArea.webp",
+        "price": "$30,000",
+        "fill": "#6fccdd",
+        "stroke": "#2998ac",
+        "description": "A reception area welcomes students, faculty and staff and serves as a resource for visitors to navigate the building's offerings."
+    },
+    "connector": {
+        "name": "The Connector",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$30,000",
+        "fill": "#3953a4",
+        "stroke": "#1c2952",
+        "description": "The connection back to Sage Hall will preserve and strengthen the interdisciplinary interactions between disciplines. Informal student study and collaboration space abounds."
+    },
+    "offices": {
+        "name": "Offices",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$15,000 - $20,000",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "description": "First floor offices house faculty in the Environmental Science and Studies Department and the Sustainable Food Systems Program, as well as the Institute for Water and Environmental Resilience."
+    },
+    "greenhouse": {
+        "name": "Greenhouse",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$150,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The new greenhouse, with an internal shade system and a butterfly roof to facilitate rainwater collection, will house plants and seedlings for classes and research."
+    },
+    "wet_lab": {
+        "name": "Wet Teaching Lab",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$200,000 Each",
+        "fill": "#3953a4",
+        "stroke": "#1c2952",
+        "description": "Wet teaching labs will enhance the curriculum of the Environmental Science and Studies Department. The labs will house equipment used in soil and water sampling and analysis, environmental surveying, and other hands-on training for students."
+    },
+    "research_lab": {
+        "name": "Enviromental Science & Studies Research Lab Mud Room",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$125,000 each",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "description": "The labs will house equipment used in soil and water sampling and analysis, environmental surveying and other hands-on training for students. The Mud Room will allow field specimens to be brought into the building for use in lab spaces."
+    },
+    "student_study": {
+        "name": "Student Study Spaces",
+        "img_path": "../images/Brown_Hall/BrownHall_StudentStudy.webp",
+        "price": "$20,000 - $50,000",
+        "fill": "#439544",
+        "stroke": "#2b5f2c",
+        "description": "Incorporating a diverse mix of formal and informal spaces, Brown Hall offers student gathering spaces that encourage collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
+    }
+}
