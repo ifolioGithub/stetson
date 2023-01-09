@@ -2,58 +2,58 @@
     "Cafe": {
         "name": "Cafe",
         "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$200,000",
+        "price": "$125,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The Teaching Kitchen will support hands-on experiential learning connected to the Sustainable Food Systems program. Blending commercial and residential kitchen elements, the Teaching Kitchen will contain cooking stations for classroom demonstrations, a wide range of equipment and appliances and additional seating space. Our Sustainable Food Systems program will leverage this teaching kitchen to prepare students for complex global challenges related to a sustainable, equitable and healthy food future."
+        "description": "Event patrons will visit the café for concessions on busy game days."
     },
-    "lobby_entrance": {
+    "Lobby": {
         "name": "Lobby Entrance Corridor",
-        "img_path": "../assets/images/Brown_Hall/card_images/ BrownHall_Lobby.webp",
-        "price": "$200,000",
+        "img_path": "https://api.ifolio.cloud/medias/Jj/Bn/JjBnsqc2mZLCja3aIr8F6JFNzGleNGOtEzU8ILmQ.jpg?width=1366",
+        "price": "$2,500,000",
         "fill": "#ec2027",
         "stroke": "#9e0d12",
-        "description": "At the entrance of Brown Hall is a large common area that communicates the university's vision for the new building and its inhabitants. The connection back to Sage Hall will preserve and strengthen the interdisciplinary interactions between disciplines."
+        "description": "The impressive glass façade to the building will allow the lobby and Hall of Fame to be visible from the street. The main lobby is multi-use, providing a lounge area with furniture for staff, coaches and students to congregate and study. For non-athletic events, the lobby is a place for attendees to congregate before or after an event and is spacious enough to be used as a reception area. For athletic events, the lobby features a concession stand (café) and merchandise display.  The furniture can be relocated to accommodate a stanchion for the concession stand line."
     },
-    "classrooms": {
-        "name": "Classrooms",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "Large $150,000 or Medium $100,000",
+    "Ticketing": {
+        "name": "Ticketing",
+        "img_path": "https://api.ifolio.cloud/medias/7u/VK/7uVKMRMTZAlAKqNont6LmzDuEuDxhEJ3NPj0Fttq.jpg?width=1920",
+        "price": "Large $100,000",
         "fill": "#fbb03a",
         "stroke": "#c27804",
-        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning."
+        "description": "Thousands of patrons each year will visit the ticketing area."
     },
-    "mon_stair": {
-        "name": "The Monumental Stair",
+    "HallOfFame": {
+        "name": "Hall of Fame",
         "img_path": "../assets/images/Brown_Hall/card_images/BrownHall_MonStairs.webp",
-        "price": "$100,000",
+        "price": "$200,000",
         "fill": "#6fccdd",
         "stroke": "#2998ac",
-        "description": "The openness of the building's design extends to the grand staircase, which guides traffic upstairs while encouraging interaction among community members."
+        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge."
     },
-    "reception_area": {
-        "name": "Reception Area",
+    "Lounge": {
+        "name": "VIP Lounge",
         "img_path": "../assets/images/Brown_Hall/card_images/BrownHall_ReceptionArea.webp",
-        "price": "$30,000",
+        "price": "$1,500,000",
         "fill": "#6fccdd",
         "stroke": "#2998ac",
-        "description": "A reception area welcomes students, faculty and staff and serves as a resource for visitors to navigate the building's offerings."
+        "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and catered events. It will also be used as a hospitality area during athletic events for premium seat donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building (CUB)."
     },
-    "connector": {
-        "name": "The Connector",
+    "Retail": {
+        "name": "Retail",
         "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
         "price": "$30,000",
         "fill": "#3953a4",
         "stroke": "#1c2952",
-        "description": "The connection back to Sage Hall will preserve and strengthen the interdisciplinary interactions between disciplines. Informal student study and collaboration space abounds."
+        "description": "Stetson fans can choose from the latest and greatest Hatter apparel."
     },
-    "offices": {
-        "name": "Offices",
+    "Display": {
+        "name": "Hall of Fame Cases",
         "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$15,000 - $20,000",
+        "price": "$25,000 each",
         "fill": "#ec2027",
         "stroke": "#9e0d12",
-        "description": "First floor offices house faculty in the Environmental Science and Studies Department and the Sustainable Food Systems Program, as well as the Institute for Water and Environmental Resilience."
+        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge"
     },
     "greenhouse": {
         "name": "Greenhouse",
