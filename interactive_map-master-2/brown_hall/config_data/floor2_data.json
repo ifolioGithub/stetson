@@ -1,0 +1,82 @@
+{
+    "play_therapy": {
+        "name": "Play Therapy Classroom",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$75,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), will provide space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County. <br/><br/> The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
+    },
+    "classrooms2": {
+        "name": "Classroom",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "Large or Geographical Information Systems (GIS) Lab $150,000<br/> Medium $100,000, Small $50,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "svg_path": "1498.92 100.54 1230.36 70.36 1193.28 342.46 1464.3 377.2 1498.92 100.54",
+        "svg_path2": "2191.98 258.76 1975.74 227.32 1949.7 436.84 2167.8 461.62 2191.98 258.76",
+        "svg_path3": "555.1 0 240.06 58.68 308.56 373.25 621.52 307.36 555.1 0",
+        "svg_path4": "220.02 63.7 0 108.1 78.6 424.84 298.56 376.25 230.06 61.68 220.02 63.7",
+        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning. The GIS lab will support efforts to emphasize GIS in student training; it is an essential skill for employment in numerous environmental-related fields."
+    },
+    "main_corridor": {
+        "name": "Main Corridor",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$150,000",
+        "fill": "#3953a4",
+        "stroke": "#1c2952",
+        "svg_path": "M 210,247 210,334 277,320 276,308 218,308 218,264 277,264 277,310 277,320 460,281.5 490,281 618,297 617,312 633,312 634.5,268 692,268 692,312 633,312 617,312 616,323 963,368 965.5,340.5 987,343 987,309 980,309 980,320 921,320 921,276 980,277 980,309 987,309 985.5,245 210,247",
+        "description": "A variety of student collaborative spaces dot the main corridor and provide entrance to myriad classrooms, labs and offices."
+    },
+    "body_testing": {
+        "name": "Body Testing Lab",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$75,000",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "svg_path": "19.98 0 110.52 8.52 90.42 159.48 0 146.34 19.98 0",
+        "description": "The Body Testing Lab will enhance curricular offerings and research within the Health Sciences Department."
+    },
+    "offices2": {
+        "name": "Offices",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$15,000 - $20,000",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "svg_path": "0 0 .66 151.5 23.64 151.5 26.4 246.43 1079.91 248.22 1081.62 125.58 994.62 125.58 992.7 4.38 0 0",
+        "description": "Second floor offices are home to faculty in Health Sciences, Public Health and Counselor Education."
+    },
+    "smart_lab": {
+        "name": "Smart Lab",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$100,000",
+        "fill": "#439544",
+        "stroke": "#2b5f2c",
+        "svg_path": "0 4.5 1.92 125.7 88.92 125.7 87.21 248.34 240.6 250.14 237.42 0 0 4.5",
+        "description": "The SMART Lab, part of the Center for Optimal Health Across the Lifespan (COHL), is designed to teach and research the efficacy of stress management and resiliency skills within the Volusia County population and Stetson’s student body. The lab targets significant reductions in stress levels, using biofeedback monitors, and can be combined with self-report measures of psychological disorders and indicators of resilience. The SMART Lab is capable of intervening with a wide age of demographics, from children to geriatric, and can be combined with other health initiatives."
+    },
+    "research_pod": {
+        "name": "Smart Lab",
+        "img_path": "../images/Brown_Hall/photoComing.webp",
+        "price": "$100,000",
+        "fill": "#6fccdd",
+        "stroke": "#2998ac",
+        "svg_path": "217.8 24.12 34.62 0 0 276.66 181.5 302.04 217.8 24.12",
+        "description": "The ENSS Faculty Research Pod will be the site of research activity and collaborations utilizing GIS and other equipment and software."
+    },
+    "student_study2": {
+        "name": "Student Study Spaces",
+        "img_path": "../images/Brown_Hall/BrownHall_student_study_f2.webp",
+        "price": "$20,000 - $40,000",
+        "fill": "#439544",
+        "stroke": "#2b5f2c",
+        "svg_path": "3.01 634.85 3.35 537.16 138.66 540.02 138.66 634.85 3.01 634.85",
+        "svg_path2": "1007.74 645.08 1008.08 547.39 1143.39 550.25 1143.39 645.08 1007.74 645.08",
+        "svg_path3": "1703.5 663.77 1703.84 566.08 1839.15 568.95 1839.15 663.77 1703.5 663.77",
+        "svg_path4": "233.32 372.3 233.79 248.12 422.82 251.76 422.82 372.3 233.32 372.3",
+        "svg_path5": "543.3 240.84 543.65 3.16 675.68 9.89 675.68 240.84 543.3 240.84",
+        "svg_path6": "547.74 494.21 548.08 256.53 680.11 263.26 680.11 494.21 547.74 494.21",
+        "svg_path7": "296.95 495.01 297.28 401.88 426.86 404.62 426.86 495.01 296.95 495.01",
+        "description": "Incorporating a diverse mix of formal and informal spaces, the Student Lounge encourages collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
+    }
+}
