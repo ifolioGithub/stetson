@@ -11,13 +11,13 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="../image-map-pro/image-map-pro.min.js"></script>
-    <script src="../brown_hall/brown_exterior_map.js"></script>
+    <script src="../Edmunds/brown_exterior_map.js"></script>
     <script type="text/javascript">
         ;(function ($, window, document, undefined) {
             $(document).ready(function() {
                 $.imageMapProEventClickedShape = function(imageMapName, shapeTitle) {
                     var floor_num = shapeTitle.charAt(shapeTitle.length - 1)
-                    window.open(`brown_hall.html?init=${floor_num}`, "_self")
+                    window.open(`Edmunds.html?init=${floor_num}`, "_self")
                 }
             });
         })(jQuery, window, document);
