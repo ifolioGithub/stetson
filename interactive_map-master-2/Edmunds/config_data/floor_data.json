@@ -57,7 +57,7 @@
     },
     "Office": {
         "name": "Offices",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
+        "img_path": "https://api.ifolio.cloud/medias/pZ/y2/pZy2lTqZpW9PYIaZsXEkkKOll2d1qwVzSToRgjYF.jpg?width=1920",
         "price": " Assistant Coaches (6): $50,000 <br> Administrator: $20,000 ",
         "fill": "#cee0b3",
         "stroke": "#72953d",
