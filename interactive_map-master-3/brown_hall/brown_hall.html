@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="../image-map-pro/image-map-pro.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/floor.css">
+</head>
+
+<body>
+    <div class="my-container">
+            <!-- Modal using bootstrap-->
+            <div class="modal fade" id="myModal" role="dialog">
+              <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                  <!-- The model content is dynamically set in eventHandle-->
+                </div>
+              </div>
+            </div>
+            
+
+        <div class="row">
+          <!--Card Container is the left section of the screen containing nav and placeholder for cards-->
+            <div class="col-lg-4 col-md-0 card-container">
+                <div class='floor-select'>
+                    <div class="select-text bg-dark mb-5 mx-auto d-flex p-2">
+                            <h3 class="select text-light text-center mb-0 mr-2" style="font-family: Avenir-medium;">Select a card</h3>
+                            <img src="../assets/svg/noun-arrow-2094742-105E31.svg" alt="Right Arrow" width="30px" class="">
+                        </span>
+                    </div>
+                    <nav class="nav-card">
+                        <div class="card">
+                            <img class="card-img-top" src="../assets/images/Brown_Hall/floorplan/StetsonU_BrownHall_Exterior01_cropped.jpg" alt="Brown Hall Exterior Photo">
+                            <div class="card-body">
+                                <h3 class="card-title text-dark text-center nav-title">Choose another floor:</h5>
+                                <div class="button-list d-flex justify-content-center mt-2">
+                                    <button id="btn-Floor-1" class="btn btn-circle primary-tooltip" data-toggle="tooltip" title="Lobby, Classrooms, Greenhouse, Research Labs">1</button>
+                                    <button id="btn-Floor-2" class="btn btn-circle ml-3 primary-tooltip" data-toggle="tooltip" title="Main Corridor, Classrooms, Offices, Body Testing Lab">2</button>
+                                    <button id="btn-Exterior" class="btn btn-circle ml-3 primary-tooltip" data-toggle="tooltip" title="Exterior view of the building">E</button>
+                                </div> 
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+                <div class="all-cards"></div>
+            </div>
+            <!--Map Container holds the map-->
+            <div class="col-lg-8 col-md-12 map-container">
+                <!--This calls the image-map-pro code configured in interactive_map.js-->
+                <div id="image-map-pro-container"></div>
+            </div>
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <script src="../image-map-pro/image-map-pro.min.js"></script>
+        <script src="../brown_hall/brown_interior_map.js"></script>
+        <script src="../js/map_initialization.js"></script>
+        <script src="../js/event_handling.js"></script>
+    </div>
+</body>
+
+</html>

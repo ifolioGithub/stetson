@@ -1,0 +1,125 @@
+{
+    "hallFameCase": {
+        "name": "Hall of Fame Cases",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Hall-of-Fame-Trophy-Cases.jpg",
+        "price": "$25,000 each",
+        "fill": "#78bdcf",
+        "stroke": "#2998ac",
+        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich \n athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame \n inductees and student-athlete achievements. A touch screen videoboard will familiarize touring \n prospective students and student-athletes with Stetson’s championship history. Alumni and \n fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the \n Hall of Fame lounge"
+    },
+    "hallFameDisplay": {
+        "name": "Hall of Fame Display",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Hall-of-Fame-Display.jpg",
+        "price": "$200,000",
+        "fill": "#78bdcf",
+        "stroke": "#2998ac",
+        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich \n athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame \n inductees and student-athlete achievements. A touch screen videoboard will familiarize touring \n prospective students and student-athletes with Stetson’s championship history. Alumni and \n fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the \n Hall of Fame lounge"
+    },
+    "lounge": {
+        "name": "Lounge",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_VIP-Lounge-01.jpg",
+        "price": "$1,500,00",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "svg_path": "284 175.78 0 171.78 0 117 17 117 17 39 0 39 0 0 284 0 284 39 270 39 270 117 284 117 284 175.78",
+        "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and \n catered events. It will also be used as a hospitality area during athletic events for premium seat \n donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces \n on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building \n (CUB)."
+    },
+    "cafe": {
+        "name": "Cafe Concessions Area",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Cafe-concessions-area.jpg",
+        "description": "Event patrons will visit the café for concessions on busy game days.",
+        "price": "$125,000",
+        "fill": "#8dc640",
+        "stroke": "#698938",
+        "svg_path": "101.01 56.48 77.38 0 0 0 0 56.48 101.01 56.48"
+    },
+    "retail": {
+        "name": "Retail",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Retail-Merchandise-Area.jpg",
+        "description": "Stetson fans can choose from the latest and greatest Hatter apparel.",
+        "price": "$75,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "svg_path": "0 0 43.94 105.7 70.13 .96 0 0"
+    },
+    "ticketing": {
+        "name": "Ticketing",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Ticketing-Area.jpg",
+        "description": "Thousands of patrons each year will visit the ticketing area.",
+        "price": "$100,000",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "svg_path": "211.06 23.63 182.5 0 126.77 3.23 107.57 8.65 105.96 4.38 53.69 18.26 48.71 1.71 0 14.88 17.98 80.04 211.06 23.63"
+    },
+    "lobby": {
+        "name": "Lobby",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Everyday_Cafe.jpg",
+        "description": "The impressive glass façade to the building will allow the lobby and Hall of Fame to be visible \n from the street. The main lobby is multi-use, providing a lounge area with furniture for staff, \n coaches and students to congregate and study. For non-athletic events, the lobby is a place for \n attendees to congregate before or after an event and is spacious enough to be used as a \n reception area. For athletic events, the lobby features a concession stand (café) and \n merchandise display. The furniture can be relocated to accommodate a stanchion for the \n concession stand line.",
+        "price": "$2,500,00",
+        "fill": "#3953a4",
+        "stroke": "#1b284f",
+        "svg_path": "492.74 111.82 448.8 6.12 0 0 35.56 31.58 485.14 142.23 518.93 7.08 492.74 111.82"
+    },
+    "balcony": {
+        "name": "VIP Balcony Seating",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_VIP-Balcony-Seating.jpg",
+        "price": "$1,000,000",
+        "fill": "#3953a4",
+        "stroke": "#1b284f",
+        "svg_path": "313.56 33.15 313.56 0 0 0 0 33.15 8.08 33.15 9.19 52.74 43.54 52.74 45.96 58.3 265.14 58.3 267.36 50.36 313.56 48.15 313.56 33.15",
+        "description": "The new balcony provides a VIP-level view to the action on the court, while providing free-flow \n access to the VIP room."
+    },
+    "athletic_suite": {
+        "name": "Athletic Director Suite",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Athletic-Director-Suite.jpg",
+        "description": "This new suite provides ample space for the Athletic Director and more staff to more efficiently \n function on a daily basis, improving communications and overall operations. The current office \n layout is outdated with non-adjacent small offices. The suite and lounge will welcome alumni, \n donors, prospective student-athletes and families.",
+        "price": "$250,000",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "svg_path": "0 0 0 64.76 45.61 64.4 45.61 80.15 65.38 80.15 66.94 14.78 21.66 14.78 21.66 1.96 0 0",
+        "svg_path2": "67.33 0 0 0 0 69.38 0 75.13 0 91.93 53.79 91.93 53.79 75.13 67.33 75.13 67.33 0"
+    },
+    "office": {
+        "name": "Office",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Head-Coach-Offices.jpg",
+        "description": "",
+        "price": "$100,000",
+        "fill": "#6fccdd",
+        "stroke": "#2998ac"
+    },
+    "vip_room": {
+        "name": "VIP Room",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_VIP-Lounge-01.jpg",
+        "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and \n catered events. It will also be used as a hospitality area during athletic events for premium seat \n donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces \n on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building \n (CUB).",
+        "price": "$1,500,000",
+        "fill": "#8dc640",
+        "stroke": "#698938",
+        "svg_path": "242.25 0 2.05 0 0 165.12 244.37 165.12 242.25 0"
+    },
+    "refuel_station": {
+        "name": "Refuel Station",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Refueling-Station.jpg",
+        "description": "",
+        "price": "$75,000 SOLD",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "svg_path": "121.64 43.37 0 43.37 2.78 9.83 42.51 9.83 42.51 0 123.68 0 121.64 43.37"
+    },
+    "head_coach": {
+        "name": "Head Coach Offices",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Head-Coach-Offices.jpg",
+        "description": "The head coach offices for the men’s and women’s basketball teams are located in close \n proximity. Sharing a suite with their other staff professionalizes and increases the efficiency of \n our operations while providing a welcoming space for visitors.",
+        "price": "$50,000 each",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "svg_path": "181.13 0 146.77 0 146.77 14.85 133.8 14.85 133.8 64.78 181.13 64.78 181.13 0"
+    },
+    "basketball_suite": {
+        "name": "Basketball Suite",
+        "img_path": "../assets/images/Edmunds_Center/card_images/StetsonU_EdmundsCenter_Head-Coach-Offices.jpg",
+        "description": "Home to the basketball coaching staffs, this suite unites currently non-adjacent staff. It \n professionalizes and increases the efficiency of our operations while providing an impressive \n space for prospective student-athletes and their families as well as alumni.",
+        "price": "PRICE NEEDED",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12"
+    }
+}
