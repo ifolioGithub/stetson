@@ -29,13 +29,13 @@
         "enable_layers": 1,
         "layers_list": [{
             "id": 0,
-            "title": "Main Floor",
+            "title": "Floor 1",
             "image_url": "https://api.ifolio.cloud/medias/F3/tO/F3tOYlTtN6mAMUCJ9avaYwx9rIkJB7qnxecuVtpH.jpg?width=1366",
             "image_width": 1366,
             "image_height": 854
         }, {
             "id": 1,
-            "title": "Second Floor",
+            "title": "Floor 2",
             "image_url": "https://api.ifolio.cloud/medias/8f/kC/8fkCKBLwqKicdfXeHayh6U4RXRecSFvOoPRYdE21.jpg?width=1366",
             "image_width": 1366,
             "image_height": 854
@@ -949,6 +949,10 @@
         "y": 50.568,
         "width": 10.807,
         "height": 5.993,
+        "x_image_background": 33.456,
+        "y_image_background": 50.568,
+        "width_image_background": 10.807,
+        "height_image_background": 5.993,
         "layerID": "1",
         "default_style": {
             "background_color": "#F1AD48",
@@ -1267,6 +1271,8 @@
         "type": "text",
         "x": 84.438,
         "y": 60.948,
+        "x_image_background": 84.438,
+        "y_image_background": 60.948,
         "layerID": "1",
         "text": {
             "text": "Basketball Suite\n"
@@ -1299,6 +1305,10 @@
         "y": 43.575,
         "width": 1.619,
         "height": 11.444,
+        "x_image_background": 42.26,
+        "y_image_background": 43.575,
+        "width_image_background": 1.619,
+        "height_image_background": 11.444,
         "connected_to": "poly-2747",
         "default_style": {
             "background_color": "#7ACFDD",
@@ -1480,6 +1490,10 @@
         "y": 38.989,
         "width": 25.253,
         "height": 22.889,
+        "x_image_background": 42.249,
+        "y_image_background": 38.989,
+        "width_image_background": 25.253,
+        "height_image_background": 22.889,
         "default_style": {
             "background_color": "#BFE098",
             "background_opacity": 0.19484508547008547,
