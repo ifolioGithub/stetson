@@ -1,7 +1,7 @@
 {
     "Cafe": {
         "name": "Cafe",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
+        "img_path": "https://api.ifolio.cloud/medias/eR/5b/eR5bLhftNGxfypS9XrdGNVGQWcXnNVfQG7FBy64p.jpg?width=1366",
         "price": "$125,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
