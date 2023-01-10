@@ -43,7 +43,7 @@
 
         // Nav card buttons change the floor.
         $(".button-list").click(function (e) {
-            var pnum = window.location.pathname.split("/").length - 2
+            var pnum = window.location.pathname.split("/").length - 3
             let arr = e.target.id.split("-")
             let str = arr.slice(1).join(" ")
             console.log(arr)
