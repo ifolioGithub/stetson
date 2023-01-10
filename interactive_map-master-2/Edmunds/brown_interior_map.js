@@ -4,7 +4,6 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 6960,
     "editor": {
-        "selected_shape": "rect-3969",
         "tool": "select",
         "currentLayer": "1",
         "shapeCounter": {
@@ -1128,7 +1127,7 @@
         }]
     }, {
         "id": "poly-1058",
-        "title": "Refuel Station",
+        "title": "RefuelStation",
         "type": "poly",
         "x": 33.456,
         "y": 50.568,
@@ -1243,7 +1242,7 @@
         }
     }, {
         "id": "poly-6952",
-        "title": "W Head Coach",
+        "title": "WHeadCoach",
         "type": "poly",
         "x": 76.969,
         "y": 30.579,
@@ -1307,7 +1306,7 @@
         }]
     }, {
         "id": "poly-543",
-        "title": "M Head Coach",
+        "title": "MHeadCoach",
         "type": "poly",
         "x": 65.178,
         "y": 31.907,
@@ -1446,38 +1445,6 @@
             "x": 0,
             "y": 58.33092246503575
         }]
-    }, {
-        "id": "text-8749",
-        "title": "Lounge Area",
-        "type": "text",
-        "x": 5.908,
-        "y": 36.748,
-        "x_image_background": 5.908,
-        "y_image_background": 36.748,
-        "layerID": "1",
-        "text": {
-            "text": "Lounge Area"
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Text 0"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
     }, {
         "id": "text-2035",
         "title": "Basketball",
