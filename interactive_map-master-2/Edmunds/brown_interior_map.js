@@ -17,7 +17,7 @@
         }
     },
     "general": {
-        "name": "Edmund f1",
+        "name": "Edmunds",
         "width": 1366,
         "height": 854,
         "naturalWidth": 1366,
