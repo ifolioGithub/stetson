@@ -49,7 +49,8 @@
             if (str === "Exterior") {
                 window.open(`index.html`, "_self")
             } else {
-                var map_name = window.location.pathname.split("/")[1]
+                var pnum = window.location.pathname.split("/").length - 2
+                var map_name = window.location.pathname.split("/")[pnum]
                 $.imageMapProGoToFloor(map_name, str);
             }
         })
