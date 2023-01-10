@@ -55,10 +55,10 @@
         "stroke": "#9e0d12",
         "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge"
     },
-    "greenhouse": {
-        "name": "Greenhouse",
+    "Office": {
+        "name": "Offices",
         "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$150,000",
+        "price": "Head Coaches (2): $150,000 <br> Assistant Coaches (6): $50,000 <br> Administrator: $20,000 ",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "The new greenhouse, with an internal shade system and a butterfly roof to facilitate rainwater collection, will house plants and seedlings for classes and research."
