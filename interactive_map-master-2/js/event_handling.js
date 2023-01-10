@@ -51,6 +51,9 @@
             } else {
                 var pnum = window.location.pathname.split("/").length - 2
                 var map_name = window.location.pathname.split("/")[pnum]
+                console.log(map_name)
+                console.log(pnum)
+                console.log(window.location.pathname.split("/")[pnum])
                 $.imageMapProGoToFloor(map_name, str);
             }
         })
