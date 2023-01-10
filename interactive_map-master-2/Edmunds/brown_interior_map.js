@@ -747,7 +747,7 @@
         }
     }, {
         "id": "rect-3969",
-        "title": "VIP Room",
+        "title": "VIPRoom",
         "type": "rect",
         "x": 44.304,
         "y": 33.738,
