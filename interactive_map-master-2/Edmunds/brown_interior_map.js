@@ -4,12 +4,13 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 6960,
     "editor": {
-        "tool": "select",
-        "currentLayer": "1",
+        "previewMode": 1,
+        "selected_shape": "poly-7964",
+        "tool": "poly",
         "shapeCounter": {
             "spots": 1,
             "rects": 4,
-            "polys": 22,
+            "polys": 28,
             "texts": 2,
             "paths": 1
         }
@@ -41,42 +42,6 @@
         }]
     },
     "spots": [{
-        "id": "poly-1284",
-        "title": "Poly 1",
-        "type": "poly",
-        "x": 73.906,
-        "y": 55.552,
-        "width": 0,
-        "height": 0,
-        "x_image_background": 73.90596252129471,
-        "y_image_background": 55.55225075703474,
-        "width_image_background": 0,
-        "height_image_background": 0,
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Poly 1"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        },
-        "points": [{
-            "x": null,
-            "y": null
-        }]
-    }, {
         "id": "poly-9307",
         "title": "Cafe",
         "type": "poly",
@@ -322,65 +287,15 @@
             "y": 100
         }]
     }, {
-        "id": "rect-8988",
-        "title": "Lounge",
-        "type": "rect",
-        "x": 42.334,
-        "y": 38.896,
-        "width": 24.873,
-        "height": 22.48,
-        "x_image_background": 42.334,
-        "y_image_background": 38.896,
-        "width_image_background": 24.873,
-        "height_image_background": 22.48,
-        "connected_to": "rect-4824",
-        "default_style": {
-            "border_radius": 0,
-            "background_color": "#BFE098",
-            "background_opacity": 0.2204861111111111,
-            "border_width": 3,
-            "border_color": "#BFE098"
-        },
-        "mouseover_style": {
-            "border_radius": 0,
-            "background_color": "#ff0000",
-            "background_opacity": 0.6563835470085471,
-            "border_width": 3,
-            "border_color": "#BFE098"
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Rect 1"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
-    }, {
         "id": "poly-4173",
         "title": "Ticketing",
         "type": "poly",
         "x": 20.699,
-        "y": 61.163,
+        "y": 61.027,
         "width": 17.963,
         "height": 11.172,
         "x_image_background": 20.699,
-        "y_image_background": 61.163,
+        "y_image_background": 61.027,
         "default_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.19484508547008547,
@@ -545,105 +460,6 @@
                 }]
             }
         }
-    }, {
-        "id": "poly-601",
-        "title": "Lounge",
-        "type": "poly",
-        "x": 41.991,
-        "y": 38.69,
-        "width": 25.416,
-        "height": 23.413,
-        "x_image_background": 41.991,
-        "y_image_background": 38.69,
-        "width_image_background": 25.212947189097108,
-        "height_image_background": 22.9348854374045,
-        "mouseover_style": {
-            "background_color": "#ff0000"
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Poly 10"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        },
-        "points": [{
-            "x": 0,
-            "y": 0.30009016211205614
-        }, {
-            "x": 48.02098695869205,
-            "y": 0
-        }, {
-            "x": 48.52226053592059,
-            "y": 16.49394231841664
-        }, {
-            "x": 34.771992860257555,
-            "y": 16.377184907723503
-        }, {
-            "x": 34.587750788461385,
-            "y": 28.234144972030013
-        }, {
-            "x": 66.0043937481962,
-            "y": 28.132430563955136
-        }, {
-            "x": 65.81212417862744,
-            "y": 16.624140732850545
-        }, {
-            "x": 48.363578750627696,
-            "y": 16.305959859001828
-        }, {
-            "x": 48.028839401686184,
-            "y": 0.11697804223817013
-        }, {
-            "x": 99.53642509284771,
-            "y": 0.8820690310196777
-        }, {
-            "x": 99.76856444536443,
-            "y": 19.877116825173466
-        }, {
-            "x": 93.1694337765071,
-            "y": 19.877116825173466
-        }, {
-            "x": 93.16943377650705,
-            "y": 68.39506191345923
-        }, {
-            "x": 100,
-            "y": 68.39506191345923
-        }, {
-            "x": 99.43342259724743,
-            "y": 100
-        }, {
-            "x": 0.3365494438790109,
-            "y": 97.67233705705486
-        }, {
-            "x": 0.10370629348131565,
-            "y": 70.14186110163043
-        }, {
-            "x": 7.8366955657248045,
-            "y": 70.14186110163043
-        }, {
-            "x": 7.8366955657248045,
-            "y": 20.459032560909794
-        }, {
-            "x": 0.3365494438790109,
-            "y": 20.860511920827108
-        }]
     }, {
         "id": "rect-3887",
         "title": "Display Copy Copy Copy",
@@ -1475,6 +1291,290 @@
                 }]
             }
         }
+    }, {
+        "id": "poly-9318",
+        "title": "Display2",
+        "type": "poly",
+        "x": 42.26,
+        "y": 43.575,
+        "width": 1.619,
+        "height": 11.444,
+        "connected_to": "poly-2747",
+        "default_style": {
+            "background_color": "#7ACFDD",
+            "background_opacity": 0.20339209401709402,
+            "stroke_color": "#7ACFDD",
+            "stroke_opacity": 1,
+            "stroke_width": 3
+        },
+        "mouseover_style": {
+            "background_color": "#7ACFDD",
+            "background_opacity": 0.6820245726495726,
+            "stroke_color": "#7ACFDD",
+            "stroke_width": 3
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 22"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        },
+        "points": [{
+            "x": 0,
+            "y": 0.0021521762764938404
+        }, {
+            "x": 94.74823748344839,
+            "y": 0
+        }, {
+            "x": 100,
+            "y": 99.9978478237235
+        }, {
+            "x": 10.554258564178118,
+            "y": 100
+        }]
+    }, {
+        "id": "poly-3103",
+        "title": "Display1",
+        "type": "poly",
+        "x": 51.043,
+        "y": 42.481,
+        "width": 7.751,
+        "height": 2.86,
+        "x_image_background": 51.12836456558774,
+        "y_image_background": 42.752727918324034,
+        "width_image_background": 7.666098807495741,
+        "height_image_background": 2.4524334826789653,
+        "connected_to": "poly-2747",
+        "default_style": {
+            "background_color": "#7ACFDD",
+            "background_opacity": 0.18629807692307693,
+            "stroke_color": "#7ACFDD",
+            "stroke_opacity": 1,
+            "stroke_width": 3
+        },
+        "mouseover_style": {
+            "background_color": "#7ACFDD",
+            "background_opacity": 0.7076655982905983,
+            "stroke_color": "#7ACFDD",
+            "stroke_opacity": 1,
+            "stroke_width": 3
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 23"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        },
+        "points": [{
+            "x": 0,
+            "y": 0
+        }, {
+            "x": 100,
+            "y": 4.754524124526179
+        }, {
+            "x": 100,
+            "y": 100
+        }, {
+            "x": 0,
+            "y": 100
+        }]
+    }, {
+        "id": "poly-2747",
+        "title": "Display",
+        "type": "poly",
+        "x": 65.673,
+        "y": 43.393,
+        "width": 1.543,
+        "height": 11.166,
+        "x_image_background": 65.673,
+        "y_image_background": 43.393,
+        "default_style": {
+            "background_color": "#7ACFDD",
+            "background_opacity": 0.20339209401709402,
+            "stroke_color": "#7ACFDD",
+            "stroke_opacity": 1,
+            "stroke_width": 3
+        },
+        "mouseover_style": {
+            "background_color": "#7ACFDD",
+            "background_opacity": 0.7076655982905983,
+            "stroke_color": "#7ACFDD",
+            "stroke_opacity": 0.9807692307692307,
+            "stroke_width": 3
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 24"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        },
+        "points": [{
+            "x": 0,
+            "y": 0
+        }, {
+            "x": 100,
+            "y": 1.1655867213227797
+        }, {
+            "x": 100,
+            "y": 100
+        }, {
+            "x": 0.619691435183868,
+            "y": 100
+        }]
+    }, {
+        "id": "poly-7964",
+        "title": "Lounge",
+        "type": "poly",
+        "x": 42.249,
+        "y": 38.989,
+        "width": 25.253,
+        "height": 22.889,
+        "default_style": {
+            "background_color": "#BFE098",
+            "background_opacity": 0.19484508547008547,
+            "stroke_color": "#BFE098",
+            "stroke_opacity": 0.9970619658119658,
+            "stroke_width": 3
+        },
+        "mouseover_style": {
+            "background_color": "#BFE098",
+            "background_opacity": 0.7435897435897436,
+            "stroke_color": "#BFE098",
+            "stroke_opacity": 1,
+            "stroke_width": 3
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 27"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        },
+        "points": [{
+            "x": 0.4246227926883527,
+            "y": 18.67568447476917
+        }, {
+            "x": 0,
+            "y": 0.7851269890720334
+        }, {
+            "x": 34.90032377108482,
+            "y": 0.5974608469724343
+        }, {
+            "x": 34.56444373537186,
+            "y": 14.286999440295697
+        }, {
+            "x": 33.553032259728354,
+            "y": 29.411199527917383
+        }, {
+            "x": 66.30845413432,
+            "y": 29.628937135031723
+        }, {
+            "x": 66.68051687606992,
+            "y": 14.904940089285246
+        }, {
+            "x": 34.96179676936654,
+            "y": 12.799077777545204
+        }, {
+            "x": 34.90244874018003,
+            "y": 0.595244116051622
+        }, {
+            "x": 100,
+            "y": 0
+        }, {
+            "x": 99.66270331822355,
+            "y": 19.04895236870858
+        }, {
+            "x": 92.24217631914203,
+            "y": 18.45370825265696
+        }, {
+            "x": 92.24217631914203,
+            "y": 69.04945811704384
+        }, {
+            "x": 97.97834487843656,
+            "y": 69.05161026877144
+        }, {
+            "x": 97.97621990934135,
+            "y": 100
+        }, {
+            "x": 0.834775557728492,
+            "y": 97.62117568752113
+        }, {
+            "x": 0.49818719898378555,
+            "y": 70.83626654106251
+        }, {
+            "x": 6.905407506672575,
+            "y": 70.24209850087466
+        }, {
+            "x": 6.5688191479278695,
+            "y": 19.04895236870858
+        }]
     }]
 });
     });
