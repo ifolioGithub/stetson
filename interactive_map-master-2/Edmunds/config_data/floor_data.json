@@ -58,97 +58,57 @@
     "Office": {
         "name": "Offices",
         "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "Head Coaches (2): $150,000 <br> Assistant Coaches (6): $50,000 <br> Administrator: $20,000 ",
+        "price": " Assistant Coaches (6): $50,000 <br> Administrator: $20,000 ",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The new greenhouse, with an internal shade system and a butterfly roof to facilitate rainwater collection, will house plants and seedlings for classes and research."
+        "description": "Home to the basketball coaching staffs, this suite unites currently non-adjacent staff. It professionalizes and increases the efficiency of our operations while providing an impressive space for prospective student-athletes and their families as well as alumni."
     },
-    "wet_lab": {
-        "name": "Wet Teaching Lab",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$200,000 Each",
+    "W Head Coach": {
+        "name": "Head Coaches Offices",
+        "img_path": "https://api.ifolio.cloud/medias/pZ/y2/pZy2lTqZpW9PYIaZsXEkkKOll2d1qwVzSToRgjYF.jpg?width=1920",
+        "price": "150,000",
         "fill": "#3953a4",
         "stroke": "#1c2952",
-        "description": "Wet teaching labs will enhance the curriculum of the Environmental Science and Studies Department. The labs will house equipment used in soil and water sampling and analysis, environmental surveying, and other hands-on training for students."
+        "description": "Home to the basketball coaching staffs, this suite unites currently non-adjacent staff. It professionalizes and increases the efficiency of our operations while providing an impressive space for prospective student-athletes and their families as well as alumni. <br> The head coach offices for the men’s and women’s basketball teams are located in close proximity. Sharing a suite with their other staff professionalizes and increases the efficiency of our operations while providing a welcoming space for visitors."
     },
-    "research_lab": {
-        "name": "Enviromental Science & Studies Research Lab Mud Room",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$125,000 each",
+    "VIP Room": {
+        "name": "VIP Room",
+        "img_path": "https://api.ifolio.cloud/medias/LW/wc/LWwcfpR6W7IGz6HQeBvdUo0L4MpWPp4kUqJebJ9S.jpg?width=1920",
+        "price": "$1,500,000",
         "fill": "#fbb03a",
         "stroke": "#c27804",
-        "description": "The labs will house equipment used in soil and water sampling and analysis, environmental surveying and other hands-on training for students. The Mud Room will allow field specimens to be brought into the building for use in lab spaces."
+        "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and catered events. It will also be used as a hospitality area during athletic events for premium seat donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building (CUB)."
     },
-    "student_study": {
-        "name": "Student Study Spaces",
-        "img_path": "../assets/images/Brown_Hall/card_images/BrownHall_StudentStudy.webp",
-        "price": "$20,000 - $50,000",
+    "Athlete": {
+        "name": "Athletic Director Suite",
+        "img_path": "https://api.ifolio.cloud/medias/yV/gw/yVgwHwCvDotwLbATTeQ3QA7LbOCXp1vPE3fuw1ky.jpg?width=1920",
+        "price": "$250,000",
         "fill": "#439544",
         "stroke": "#2b5f2c",
-        "description": "Incorporating a diverse mix of formal and informal spaces, Brown Hall offers student gathering spaces that encourage collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
+        "description": "This new suite provides ample space for the Athletic Director and staff to more efficiently function on a daily basis, improving communications and overall operations. The current office layout is outdated with non-adjacent small offices. The suite and lounge will welcome alumni, donors, prospective student-athletes and families."
     },
-    "play_therapy": {
-        "name": "Play Therapy Classroom",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
+    "Refuel Station": {
+        "name": "Refuel Station",
+        "img_path": "https://api.ifolio.cloud/medias/nl/N5/nlN59uiBCPtoMCuyx84GPqda8nEmyqN4aIowfeVl.jpg?width=1920",
         "price": "$75,000",
         "fill": "#fbb03a",
         "stroke": "#c27804",
-        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), will provide space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County. <br/><br/> The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
+        "description": "Student-athletes can grab quick, nutritious snacks during their busy schedules."
     },
-    "classrooms2": {
-        "name": "Classroom",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "Large or Geographical Information Systems (GIS) Lab $150,000<br/> Medium $100,000, Small $50,000",
+    "Basketball": {
+        "name": "Basketball Coaches Suite",
+        "img_path": "https://api.ifolio.cloud/medias/pZ/y2/pZy2lTqZpW9PYIaZsXEkkKOll2d1qwVzSToRgjYF.jpg?width=1920",
+        "price": "$200,000",
         "fill": "#fbb03a",
         "stroke": "#c27804",
-        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning. The GIS lab will support efforts to emphasize GIS in student training; it is an essential skill for employment in numerous environmental-related fields."
+        "description": "Home to the basketball coaching staffs, this suite unites currently non-adjacent staff. It professionalizes and increases the efficiency of our operations while providing an impressive space for prospective student-athletes and their families as well as alumni."
     },
-    "main_corridor": {
-        "name": "Main Corridor",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$150,000",
+    "Balcony": {
+        "name": "VIP Balcony Seating",
+        "img_path": "https://api.ifolio.cloud/medias/TM/hR/TMhRaOhUm6RhDDPbKKroR3D6DphqbnUGbsWaYyDQ.jpg?width=1920",
+        "price": "$1,000,000",
         "fill": "#3953a4",
         "stroke": "#1c2952",
-        "description": "A variety of student collaborative spaces dot the main corridor and provide entrance to myriad classrooms, labs and offices."
+        "description": "The new balcony provides a VIP-level view to the action on the court, while providing free-flow access to the VIP room. "
     },
-    "body_testing": {
-        "name": "Body Testing Lab",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$75,000",
-        "fill": "#ec2027",
-        "stroke": "#9e0d12",
-        "description": "The Body Testing Lab will enhance curricular offerings and research within the Health Sciences Department."
-    },
-    "offices2": {
-        "name": "Offices",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$15,000 - $20,000",
-        "fill": "#ec2027",
-        "stroke": "#9e0d12",
-        "description": "Second floor offices are home to faculty in Health Sciences, Public Health and Counselor Education."
-    },
-    "smart_lab": {
-        "name": "Smart Lab",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$100,000",
-        "fill": "#439544",
-        "stroke": "#2b5f2c",
-        "description": "The SMART Lab, part of the Center for Optimal Health Across the Lifespan (COHL), is designed to teach and research the efficacy of stress management and resiliency skills within the Volusia County population and Stetson’s student body. The lab targets significant reductions in stress levels, using biofeedback monitors, and can be combined with self-report measures of psychological disorders and indicators of resilience. The SMART Lab is capable of intervening with a wide age of demographics, from children to geriatric, and can be combined with other health initiatives."
-    },
-    "research_pod": {
-        "name": "Smart Lab",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "$100,000",
-        "fill": "#6fccdd",
-        "stroke": "#2998ac",
-        "description": "The ENSS Faculty Research Pod will be the site of research activity and collaborations utilizing GIS and other equipment and software."
-    },
-    "student_study2": {
-        "name": "Student Study Spaces",
-        "img_path": "../assets/images/Brown_Hall/card_images/BrownHall_student_study_f2.webp",
-        "price": "$20,000 - $40,000",
-        "fill": "#439544",
-        "stroke": "#2b5f2c",
-        "description": "Incorporating a diverse mix of formal and informal spaces, the Student Lounge encourages collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
-    }
 }

@@ -4,8 +4,7 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 6960,
     "editor": {
-        "previewMode": 1,
-        "selected_shape": "poly-543",
+        "selected_shape": "rect-3969",
         "tool": "select",
         "currentLayer": "1",
         "shapeCounter": {
@@ -749,14 +748,14 @@
         }
     }, {
         "id": "rect-3969",
-        "title": "VIP Room Copy",
+        "title": "VIP Room",
         "type": "rect",
         "x": 44.304,
-        "y": 33.602,
+        "y": 33.738,
         "width": 20.893,
         "height": 22.818,
         "x_image_background": 44.304,
-        "y_image_background": 33.602,
+        "y_image_background": 33.738,
         "width_image_background": 20.893,
         "height_image_background": 22.818,
         "layerID": "1",
@@ -1040,7 +1039,7 @@
         }]
     }, {
         "id": "poly-2117",
-        "title": "Poly 16",
+        "title": "Athlete",
         "type": "poly",
         "x": 29.068,
         "y": 30.694,
@@ -1194,7 +1193,7 @@
         }]
     }, {
         "id": "rect-2425",
-        "title": "Rect 3",
+        "title": "Basketball",
         "type": "rect",
         "x": 69.164,
         "y": 40.435,
@@ -1376,6 +1375,8 @@
         "y": 25.261,
         "width": 27.378,
         "height": 8.297,
+        "x_image_background": 41.153,
+        "y_image_background": 25.261,
         "layerID": "1",
         "default_style": {
             "background_color": "#667EC1",
