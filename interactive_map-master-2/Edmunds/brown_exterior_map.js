@@ -35,7 +35,7 @@
     },
     "spots": [{
         "id": "poly-1612",
-        "title": "Main Floor",
+        "title": "Floor1",
         "type": "poly",
         "x": 13.117,
         "y": 51.786,
@@ -89,7 +89,7 @@
         }]
     }, {
         "id": "poly-981",
-        "title": "Second Floor",
+        "title": "Floor2",
         "type": "poly",
         "x": 13.032,
         "y": 32.664,
