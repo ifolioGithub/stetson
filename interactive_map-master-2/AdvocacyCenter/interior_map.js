@@ -19,13 +19,13 @@
                 "enable_layers": 1,
                 "layers_list": [{
                     "id": 0,
-                    "title": "Floor1",
+                    "title": "Floor 1",
                     "image_url": "https://api.ifolio.cloud/medias/qa/pM/qapM0bGJRRggdABd2EkkrBn8PknPFrPjWSESlwUM.jpg?width=1366",
                     "image_width": 1366,
                     "image_height": 913
                 }, {
                     "id": 1,
-                    "title": "Floor2",
+                    "title": "Floor 2",
                     "image_url": "https://api.ifolio.cloud/medias/aK/LU/aKLU5XWlah2VQ4UWeXrm4noZcYwge8o3fZnuc5at.jpg?width=1366",
                     "image_width": 1366,
                     "image_height": 913
