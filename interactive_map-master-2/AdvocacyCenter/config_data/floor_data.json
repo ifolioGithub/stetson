@@ -7,19 +7,19 @@
     },
     "FFA": {
         "name": "First Floor Atrium",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
         "price": "$1,250,000",
         "description": "This space is one of the first a patron, student, donor, volunteer sees when entering the Advocacy Institute. It sets the tone for the innovative space to follow throughout the building. Infused with natural light, the donor(s) who name this space will have his/her/their name(s) prominently displayed in the entryway as traffic ascends the staircase. Additional donors to this space will be prominently identified and recognized atop the staircase at the entrance to the Institute."
     },
     "UCR": {
         "name": "Unassigned Conference Room",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
         "price": "$25,000",
         "description": "Meeting spaces for students, faculty, conferences, discussions, etc. are in short supply at the law school. This much needed space adds exponentially to multi-purpose use by several Stetson Law constituents."
     },
     "URA": {
         "name": "Unassigned Reception Room",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
         "price": "$35,000",
         "description": "The need for gathering space for students, faculty, guests, and others is in high demand at Stetson Law. This designated reception area provides the perfect meeting space for small groups to assemble."
     },
@@ -31,7 +31,7 @@
     },
     "Delib": {
         "name": "Delliberation Jury Room",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
         "price": "$50,000",
         "description": ""
     },
@@ -43,25 +43,25 @@
     },
     "ACCR": {
         "name": "Advocacy Center Conference Room",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
         "price": "$40,000",
         "description": "This Advocacy Institute Conference Room has been strategically located in a high traffic area to accommodate interaction between and among larger groups. It is anticipated it will be used by students, faculty, Advocacy teams and many others who require a larger space to facilitate discussion, practice, and exchange ideas."
     },
     "OfficeL": {
         "name": "Large & Medium Offices",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
         "price": "L: $40,000 <br>M: $30,000",
         "description": "These second-floor office spaces have been designated for the Advocacy Center and designed to promote student and faculty interaction. (Additional centers including Biodiversity will be accommodated in the new building, but exact space has yet to be formalized.) Guests to the Institute will find this to be the perfect workspace for providing faculty support to the various components of the Institute.  This is prime name opportunities for individuals wishing to honor professors, family members, programs, firms, and others as we build the Stetson Law’s advocacy legacy for the future."
     },
     "OfficeS": {
         "name": "Small Offices",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
         "price": "$25,000",
         "description": "These second-floor office spaces have been designated for the Advocacy Center and designed to promote student and faculty interaction. (Additional centers including Biodiversity will be accommodated in the new building, but exact space has yet to be formalized.) Guests to the Institute will find this to be the perfect workspace for providing faculty support to the various components of the Institute.  This is prime name opportunities for individuals wishing to honor professors, family members, programs, firms, and others as we build the Stetson Law’s advocacy legacy for the future."
     },
     "JRNL": {
         "name": "Journal of Advocacy & Law Workspace",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
         "price": "$10,000",
         "description": ""
     },
