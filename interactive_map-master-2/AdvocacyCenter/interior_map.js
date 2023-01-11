@@ -5,7 +5,6 @@
     "id": 392,
     "editor": {
         "tool": "select",
-        "currentLayer": "1",
         "shapeCounter": {
             "rects": 9,
             "polys": 6
@@ -213,7 +212,7 @@
         }
     }, {
         "id": "rect-6736",
-        "title": "Rect 2",
+        "title": "FFA",
         "type": "rect",
         "x": 85.434,
         "y": 22.139,
