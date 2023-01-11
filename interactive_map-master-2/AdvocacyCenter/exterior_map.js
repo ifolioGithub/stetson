@@ -1,229 +1,181 @@
 ;(function ($, window, document, undefined) {
     $(document).ready(function() {
         $('#image-map-pro-container').imageMapPro({
-            "id": 3226,
-            "editor": {
-                "tool": "text",
-                "currentLayer": 7,
-                "shapeCounter": {
-                    "spots": 5,
-                    "rects": 3,
-                    "ovals": 7,
-                    "polys": 45,
-                    "texts": 8,
-                    "paths": 10
-                }
-            },
-            "general": {
-                "name": "brown_hall_exterior",
-                "shortcode": "brown_hall",
-                "width": 3024,
-                "height": 1632,
-                "naturalWidth": 3024,
-                "naturalHeight": 1632
-            },
-            "image": {
-                "url": "../assets/images/Brown_Hall/floorplan/StetsonU_BrownHall_Exterior01_Interactive_large.jpg"
-            },
-            "layers": {
-                "layers_list": [{
-                    "id": 7,
-                    "title": "Exterior",
-                    "image_url": "../assets/images/Brown_Hall/floorplan/StetsonU_BrownHall_Exterior01_Interactive_large.jpg",
-                    "image_width": 3024,
-                    "image_height": 1632
-                }]
-            },
-            "spots": [{
-                "id": "poly-4408",
-                "title": "Floor 2",
-                "type": "poly",
-                "x": 0,
-                "y": 29.089,
-                "width": 99.88,
-                "height": 35.368,
-                "x_image_background": 0,
-                "y_image_background": 29.089,
-                "layerID": "7",
-                "default_style": {
-                    "background_color": "#105e31",
-                    "background_opacity": 0
-                },
-                "mouseover_style": {
-                    "background_color": "#105e31",
-                    "background_opacity": 0.6991185897435898
-                },
-                "tooltip_style": {
-                    "position": "left",
-                    "width": 250,
-                    "auto_width": 0,
-                    "offset_x": 64.01654411764706,
-                    "offset_y": 3.235932093425596
-                },
-                "tooltip_content": {
-                    "squares_settings": {
-                        "containers": [{
-                            "id": "sq-container-613701",
+    "id": 8092,
+    "editor": {
+        "selected_shape": "poly-418",
+        "tool": "poly",
+        "shapeCounter": {
+            "polys": 2
+        }
+    },
+    "general": {
+        "name": "Exterior",
+        "shortcode": "Exterior",
+        "width": 1366,
+        "height": 738,
+        "naturalWidth": 1366,
+        "naturalHeight": 738
+    },
+    "image": {
+        "url": "https://api.ifolio.cloud/medias/8f/vN/8fvNKc8EEfqjdjfpwxZwuOxicrfCleTNxyWKNwAZ.jpg?width=1366"
+    },
+    "spots": [{
+        "id": "poly-418",
+        "title": "Floor 2",
+        "type": "poly",
+        "x": 3.77,
+        "y": 2.029,
+        "width": 96.23,
+        "height": 66.867,
+        "default_style": {
+            "background_color": "#82c449",
+            "background_opacity": 0.10082799145299146
+        },
+        "mouseover_style": {
+            "background_color": "#82c449",
+            "background_opacity": 0.7333066239316239
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
                             "settings": {
-                                "elements": [{
-                                    "settings": {
-                                        "name": "Heading",
-                                        "iconClass": "fa fa-header"
-                                    },
-                                    "options": {
-                                        "heading": {
-                                            "text": "Main Corridor, Offices, Research Labs, Classrooms, Student Study Spaces"
-                                        }
-                                    }
-                                }]
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 0"
+                                }
                             }
                         }]
                     }
-                },
-                "points": [{
-                    "x": 0.1201923076923077,
-                    "y": 40.880503144654085
-                }, {
-                    "x": 26.802884615384613,
-                    "y": 54.088050314465406
-                }, {
-                    "x": 37.37980769230769,
-                    "y": 17.610062893081754
-                }, {
-                    "x": 51.081730769230774,
-                    "y": 27.0440251572327
-                }, {
-                    "x": 64.30288461538461,
-                    "y": 0
-                }, {
-                    "x": 99.8798076923077,
-                    "y": 40.25157232704402
-                }, {
-                    "x": 100,
-                    "y": 57.23270440251572
-                }, {
-                    "x": 97.11538461538461,
-                    "y": 57.23270440251572
-                }, {
-                    "x": 97.23557692307693,
-                    "y": 99.37106918238992
-                }, {
-                    "x": 87.86057692307693,
-                    "y": 98.11320754716984
-                }, {
-                    "x": 71.27403846153845,
-                    "y": 93.71069182389937
-                }, {
-                    "x": 59.61538461538461,
-                    "y": 93.08176100628933
-                }, {
-                    "x": 50.36052884615384,
-                    "y": 96.22674353598883
-                }, {
-                    "x": 37.5,
-                    "y": 94.96855345911953
-                }, {
-                    "x": 27.163461538461537,
-                    "y": 100
-                }, {
-                    "x": 0,
-                    "y": 99.99973584905659
                 }]
-            }, {
-                "id": "poly-7190",
-                "title": "Floor 1",
-                "type": "poly",
-                "x": 0.12,
-                "y": 62.011,
-                "width": 96.879,
-                "height": 21.132,
-                "x_image_background": 0.12,
-                "y_image_background": 62.011,
-                "width_image_background": 96.87875150060023,
-                "height_image_background": 21.131982204646565,
-                "layerID": "7",
-                "default_style": {
-                    "background_color": "#8bc540",
-                    "background_opacity": 0
-                },
-                "mouseover_style": {
-                    "background_color": "#8bc540",
-                    "background_opacity": 0.6837606837606838
-                },
-                "tooltip_style": {
-                    "position": "left",
-                    "width": 260,
-                    "auto_width": 0,
-                    "offset_x": 43.396469087635055,
-                    "offset_y": 0.11111906821551543
-                },
-                "tooltip_content": {
-                    "squares_settings": {
-                        "containers": [{
-                            "id": "sq-container-701631",
+            }
+        },
+        "points": [{
+            "x": 0,
+            "y": 25.063478260869566
+        }, {
+            "x": 21.76278563656148,
+            "y": 25.217391304347824
+        }, {
+            "x": 21.436343852013056,
+            "y": 19.130434782608695
+        }, {
+            "x": 18.063112078346027,
+            "y": 18.550724637681157
+        }, {
+            "x": 17.845484221980414,
+            "y": 14.782608695652174
+        }, {
+            "x": 36.235038084874866,
+            "y": 0
+        }, {
+            "x": 38.52013057671382,
+            "y": 0.2898550724637681
+        }, {
+            "x": 56.03917301414582,
+            "y": 14.492753623188406
+        }, {
+            "x": 55.82154515778019,
+            "y": 18.260869565217387
+        }, {
+            "x": 53.64526659412405,
+            "y": 17.97101449275362
+        }, {
+            "x": 53.42763873775843,
+            "y": 25.507246376811594
+        }, {
+            "x": 99.78237214363439,
+            "y": 26.3768115942029
+        }, {
+            "x": 100,
+            "y": 71.59420289855073
+        }, {
+            "x": 33.51468988030468,
+            "y": 100
+        }, {
+            "x": 31.229597388465724,
+            "y": 96.52173913043478
+        }, {
+            "x": 28.726877040261158,
+            "y": 98.26086956521739
+        }, {
+            "x": 1.1969532100108813,
+            "y": 66.08695652173913
+        }]
+    }, {
+        "id": "poly-8962",
+        "title": "Floor 1",
+        "type": "poly",
+        "x": 5.34,
+        "y": 46.995,
+        "width": 94.555,
+        "height": 46.129,
+        "default_style": {
+            "background_color": "#439544",
+            "background_opacity": 0
+        },
+        "mouseover_style": {
+            "background_color": "#439544",
+            "background_opacity": 0.7350427350427351
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
                             "settings": {
-                                "elements": [{
-                                    "settings": {
-                                        "name": "Heading",
-                                        "iconClass": "fa fa-header"
-                                    },
-                                    "options": {
-                                        "heading": {
-                                            "text": "Lobby, The Connector, Teaching Labs, Research Labs, Offices, Student Study Spaces"
-                                        }
-                                    }
-                                }]
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 1"
+                                }
                             }
                         }]
                     }
-                },
-                "points": [{
-                    "x": 0.000049566294919471385,
-                    "y": 88.42105263157897
-                }, {
-                    "x": 0,
-                    "y": 12.635211695906456
-                }, {
-                    "x": 27.63320941759603,
-                    "y": 11.577847953216343
-                }, {
-                    "x": 38.28996282527881,
-                    "y": 3.1573450292397665
-                }, {
-                    "x": 51.42503097893433,
-                    "y": 6.315789473684212
-                }, {
-                    "x": 60.966542750929364,
-                    "y": 0
-                }, {
-                    "x": 71.25154894671624,
-                    "y": 1.0499906432748591
-                }, {
-                    "x": 90.45848822800494,
-                    "y": 9.475775438596521
-                }, {
-                    "x": 100,
-                    "y": 12.631578947368425
-                }, {
-                    "x": 99.62825278810409,
-                    "y": 71.57894736842107
-                }, {
-                    "x": 90.33457249070632,
-                    "y": 74.73684210526315
-                }, {
-                    "x": 64.80793060718712,
-                    "y": 100
-                }, {
-                    "x": 57.49690210656754,
-                    "y": 88.42105263157897
-                }, {
-                    "x": 38.413878562577445,
-                    "y": 96.84210526315786
-                }, {
-                    "x": 28.004956629491947,
-                    "y": 78.94736842105262
                 }]
-            }]
-        });
+            }
+        },
+        "points": [{
+            "x": 26.466306755260234,
+            "y": 100
+        }, {
+            "x": 0.9966777408637871,
+            "y": 50.4195285877795
+        }, {
+            "x": 0,
+            "y": 0
+        }, {
+            "x": 27.796539313399784,
+            "y": 44.11806259329425
+        }, {
+            "x": 29.457364341085267,
+            "y": 42.436436561381086
+        }, {
+            "x": 31.782945736434108,
+            "y": 45.79773846723306
+        }, {
+            "x": 99.88925802879291,
+            "y": 6.722603811703931
+        }, {
+            "x": 100,
+            "y": 41.59611108491809
+        }]
+    }]
+});
     });
 })(jQuery, window, document);
