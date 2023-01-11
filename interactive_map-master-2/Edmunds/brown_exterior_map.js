@@ -3,7 +3,7 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 2481,
     "editor": {
-        "selected_shape": "poly-1612",
+        "previewMode": 1,
         "tool": "select",
         "shapeCounter": {
             "spots": 1,
@@ -17,12 +17,12 @@
         "name": "Exterior",
         "shortcode": "Exterior",
         "width": 1920,
-        "height": 1052,
+        "height": 1037,
         "naturalWidth": 1920,
-        "naturalHeight": 1052
+        "naturalHeight": 1037
     },
     "image": {
-        "url": "https://api.ifolio.cloud/medias/bW/cf/bWcfovhFG38qXa16A0GkrHQJH2ICh2RORAQQbzxY.jpg?width=1920"
+        "url": "https://api.ifolio.cloud/medias/4t/i2/4ti2EGb1xmipR8BTpIPu0Q8QE1jnrDjddJmfoY6A.jpg?width=1920"
     },
     "layers": {
         "layers_list": [{
@@ -35,7 +35,7 @@
     },
     "spots": [{
         "id": "poly-1612",
-        "title": "Floor1",
+        "title": "Floor 1",
         "type": "poly",
         "x": 13.117,
         "y": 51.786,
@@ -89,7 +89,7 @@
         }]
     }, {
         "id": "poly-981",
-        "title": "Floor2",
+        "title": "Floor 2",
         "type": "poly",
         "x": 13.032,
         "y": 32.664,
@@ -141,166 +141,6 @@
             "x": 0.0010616676481580228,
             "y": 100
         }]
-    }, {
-        "id": "oval-292",
-        "title": "BottomO",
-        "type": "oval",
-        "x": 44.463,
-        "y": 53.964,
-        "width": 4.003,
-        "height": 7.306,
-        "x_image_background": 44.463,
-        "y_image_background": 53.964,
-        "width_image_background": 4.003,
-        "height_image_background": 7.306,
-        "connected_to": "poly-1612",
-        "default_style": {
-            "background_color": "#ffffff",
-            "background_opacity": 0.7760416666666666,
-            "border_width": 3,
-            "border_color": "#006937"
-        },
-        "mouseover_style": {
-            "background_opacity": 1
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Oval 0"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
-    }, {
-        "id": "text-8573",
-        "title": "txt1",
-        "type": "text",
-        "x": 45.741,
-        "y": 54.586,
-        "x_image_background": 45.741,
-        "y_image_background": 54.586,
-        "text": {
-            "text": "1\n",
-            "font_family": "Avenir",
-            "font_size": 30,
-            "font_weight": 800,
-            "text_color": "#006937"
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Text 0"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
-    }, {
-        "id": "oval-7280",
-        "title": "TopO",
-        "type": "oval",
-        "x": 78.023,
-        "y": 36.708,
-        "width": 4.003,
-        "height": 7.306,
-        "x_image_background": 78.023,
-        "y_image_background": 36.708,
-        "width_image_background": 4.003,
-        "height_image_background": 7.306,
-        "connected_to": "poly-981",
-        "default_style": {
-            "background_color": "#ffffff",
-            "background_opacity": 0.7948717948717948,
-            "border_width": 3,
-            "border_color": "#006937"
-        },
-        "mouseover_style": {
-            "background_opacity": 1
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Oval 0"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
-    }, {
-        "id": "text-8825",
-        "title": "txt2",
-        "type": "text",
-        "x": 79.387,
-        "y": 37.33,
-        "x_image_background": 79.387,
-        "y_image_background": 37.33,
-        "text": {
-            "text": "2\n",
-            "font_family": "Avenir",
-            "font_size": 30,
-            "font_weight": 800,
-            "text_color": "#006937"
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Text 0"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
     }]
 });
     });
