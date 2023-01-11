@@ -4,13 +4,12 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 6960,
     "editor": {
-        "previewMode": 1,
-        "selected_shape": "poly-7964",
-        "tool": "poly",
+        "tool": "select",
+        "currentLayer": "1",
         "shapeCounter": {
             "spots": 1,
             "rects": 4,
-            "polys": 28,
+            "polys": 29,
             "texts": 2,
             "paths": 1
         }
@@ -45,25 +44,25 @@
         "id": "poly-9307",
         "title": "Cafe",
         "type": "poly",
-        "x": 67.291,
+        "x": 67.186,
         "y": 54.429,
         "width": 8.262,
-        "height": 8.038,
-        "x_image_background": 67.29131175468484,
-        "y_image_background": 54.70071135332676,
+        "height": 7.368,
+        "x_image_background": 67.291,
+        "y_image_background": 54.429,
         "width_image_background": 8.262350936967632,
         "height_image_background": 7.766039361816723,
         "default_style": {
             "background_color": "#9ACF55",
             "background_opacity": 0.18629807692307693,
             "stroke_color": "#9ACF55",
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#9ACF55",
             "stroke_color": "#9ACF55",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -89,16 +88,16 @@
             }
         },
         "points": [{
-            "x": 75.93657731958747,
-            "y": 0.4170746194691121
+            "x": 77.20745604144655,
+            "y": 0.4550007860060428
         }, {
             "x": 100,
-            "y": 94.91494261994448
+            "y": 98.99922757588402
         }, {
             "x": 0,
             "y": 100
         }, {
-            "x": 0,
+            "x": 1.2708787218591622,
             "y": 0
         }]
     }, {
@@ -112,18 +111,18 @@
         "x_image_background": 26.034,
         "y_image_background": 32.159,
         "default_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.21193910256410256,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.7094017094017094,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -178,17 +177,17 @@
         "x_image_background": 36.542,
         "y_image_background": 61.922,
         "default_style": {
-            "background_color": "#667EC1",
+            "background_color": "#4353a4",
             "background_opacity": 0.2204861111111111,
-            "stroke_color": "#667EC1",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8290598290598291,
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#667EC1",
+            "background_color": "#2f4486",
             "background_opacity": 0.6734775641025641,
-            "stroke_color": "#667EC1",
-            "stroke_opacity": 1,
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8376068376068376,
             "stroke_width": 3
         },
         "tooltip": {
@@ -234,23 +233,23 @@
         "id": "poly-6537",
         "title": "Retail",
         "type": "poly",
-        "x": 75.128,
+        "x": 75.442,
         "y": 61.513,
-        "width": 6.303,
+        "width": 5.989,
         "height": 15.124,
         "x_image_background": 75.128,
         "y_image_background": 61.513,
         "default_style": {
-            "background_color": "#F1AD48",
+            "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
-            "stroke_color": "#F1AD48",
+            "stroke_color": "#f59605",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#F1AD48",
+            "background_color": "#fbb03a",
             "background_opacity": 0.6752136752136753,
-            "stroke_color": "#F1AD48",
+            "stroke_color": "#f59605",
             "stroke_width": 3
         },
         "tooltip": {
@@ -281,9 +280,9 @@
             "y": 0
         }, {
             "x": 0,
-            "y": 0.001628594854143357
+            "y": 2.216651075679316
         }, {
-            "x": 62.1578650367499,
+            "x": 65.41676796237039,
             "y": 100
         }]
     }, {
@@ -300,15 +299,15 @@
             "background_color": "#E73A42",
             "background_opacity": 0.19484508547008547,
             "stroke_color": "#E73A42",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_opacity": 0.8205128205128205,
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.7094017094017094,
             "stroke_color": "#E73A42",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -515,28 +514,28 @@
         "title": "Office 5",
         "type": "rect",
         "x": 69.232,
-        "y": 31.066,
+        "y": 30.45,
         "width": 7.78,
-        "height": 9.22,
+        "height": 9.836,
         "x_image_background": 69.232,
-        "y_image_background": 31.066,
+        "y_image_background": 30.45,
         "width_image_background": 7.78,
-        "height_image_background": 9.22,
+        "height_image_background": 9.836,
         "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.2204861111111111,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
+            "border_width": 5,
+            "border_color": "#3fbbd2"
         },
         "mouseover_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.6666666666666666,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
+            "border_width": 5,
+            "border_color": "#3fbbd2"
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -565,28 +564,28 @@
         "id": "rect-3969",
         "title": "VIPRoom",
         "type": "rect",
-        "x": 44.304,
-        "y": 33.738,
+        "x": 44.4,
+        "y": 33.584,
         "width": 20.893,
         "height": 22.818,
-        "x_image_background": 44.304,
-        "y_image_background": 33.738,
+        "x_image_background": 44.4,
+        "y_image_background": 33.584,
         "width_image_background": 20.893,
         "height_image_background": 22.818,
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#9ACF55",
+            "background_color": "#439544",
             "background_opacity": 0.22903311965811965,
-            "border_width": 3,
-            "border_color": "#9ACF55"
+            "border_width": 5,
+            "border_color": "#82c449"
         },
         "mouseover_style": {
             "border_radius": 0,
-            "background_color": "#9ACF55",
+            "background_color": "#82c449",
             "background_opacity": 0.6923076923076923,
-            "border_width": 3,
-            "border_color": "#9ACF55"
+            "border_width": 5,
+            "border_color": "#82c449"
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -615,28 +614,30 @@
         "id": "rect-8881",
         "title": "Office",
         "type": "rect",
-        "x": 65.197,
-        "y": 40.055,
+        "x": 65.101,
+        "y": 40.222,
         "width": 4.034,
         "height": 16.365,
-        "x_image_background": 65.197,
-        "y_image_background": 40.055,
+        "x_image_background": 65.101,
+        "y_image_background": 40.222,
         "width_image_background": 4.034,
         "height_image_background": 16.365,
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.20339209401709402,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
+            "border_width": 5,
+            "border_color": "#3fbbd2",
+            "border_opacity": 0.7863247863247863
         },
         "mouseover_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.6563835470085471,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
+            "border_width": 5,
+            "border_color": "#3fbbd2",
+            "border_opacity": 0.7863247863247863
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -677,9 +678,9 @@
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.18803418803418803,
-            "border_width": 3,
+            "border_width": 5,
             "border_color": "#7ACFDD"
         },
         "mouseover_style": {
@@ -725,17 +726,17 @@
         "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.18629807692307693,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.6752136752136753,
-            "stroke_color": "#7ACFDD",
-            "stroke_width": 3
+            "stroke_color": "#3fbbd2",
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -798,17 +799,17 @@
         "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
-            "background_color": "#7ACFDD",
-            "stroke_color": "#7ACFDD",
+            "background_color": "#6fccdd",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.7350427350427351,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -857,23 +858,24 @@
         "title": "Athlete",
         "type": "poly",
         "x": 29.068,
-        "y": 30.694,
+        "y": 30.847,
         "width": 15.274,
-        "height": 15.212,
+        "height": 15.213,
         "x_image_background": 29.068,
-        "y_image_background": 30.694,
+        "y_image_background": 30.848,
         "layerID": "1",
         "default_style": {
-            "background_color": "#E73A42",
-            "stroke_color": "#E73A42",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "background_color": "#ec2027",
+            "background_opacity": 0.24612713675213677,
+            "stroke_color": "#cd1118",
+            "stroke_opacity": 0.811965811965812,
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.6905715811965812,
             "stroke_color": "#E73A42",
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -900,46 +902,46 @@
         },
         "points": [{
             "x": 0,
-            "y": 18.18124440662201
+            "y": 18.18686381676738
         }, {
-            "x": 37.7352452830189,
-            "y": 18.184400170200917
+            "x": 37.735245283018905,
+            "y": 18.190019363604645
         }, {
-            "x": 37.7352452830189,
-            "y": 59.09220008510041
+            "x": 37.735245283018905,
+            "y": 59.09500968180228
         }, {
-            "x": 61.321358490566006,
-            "y": 59.08878216199689
+            "x": 61.32135849056599,
+            "y": 59.09159199344579
         }, {
-            "x": 61.321358490566006,
+            "x": 61.32135849056599,
+            "y": 0.006868119790640869
+        }, {
+            "x": 75.15682093877619,
             "y": 0
         }, {
-            "x": 74.52830188679243,
-            "y": 3.030207401103657
-        }, {
-            "x": 74.52830188679243,
-            "y": 12.120567444890028
+            "x": 74.52830188679245,
+            "y": 12.126603109589233
         }, {
             "x": 100,
-            "y": 12.120567444890028
+            "y": 12.126603109589233
         }, {
             "x": 99.05660377358487,
-            "y": 72.72497762648807
+            "y": 70.70227263928422
         }, {
             "x": 87.73584905660378,
-            "y": 74.2400813270399
+            "y": 70.19269401228556
         }, {
             "x": 87.73584905660378,
-            "y": 81.81533767027439
+            "y": 82.8288757488734
         }, {
-            "x": 30.18867924528304,
-            "y": 83.33385929392976
+            "x": 30.188679245283044,
+            "y": 83.3350039444379
         }, {
-            "x": 30.18867924528304,
+            "x": 30.188679245283044,
             "y": 100
         }, {
-            "x": 0.0006037735849184642,
-            "y": 99.9968442364211
+            "x": 0.0006037735849235929,
+            "y": 99.9968444531627
         }]
     }, {
         "id": "poly-1058",
@@ -959,14 +961,14 @@
             "background_opacity": 0.21367521367521367,
             "stroke_color": "#F1AD48",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#F1AD48",
             "background_opacity": 0.6905715811965812,
             "stroke_color": "#F1AD48",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1025,17 +1027,19 @@
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#E73A42",
-            "background_opacity": 0.19484508547008547,
-            "border_width": 3,
-            "border_color": "#E73A42"
+            "background_color": "#ec2027",
+            "background_opacity": 0.23076923076923078,
+            "border_width": 5,
+            "border_color": "#cd1113",
+            "border_opacity": 0.7008547008547008
         },
         "mouseover_style": {
             "border_radius": 0,
-            "background_color": "#E73A42",
+            "background_color": "#ec2027",
             "background_opacity": 0.7162126068376068,
-            "border_width": 3,
-            "border_color": "#E73A42"
+            "border_width": 5,
+            "border_color": "#cd1113",
+            "border_opacity": 0.8290598290598291
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1072,18 +1076,18 @@
         "y_image_background": 30.579,
         "layerID": "1",
         "default_style": {
-            "background_color": "#BFE098",
+            "background_color": "#439544",
             "background_opacity": 0.19484508547008547,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#BFE098",
+            "background_color": "#82c449",
             "background_opacity": 0.7008547008547008,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip_content": {
             "squares_settings": {
@@ -1129,24 +1133,24 @@
         "title": "MHeadCoach",
         "type": "poly",
         "x": 65.178,
-        "y": 31.907,
+        "y": 32.215,
         "width": 4.179,
-        "height": 8.066,
+        "height": 7.758,
         "x_image_background": 65.178,
         "y_image_background": 31.907,
         "connected_to": "poly-6952",
         "layerID": "1",
         "default_style": {
-            "background_color": "#BFE098",
+            "background_color": "#439544",
             "background_opacity": 0.16920405982905984,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#BFE098",
+            "background_color": "#82c449",
             "background_opacity": 0.7247596153846154,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 0.9636752136752137,
             "stroke_width": 3
         },
@@ -1175,9 +1179,9 @@
         },
         "points": [{
             "x": 0,
-            "y": 2.8637445524229075
+            "y": 0.9923902500442141
         }, {
-            "x": 96.55164803637062,
+            "x": 98.84884832352053,
             "y": 0
         }, {
             "x": 100,
@@ -1198,18 +1202,18 @@
         "y_image_background": 25.261,
         "layerID": "1",
         "default_style": {
-            "background_color": "#667EC1",
+            "background_color": "#4353a4",
             "background_opacity": 0.20339209401709402,
-            "stroke_color": "#667EC1",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8034188034188035,
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#667EC1",
+            "background_color": "#4353a4",
             "background_opacity": 0.7076655982905983,
-            "stroke_color": "#667EC1",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8205128205128205,
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1313,15 +1317,15 @@
         "default_style": {
             "background_color": "#7ACFDD",
             "background_opacity": 0.20339209401709402,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.6820245726495726,
-            "stroke_color": "#7ACFDD",
-            "stroke_width": 3
+            "stroke_color": "#3fbbd2",
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1373,18 +1377,18 @@
         "height_image_background": 2.4524334826789653,
         "connected_to": "poly-2747",
         "default_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.18629807692307693,
-            "stroke_color": "#7ACFDD",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_color": "#3fbbd2",
+            "stroke_opacity": 0.8376068376068376,
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.7076655982905983,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1433,11 +1437,11 @@
         "x_image_background": 65.673,
         "y_image_background": 43.393,
         "default_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.20339209401709402,
-            "stroke_color": "#7ACFDD",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_color": "#3fbbd2",
+            "stroke_opacity": 0.7264957264957265,
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#7ACFDD",
@@ -1495,18 +1499,18 @@
         "width_image_background": 25.253,
         "height_image_background": 22.889,
         "default_style": {
-            "background_color": "#BFE098",
+            "background_color": "#439544",
             "background_opacity": 0.19484508547008547,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 0.9970619658119658,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#BFE098",
+            "background_color": "#82c449",
             "background_opacity": 0.7435897435897436,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1532,62 +1536,62 @@
             }
         },
         "points": [{
-            "x": 0.4246227926883527,
-            "y": 18.67568447476917
+            "x": 0.4246227926883618,
+            "y": 18.67568447476916
         }, {
             "x": 0,
-            "y": 0.7851269890720334
+            "y": 0.7851269890720276
         }, {
-            "x": 34.90032377108482,
-            "y": 0.5974608469724343
+            "x": 34.90032377108481,
+            "y": 0.5974608469724324
         }, {
-            "x": 34.56444373537186,
-            "y": 14.286999440295697
+            "x": 34.56444373537184,
+            "y": 14.286999440295709
         }, {
-            "x": 33.553032259728354,
-            "y": 29.411199527917383
+            "x": 33.55303225972835,
+            "y": 29.41119952791737
         }, {
-            "x": 66.30845413432,
-            "y": 29.628937135031723
+            "x": 66.30845413431999,
+            "y": 29.62893713503172
         }, {
-            "x": 66.68051687606992,
-            "y": 14.904940089285246
+            "x": 66.68051687606989,
+            "y": 14.904940089285255
         }, {
-            "x": 34.96179676936654,
-            "y": 12.799077777545204
+            "x": 34.96179676936652,
+            "y": 14.26266290577275
         }, {
-            "x": 34.90244874018003,
-            "y": 0.595244116051622
+            "x": 34.90244874018002,
+            "y": 0.5952441160516136
         }, {
             "x": 100,
             "y": 0
         }, {
-            "x": 99.66270331822355,
-            "y": 19.04895236870858
+            "x": 99.66270331822352,
+            "y": 19.048952368708587
         }, {
-            "x": 92.24217631914203,
-            "y": 18.45370825265696
+            "x": 92.24217631914198,
+            "y": 18.45370825265694
         }, {
-            "x": 92.24217631914203,
-            "y": 69.04945811704384
+            "x": 92.24217631914198,
+            "y": 69.04945811704383
         }, {
-            "x": 97.97834487843656,
+            "x": 97.97834487843652,
             "y": 69.05161026877144
         }, {
-            "x": 97.97621990934135,
+            "x": 97.97621990934134,
             "y": 100
         }, {
-            "x": 0.834775557728492,
-            "y": 97.62117568752113
+            "x": 0.8347755577284809,
+            "y": 97.6211756875211
         }, {
-            "x": 0.49818719898378555,
+            "x": 0.4981871989837754,
             "y": 70.83626654106251
         }, {
-            "x": 6.905407506672575,
+            "x": 6.90540750667257,
             "y": 70.24209850087466
         }, {
-            "x": 6.5688191479278695,
-            "y": 19.04895236870858
+            "x": 6.568819147927865,
+            "y": 19.048952368708587
         }]
     }]
 });
