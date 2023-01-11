@@ -1270,38 +1270,6 @@
             "y": 58.33092246503575
         }]
     }, {
-        "id": "text-2035",
-        "title": "Basketball",
-        "type": "text",
-        "x": 84.438,
-        "y": 60.948,
-        "x_image_background": 84.438,
-        "y_image_background": 60.948,
-        "layerID": "1",
-        "text": {
-            "text": "Basketball Suite\n"
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Text 1"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
-    }, {
         "id": "poly-9318",
         "title": "Display2",
         "type": "poly",
