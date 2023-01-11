@@ -1,7 +1,7 @@
 {
     "ATG": {
         "name": "Awards & Trophies Gallery",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/yH/lu/yHluRQWh9oSFpVgx8b2eHBsLvBUrjCoFG2AZd9PK.jpg?width=1366",
         "price": "$500,000",
         "description": "This area will be used to display the many awards and trophies that Stetson Law has earned over its 120+ year history. The displays are designed to adjust easily for the addition of new awards."
     },
@@ -25,7 +25,7 @@
     },
     "SFPC": {
         "name": "Second Floor Practice Courtroom",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/yH/lu/yHluRQWh9oSFpVgx8b2eHBsLvBUrjCoFG2AZd9PK.jpg?width=1366",
         "price": "$250,000 each",
         "description": "In these practice courtrooms, law students will work with faculty to hone their litigation skills, the hallmark of a Stetson Law graduate. These spaces will also be used to hold the various on-campus competitions that Stetson Law hosts and/or participates in. "
     },
@@ -36,8 +36,8 @@
         "description": ""
     },
     "Collab": {
-        "name": "Collaboration hall",
-        "img_path": "",
+        "name": "Collaboration Hall",
+        "img_path": "https://api.ifolio.cloud/medias/JO/bL/JObLFUHIdVioGeszoCOGNSPjiHAqqX8VgugAfhht.jpg?width=1366",
         "price": "$150,000",
         "description": "There are two Collaboration Halls in the new Advocacy Institute. These areas will serve as space for law students and faculty to gather and discuss classes, projects, or competition strategies, or simply to socialize. "
     },
@@ -67,7 +67,7 @@
     },
     "CLH": {
         "name": "Classroom / Lecture JHall",
-        "img_path": "",
+        "img_path": "https://api.ifolio.cloud/medias/fj/tF/fjtFZfya73B0G1l7Z2Vp9LUTlLQ4gGsThesBFuY9.jpg?width=1366",
         "price": "$300,000",
         "description": "The Advocacy Institute features new classrooms that will afford students the opportunity to learn from our nationally renowned faculty using state-of-the-art technology."
     }
