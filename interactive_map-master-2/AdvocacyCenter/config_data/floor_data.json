@@ -1,0 +1,74 @@
+{
+    "ATG": {
+        "name": "Awards & Trophies Gallery",
+        "img_path": "https://api.ifolio.cloud/medias/yH/lu/yHluRQWh9oSFpVgx8b2eHBsLvBUrjCoFG2AZd9PK.jpg?width=1366",
+        "price": "$500,000",
+        "description": "This area will be used to display the many awards and trophies that Stetson Law has earned over its 120+ year history. The displays are designed to adjust easily for the addition of new awards."
+    },
+    "FFA": {
+        "name": "First Floor Atrium",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
+        "price": "$1,250,000",
+        "description": "This space is one of the first a patron, student, donor, volunteer sees when entering the Advocacy Institute. It sets the tone for the innovative space to follow throughout the building. Infused with natural light, the donor(s) who name this space will have his/her/their name(s) prominently displayed in the entryway as traffic ascends the staircase. Additional donors to this space will be prominently identified and recognized atop the staircase at the entrance to the Institute."
+    },
+    "UCR": {
+        "name": "Unassigned Conference Room",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
+        "price": "$25,000",
+        "description": "Meeting spaces for students, faculty, conferences, discussions, etc. are in short supply at the law school. This much needed space adds exponentially to multi-purpose use by several Stetson Law constituents."
+    },
+    "URA": {
+        "name": "Unassigned Reception Room",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
+        "price": "$35,000",
+        "description": "The need for gathering space for students, faculty, guests, and others is in high demand at Stetson Law. This designated reception area provides the perfect meeting space for small groups to assemble."
+    },
+    "SFPC": {
+        "name": "Second Floor Practice Courtroom",
+        "img_path": "https://api.ifolio.cloud/medias/yH/lu/yHluRQWh9oSFpVgx8b2eHBsLvBUrjCoFG2AZd9PK.jpg?width=1366",
+        "price": "$250,000 each",
+        "description": "In these practice courtrooms, law students will work with faculty to hone their litigation skills, the hallmark of a Stetson Law graduate. These spaces will also be used to hold the various on-campus competitions that Stetson Law hosts and/or participates in. "
+    },
+    "Delib": {
+        "name": "Delliberation Jury Room",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
+        "price": "$50,000",
+        "description": ""
+    },
+    "Collab": {
+        "name": "Collaboration Hall",
+        "img_path": "https://api.ifolio.cloud/medias/JO/bL/JObLFUHIdVioGeszoCOGNSPjiHAqqX8VgugAfhht.jpg?width=1366",
+        "price": "$150,000",
+        "description": "There are two Collaboration Halls in the new Advocacy Institute. These areas will serve as space for law students and faculty to gather and discuss classes, projects, or competition strategies, or simply to socialize. "
+    },
+    "ACCR": {
+        "name": "Advocacy Center Conference Room",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
+        "price": "$40,000",
+        "description": "This Advocacy Institute Conference Room has been strategically located in a high traffic area to accommodate interaction between and among larger groups. It is anticipated it will be used by students, faculty, Advocacy teams and many others who require a larger space to facilitate discussion, practice, and exchange ideas."
+    },
+    "OfficeL": {
+        "name": "Large & Medium Offices",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
+        "price": "L: $40,000 <br>M: $30,000",
+        "description": "These second-floor office spaces have been designated for the Advocacy Center and designed to promote student and faculty interaction. (Additional centers including Biodiversity will be accommodated in the new building, but exact space has yet to be formalized.) Guests to the Institute will find this to be the perfect workspace for providing faculty support to the various components of the Institute.  This is prime name opportunities for individuals wishing to honor professors, family members, programs, firms, and others as we build the Stetson Law’s advocacy legacy for the future."
+    },
+    "OfficeS": {
+        "name": "Small Offices",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
+        "price": "$25,000",
+        "description": "These second-floor office spaces have been designated for the Advocacy Center and designed to promote student and faculty interaction. (Additional centers including Biodiversity will be accommodated in the new building, but exact space has yet to be formalized.) Guests to the Institute will find this to be the perfect workspace for providing faculty support to the various components of the Institute.  This is prime name opportunities for individuals wishing to honor professors, family members, programs, firms, and others as we build the Stetson Law’s advocacy legacy for the future."
+    },
+    "JRNL": {
+        "name": "Journal of Advocacy & Law Workspace",
+        "img_path": "https://api.ifolio.cloud/medias/fT/Mg/fTMgRwJyx42X8OX9xg6xKqBgwzrSqkq1JRozAAqh.jpg?width=768",
+        "price": "$10,000",
+        "description": ""
+    },
+    "CLH": {
+        "name": "Classroom / Lecture JHall",
+        "img_path": "https://api.ifolio.cloud/medias/fj/tF/fjtFZfya73B0G1l7Z2Vp9LUTlLQ4gGsThesBFuY9.jpg?width=1366",
+        "price": "$300,000",
+        "description": "The Advocacy Institute features new classrooms that will afford students the opportunity to learn from our nationally renowned faculty using state-of-the-art technology."
+    }
+}

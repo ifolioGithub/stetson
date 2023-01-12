@@ -9,7 +9,7 @@
         "shapeCounter": {
             "spots": 1,
             "rects": 4,
-            "polys": 22,
+            "polys": 29,
             "texts": 2,
             "paths": 1
         }
@@ -28,77 +28,41 @@
         "enable_layers": 1,
         "layers_list": [{
             "id": 0,
-            "title": "Main Floor",
+            "title": "Floor 1",
             "image_url": "https://api.ifolio.cloud/medias/F3/tO/F3tOYlTtN6mAMUCJ9avaYwx9rIkJB7qnxecuVtpH.jpg?width=1366",
             "image_width": 1366,
             "image_height": 854
         }, {
             "id": 1,
-            "title": "Second Floor",
+            "title": "Floor 2",
             "image_url": "https://api.ifolio.cloud/medias/8f/kC/8fkCKBLwqKicdfXeHayh6U4RXRecSFvOoPRYdE21.jpg?width=1366",
             "image_width": 1366,
             "image_height": 854
         }]
     },
     "spots": [{
-        "id": "poly-1284",
-        "title": "Poly 1",
-        "type": "poly",
-        "x": 73.906,
-        "y": 55.552,
-        "width": 0,
-        "height": 0,
-        "x_image_background": 73.90596252129471,
-        "y_image_background": 55.55225075703474,
-        "width_image_background": 0,
-        "height_image_background": 0,
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Poly 1"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        },
-        "points": [{
-            "x": null,
-            "y": null
-        }]
-    }, {
         "id": "poly-9307",
         "title": "Cafe",
         "type": "poly",
-        "x": 67.291,
+        "x": 67.186,
         "y": 54.429,
         "width": 8.262,
-        "height": 8.038,
-        "x_image_background": 67.29131175468484,
-        "y_image_background": 54.70071135332676,
+        "height": 7.368,
+        "x_image_background": 67.291,
+        "y_image_background": 54.429,
         "width_image_background": 8.262350936967632,
         "height_image_background": 7.766039361816723,
         "default_style": {
             "background_color": "#9ACF55",
             "background_opacity": 0.18629807692307693,
             "stroke_color": "#9ACF55",
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#9ACF55",
             "stroke_color": "#9ACF55",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -124,16 +88,16 @@
             }
         },
         "points": [{
-            "x": 75.93657731958747,
-            "y": 0.4170746194691121
+            "x": 77.20745604144655,
+            "y": 0.4550007860060428
         }, {
             "x": 100,
-            "y": 94.91494261994448
+            "y": 98.99922757588402
         }, {
             "x": 0,
             "y": 100
         }, {
-            "x": 0,
+            "x": 1.2708787218591622,
             "y": 0
         }]
     }, {
@@ -147,18 +111,18 @@
         "x_image_background": 26.034,
         "y_image_background": 32.159,
         "default_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.21193910256410256,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.7094017094017094,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -213,17 +177,17 @@
         "x_image_background": 36.542,
         "y_image_background": 61.922,
         "default_style": {
-            "background_color": "#667EC1",
+            "background_color": "#4353a4",
             "background_opacity": 0.2204861111111111,
-            "stroke_color": "#667EC1",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8290598290598291,
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#667EC1",
+            "background_color": "#2f4486",
             "background_opacity": 0.6734775641025641,
-            "stroke_color": "#667EC1",
-            "stroke_opacity": 1,
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8376068376068376,
             "stroke_width": 3
         },
         "tooltip": {
@@ -269,23 +233,23 @@
         "id": "poly-6537",
         "title": "Retail",
         "type": "poly",
-        "x": 75.128,
+        "x": 75.442,
         "y": 61.513,
-        "width": 6.303,
+        "width": 5.989,
         "height": 15.124,
         "x_image_background": 75.128,
         "y_image_background": 61.513,
         "default_style": {
-            "background_color": "#F1AD48",
+            "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
-            "stroke_color": "#F1AD48",
+            "stroke_color": "#f59605",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#F1AD48",
+            "background_color": "#fbb03a",
             "background_opacity": 0.6752136752136753,
-            "stroke_color": "#F1AD48",
+            "stroke_color": "#f59605",
             "stroke_width": 3
         },
         "tooltip": {
@@ -316,84 +280,34 @@
             "y": 0
         }, {
             "x": 0,
-            "y": 0.001628594854143357
+            "y": 2.216651075679316
         }, {
-            "x": 62.1578650367499,
+            "x": 65.41676796237039,
             "y": 100
         }]
-    }, {
-        "id": "rect-8988",
-        "title": "Lounge",
-        "type": "rect",
-        "x": 42.334,
-        "y": 38.896,
-        "width": 24.873,
-        "height": 22.48,
-        "x_image_background": 42.334,
-        "y_image_background": 38.896,
-        "width_image_background": 24.873,
-        "height_image_background": 22.48,
-        "connected_to": "rect-4824",
-        "default_style": {
-            "border_radius": 0,
-            "background_color": "#BFE098",
-            "background_opacity": 0.2204861111111111,
-            "border_width": 3,
-            "border_color": "#BFE098"
-        },
-        "mouseover_style": {
-            "border_radius": 0,
-            "background_color": "#ff0000",
-            "background_opacity": 0.6563835470085471,
-            "border_width": 3,
-            "border_color": "#BFE098"
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Rect 1"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
     }, {
         "id": "poly-4173",
         "title": "Ticketing",
         "type": "poly",
         "x": 20.699,
-        "y": 61.163,
+        "y": 61.027,
         "width": 17.963,
         "height": 11.172,
         "x_image_background": 20.699,
-        "y_image_background": 61.163,
+        "y_image_background": 61.027,
         "default_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.19484508547008547,
             "stroke_color": "#E73A42",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_opacity": 0.8205128205128205,
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.7094017094017094,
             "stroke_color": "#E73A42",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -546,105 +460,6 @@
             }
         }
     }, {
-        "id": "poly-601",
-        "title": "Lounge",
-        "type": "poly",
-        "x": 41.991,
-        "y": 38.69,
-        "width": 25.416,
-        "height": 23.413,
-        "x_image_background": 41.991,
-        "y_image_background": 38.69,
-        "width_image_background": 25.212947189097108,
-        "height_image_background": 22.9348854374045,
-        "mouseover_style": {
-            "background_color": "#ff0000"
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Poly 10"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        },
-        "points": [{
-            "x": 0,
-            "y": 0.30009016211205614
-        }, {
-            "x": 48.02098695869205,
-            "y": 0
-        }, {
-            "x": 48.52226053592059,
-            "y": 16.49394231841664
-        }, {
-            "x": 34.771992860257555,
-            "y": 16.377184907723503
-        }, {
-            "x": 34.587750788461385,
-            "y": 28.234144972030013
-        }, {
-            "x": 66.0043937481962,
-            "y": 28.132430563955136
-        }, {
-            "x": 65.81212417862744,
-            "y": 16.624140732850545
-        }, {
-            "x": 48.363578750627696,
-            "y": 16.305959859001828
-        }, {
-            "x": 48.028839401686184,
-            "y": 0.11697804223817013
-        }, {
-            "x": 99.53642509284771,
-            "y": 0.8820690310196777
-        }, {
-            "x": 99.76856444536443,
-            "y": 19.877116825173466
-        }, {
-            "x": 93.1694337765071,
-            "y": 19.877116825173466
-        }, {
-            "x": 93.16943377650705,
-            "y": 68.39506191345923
-        }, {
-            "x": 100,
-            "y": 68.39506191345923
-        }, {
-            "x": 99.43342259724743,
-            "y": 100
-        }, {
-            "x": 0.3365494438790109,
-            "y": 97.67233705705486
-        }, {
-            "x": 0.10370629348131565,
-            "y": 70.14186110163043
-        }, {
-            "x": 7.8366955657248045,
-            "y": 70.14186110163043
-        }, {
-            "x": 7.8366955657248045,
-            "y": 20.459032560909794
-        }, {
-            "x": 0.3365494438790109,
-            "y": 20.860511920827108
-        }]
-    }, {
         "id": "rect-3887",
         "title": "Display Copy Copy Copy",
         "type": "rect",
@@ -699,28 +514,28 @@
         "title": "Office 5",
         "type": "rect",
         "x": 69.232,
-        "y": 31.066,
+        "y": 30.45,
         "width": 7.78,
-        "height": 9.22,
+        "height": 9.836,
         "x_image_background": 69.232,
-        "y_image_background": 31.066,
+        "y_image_background": 30.45,
         "width_image_background": 7.78,
-        "height_image_background": 9.22,
+        "height_image_background": 9.836,
         "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.2204861111111111,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
+            "border_width": 5,
+            "border_color": "#3fbbd2"
         },
         "mouseover_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.6666666666666666,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
+            "border_width": 5,
+            "border_color": "#3fbbd2"
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -747,30 +562,30 @@
         }
     }, {
         "id": "rect-3969",
-        "title": "VIP Room",
+        "title": "VIPRoom",
         "type": "rect",
-        "x": 44.304,
-        "y": 33.738,
+        "x": 44.4,
+        "y": 33.584,
         "width": 20.893,
         "height": 22.818,
-        "x_image_background": 44.304,
-        "y_image_background": 33.738,
+        "x_image_background": 44.4,
+        "y_image_background": 33.584,
         "width_image_background": 20.893,
         "height_image_background": 22.818,
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#9ACF55",
+            "background_color": "#439544",
             "background_opacity": 0.22903311965811965,
-            "border_width": 3,
-            "border_color": "#9ACF55"
+            "border_width": 5,
+            "border_color": "#82c449"
         },
         "mouseover_style": {
             "border_radius": 0,
-            "background_color": "#9ACF55",
+            "background_color": "#82c449",
             "background_opacity": 0.6923076923076923,
-            "border_width": 3,
-            "border_color": "#9ACF55"
+            "border_width": 5,
+            "border_color": "#82c449"
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -799,28 +614,30 @@
         "id": "rect-8881",
         "title": "Office",
         "type": "rect",
-        "x": 65.197,
-        "y": 40.055,
+        "x": 65.101,
+        "y": 40.222,
         "width": 4.034,
         "height": 16.365,
-        "x_image_background": 65.197,
-        "y_image_background": 40.055,
+        "x_image_background": 65.101,
+        "y_image_background": 40.222,
         "width_image_background": 4.034,
         "height_image_background": 16.365,
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.20339209401709402,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
+            "border_width": 5,
+            "border_color": "#3fbbd2",
+            "border_opacity": 0.7863247863247863
         },
         "mouseover_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.6563835470085471,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
+            "border_width": 5,
+            "border_color": "#3fbbd2",
+            "border_opacity": 0.7863247863247863
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -861,9 +678,9 @@
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.18803418803418803,
-            "border_width": 3,
+            "border_width": 5,
             "border_color": "#7ACFDD"
         },
         "mouseover_style": {
@@ -909,17 +726,17 @@
         "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#6fccdd",
             "background_opacity": 0.18629807692307693,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.6752136752136753,
-            "stroke_color": "#7ACFDD",
-            "stroke_width": 3
+            "stroke_color": "#3fbbd2",
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -982,17 +799,17 @@
         "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
-            "background_color": "#7ACFDD",
-            "stroke_color": "#7ACFDD",
+            "background_color": "#6fccdd",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#7ACFDD",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.7350427350427351,
-            "stroke_color": "#7ACFDD",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1041,23 +858,24 @@
         "title": "Athlete",
         "type": "poly",
         "x": 29.068,
-        "y": 30.694,
+        "y": 30.847,
         "width": 15.274,
-        "height": 15.212,
+        "height": 15.213,
         "x_image_background": 29.068,
-        "y_image_background": 30.694,
+        "y_image_background": 30.848,
         "layerID": "1",
         "default_style": {
-            "background_color": "#E73A42",
-            "stroke_color": "#E73A42",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "background_color": "#ec2027",
+            "background_opacity": 0.24612713675213677,
+            "stroke_color": "#cd1118",
+            "stroke_opacity": 0.811965811965812,
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.6905715811965812,
             "stroke_color": "#E73A42",
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1084,46 +902,46 @@
         },
         "points": [{
             "x": 0,
-            "y": 18.18124440662201
+            "y": 18.18686381676738
         }, {
-            "x": 37.7352452830189,
-            "y": 18.184400170200917
+            "x": 37.735245283018905,
+            "y": 18.190019363604645
         }, {
-            "x": 37.7352452830189,
-            "y": 59.09220008510041
+            "x": 37.735245283018905,
+            "y": 59.09500968180228
         }, {
-            "x": 61.321358490566006,
-            "y": 59.08878216199689
+            "x": 61.32135849056599,
+            "y": 59.09159199344579
         }, {
-            "x": 61.321358490566006,
+            "x": 61.32135849056599,
+            "y": 0.006868119790640869
+        }, {
+            "x": 75.15682093877619,
             "y": 0
         }, {
-            "x": 74.52830188679243,
-            "y": 3.030207401103657
-        }, {
-            "x": 74.52830188679243,
-            "y": 12.120567444890028
+            "x": 74.52830188679245,
+            "y": 12.126603109589233
         }, {
             "x": 100,
-            "y": 12.120567444890028
+            "y": 12.126603109589233
         }, {
             "x": 99.05660377358487,
-            "y": 72.72497762648807
+            "y": 70.70227263928422
         }, {
             "x": 87.73584905660378,
-            "y": 74.2400813270399
+            "y": 70.19269401228556
         }, {
             "x": 87.73584905660378,
-            "y": 81.81533767027439
+            "y": 82.8288757488734
         }, {
-            "x": 30.18867924528304,
-            "y": 83.33385929392976
+            "x": 30.188679245283044,
+            "y": 83.3350039444379
         }, {
-            "x": 30.18867924528304,
+            "x": 30.188679245283044,
             "y": 100
         }, {
-            "x": 0.0006037735849184642,
-            "y": 99.9968442364211
+            "x": 0.0006037735849235929,
+            "y": 99.9968444531627
         }]
     }, {
         "id": "poly-1058",
@@ -1133,20 +951,24 @@
         "y": 50.568,
         "width": 10.807,
         "height": 5.993,
+        "x_image_background": 33.456,
+        "y_image_background": 50.568,
+        "width_image_background": 10.807,
+        "height_image_background": 5.993,
         "layerID": "1",
         "default_style": {
             "background_color": "#F1AD48",
             "background_opacity": 0.21367521367521367,
             "stroke_color": "#F1AD48",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
             "background_color": "#F1AD48",
             "background_opacity": 0.6905715811965812,
             "stroke_color": "#F1AD48",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1205,17 +1027,19 @@
         "layerID": "1",
         "default_style": {
             "border_radius": 0,
-            "background_color": "#E73A42",
-            "background_opacity": 0.19484508547008547,
-            "border_width": 3,
-            "border_color": "#E73A42"
+            "background_color": "#ec2027",
+            "background_opacity": 0.23076923076923078,
+            "border_width": 5,
+            "border_color": "#cd1113",
+            "border_opacity": 0.7008547008547008
         },
         "mouseover_style": {
             "border_radius": 0,
-            "background_color": "#E73A42",
+            "background_color": "#ec2027",
             "background_opacity": 0.7162126068376068,
-            "border_width": 3,
-            "border_color": "#E73A42"
+            "border_width": 5,
+            "border_color": "#cd1113",
+            "border_opacity": 0.8290598290598291
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1252,18 +1076,18 @@
         "y_image_background": 30.579,
         "layerID": "1",
         "default_style": {
-            "background_color": "#BFE098",
+            "background_color": "#439544",
             "background_opacity": 0.19484508547008547,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#BFE098",
+            "background_color": "#82c449",
             "background_opacity": 0.7008547008547008,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "tooltip_content": {
             "squares_settings": {
@@ -1309,24 +1133,24 @@
         "title": "MHeadCoach",
         "type": "poly",
         "x": 65.178,
-        "y": 31.907,
+        "y": 32.215,
         "width": 4.179,
-        "height": 8.066,
+        "height": 7.758,
         "x_image_background": 65.178,
         "y_image_background": 31.907,
         "connected_to": "poly-6952",
         "layerID": "1",
         "default_style": {
-            "background_color": "#BFE098",
+            "background_color": "#439544",
             "background_opacity": 0.16920405982905984,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#BFE098",
+            "background_color": "#82c449",
             "background_opacity": 0.7247596153846154,
-            "stroke_color": "#BFE098",
+            "stroke_color": "#82c449",
             "stroke_opacity": 0.9636752136752137,
             "stroke_width": 3
         },
@@ -1355,9 +1179,9 @@
         },
         "points": [{
             "x": 0,
-            "y": 2.8637445524229075
+            "y": 0.9923902500442141
         }, {
-            "x": 96.55164803637062,
+            "x": 98.84884832352053,
             "y": 0
         }, {
             "x": 100,
@@ -1378,18 +1202,18 @@
         "y_image_background": 25.261,
         "layerID": "1",
         "default_style": {
-            "background_color": "#667EC1",
+            "background_color": "#4353a4",
             "background_opacity": 0.20339209401709402,
-            "stroke_color": "#667EC1",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8034188034188035,
+            "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#667EC1",
+            "background_color": "#4353a4",
             "background_opacity": 0.7076655982905983,
-            "stroke_color": "#667EC1",
-            "stroke_opacity": 1,
-            "stroke_width": 3
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8205128205128205,
+            "stroke_width": 5
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1446,14 +1270,33 @@
             "y": 58.33092246503575
         }]
     }, {
-        "id": "text-2035",
-        "title": "Basketball",
-        "type": "text",
-        "x": 84.438,
-        "y": 60.948,
-        "layerID": "1",
-        "text": {
-            "text": "Basketball Suite\n"
+        "id": "poly-9318",
+        "title": "Display2",
+        "type": "poly",
+        "x": 42.26,
+        "y": 43.575,
+        "width": 1.619,
+        "height": 11.444,
+        "x_image_background": 42.26,
+        "y_image_background": 43.575,
+        "width_image_background": 1.619,
+        "height_image_background": 11.444,
+        "connected_to": "poly-2747",
+        "default_style": {
+            "background_color": "#7ACFDD",
+            "background_opacity": 0.20339209401709402,
+            "stroke_color": "#3fbbd2",
+            "stroke_opacity": 1,
+            "stroke_width": 5
+        },
+        "mouseover_style": {
+            "background_color": "#3fbbd2",
+            "background_opacity": 0.6820245726495726,
+            "stroke_color": "#3fbbd2",
+            "stroke_width": 5
+        },
+        "tooltip": {
+            "enable_tooltip": 0
         },
         "tooltip_content": {
             "squares_settings": {
@@ -1467,14 +1310,257 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Text 1"
+                                    "text": "Poly 22"
                                 }
                             }
                         }]
                     }
                 }]
             }
-        }
+        },
+        "points": [{
+            "x": 0,
+            "y": 0.0021521762764938404
+        }, {
+            "x": 94.74823748344839,
+            "y": 0
+        }, {
+            "x": 100,
+            "y": 99.9978478237235
+        }, {
+            "x": 10.554258564178118,
+            "y": 100
+        }]
+    }, {
+        "id": "poly-3103",
+        "title": "Display1",
+        "type": "poly",
+        "x": 51.043,
+        "y": 42.481,
+        "width": 7.751,
+        "height": 2.86,
+        "x_image_background": 51.12836456558774,
+        "y_image_background": 42.752727918324034,
+        "width_image_background": 7.666098807495741,
+        "height_image_background": 2.4524334826789653,
+        "connected_to": "poly-2747",
+        "default_style": {
+            "background_color": "#6fccdd",
+            "background_opacity": 0.18629807692307693,
+            "stroke_color": "#3fbbd2",
+            "stroke_opacity": 0.8376068376068376,
+            "stroke_width": 5
+        },
+        "mouseover_style": {
+            "background_color": "#3fbbd2",
+            "background_opacity": 0.7076655982905983,
+            "stroke_color": "#3fbbd2",
+            "stroke_opacity": 1,
+            "stroke_width": 5
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 23"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        },
+        "points": [{
+            "x": 0,
+            "y": 0
+        }, {
+            "x": 100,
+            "y": 4.754524124526179
+        }, {
+            "x": 100,
+            "y": 100
+        }, {
+            "x": 0,
+            "y": 100
+        }]
+    }, {
+        "id": "poly-2747",
+        "title": "Display",
+        "type": "poly",
+        "x": 65.673,
+        "y": 43.393,
+        "width": 1.543,
+        "height": 11.166,
+        "x_image_background": 65.673,
+        "y_image_background": 43.393,
+        "default_style": {
+            "background_color": "#6fccdd",
+            "background_opacity": 0.20339209401709402,
+            "stroke_color": "#3fbbd2",
+            "stroke_opacity": 0.7264957264957265,
+            "stroke_width": 5
+        },
+        "mouseover_style": {
+            "background_color": "#7ACFDD",
+            "background_opacity": 0.7076655982905983,
+            "stroke_color": "#7ACFDD",
+            "stroke_opacity": 0.9807692307692307,
+            "stroke_width": 3
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 24"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        },
+        "points": [{
+            "x": 0,
+            "y": 0
+        }, {
+            "x": 100,
+            "y": 1.1655867213227797
+        }, {
+            "x": 100,
+            "y": 100
+        }, {
+            "x": 0.619691435183868,
+            "y": 100
+        }]
+    }, {
+        "id": "poly-7964",
+        "title": "Lounge",
+        "type": "poly",
+        "x": 42.249,
+        "y": 38.989,
+        "width": 25.253,
+        "height": 22.889,
+        "x_image_background": 42.249,
+        "y_image_background": 38.989,
+        "width_image_background": 25.253,
+        "height_image_background": 22.889,
+        "default_style": {
+            "background_color": "#439544",
+            "background_opacity": 0.19484508547008547,
+            "stroke_color": "#82c449",
+            "stroke_opacity": 0.9970619658119658,
+            "stroke_width": 5
+        },
+        "mouseover_style": {
+            "background_color": "#82c449",
+            "background_opacity": 0.7435897435897436,
+            "stroke_color": "#82c449",
+            "stroke_opacity": 1,
+            "stroke_width": 5
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Poly 27"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        },
+        "points": [{
+            "x": 0.4246227926883618,
+            "y": 18.67568447476916
+        }, {
+            "x": 0,
+            "y": 0.7851269890720276
+        }, {
+            "x": 34.90032377108481,
+            "y": 0.5974608469724324
+        }, {
+            "x": 34.56444373537184,
+            "y": 14.286999440295709
+        }, {
+            "x": 33.55303225972835,
+            "y": 29.41119952791737
+        }, {
+            "x": 66.30845413431999,
+            "y": 29.62893713503172
+        }, {
+            "x": 66.68051687606989,
+            "y": 14.904940089285255
+        }, {
+            "x": 34.96179676936652,
+            "y": 14.26266290577275
+        }, {
+            "x": 34.90244874018002,
+            "y": 0.5952441160516136
+        }, {
+            "x": 100,
+            "y": 0
+        }, {
+            "x": 99.66270331822352,
+            "y": 19.048952368708587
+        }, {
+            "x": 92.24217631914198,
+            "y": 18.45370825265694
+        }, {
+            "x": 92.24217631914198,
+            "y": 69.04945811704383
+        }, {
+            "x": 97.97834487843652,
+            "y": 69.05161026877144
+        }, {
+            "x": 97.97621990934134,
+            "y": 100
+        }, {
+            "x": 0.8347755577284809,
+            "y": 97.6211756875211
+        }, {
+            "x": 0.4981871989837754,
+            "y": 70.83626654106251
+        }, {
+            "x": 6.90540750667257,
+            "y": 70.24209850087466
+        }, {
+            "x": 6.568819147927865,
+            "y": 19.048952368708587
+        }]
     }]
 });
     });

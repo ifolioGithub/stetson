@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="../image-map-pro/image-map-pro.min.css">
+    <link rel="stylesheet" href="../css/floor.css">
+</head>
+<body>
+    <div class="my-container">
+        <div id="image-map-pro-container" style="height: 100%;"></div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="../image-map-pro/image-map-pro.min.js"></script>
+    <script src="../AdvocacyCenter/exterior_map.js"></script>
+    <script type="text/javascript">
+        ;(function ($, window, document, undefined) {
+            $(document).ready(function() {
+                $.imageMapProEventClickedShape = function(imageMapName, shapeTitle) {
+                    var floor_num = shapeTitle.charAt(shapeTitle.length - 1)
+                    window.open(`AdvocacyCenter.html?init=${floor_num}`, "_self")
+                }
+            });
+        })(jQuery, window, document);
+    </script>
+</body>
+</html>
