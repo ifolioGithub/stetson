@@ -3,8 +3,9 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 8092,
     "editor": {
-        "selected_shape": "poly-418",
-        "tool": "poly",
+        "selected_shape": "poly-8962",
+        "transform_tooltip_mode": 1,
+        "tool": "select",
         "shapeCounter": {
             "polys": 2
         }
@@ -18,7 +19,7 @@
         "naturalHeight": 738
     },
     "image": {
-        "url": "https://api.ifolio.cloud/medias/8f/vN/8fvNKc8EEfqjdjfpwxZwuOxicrfCleTNxyWKNwAZ.jpg?width=1366"
+        "url": "https://api.ifolio.cloud/medias/W7/Eb/W7EbQNyQluTS8R3PteFMwdGLcmyE7Z1WbOoQ543u.jpg?width=1366"
     },
     "spots": [{
         "id": "poly-418",
@@ -28,6 +29,10 @@
         "y": 2.029,
         "width": 96.23,
         "height": 66.867,
+        "x_image_background": 3.77,
+        "y_image_background": 2.029,
+        "width_image_background": 96.23,
+        "height_image_background": 66.867,
         "default_style": {
             "background_color": "#82c449",
             "background_opacity": 0.10082799145299146
@@ -36,13 +41,17 @@
             "background_color": "#82c449",
             "background_opacity": 0.7333066239316239
         },
-        "tooltip": {
-            "enable_tooltip": 0
+        "tooltip_style": {
+            "position": "left",
+            "width": 300,
+            "auto_width": 0,
+            "offset_x": 48.35673611111112,
+            "offset_y": 5.3705056121442425
         },
         "tooltip_content": {
             "squares_settings": {
                 "containers": [{
-                    "id": "sq-container-403761",
+                    "id": "sq-container-858621",
                     "settings": {
                         "elements": [{
                             "settings": {
@@ -51,7 +60,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Poly 0"
+                                    "text": "Practice Courtroom,  Jury Room, Collaboration Hall, Lecture Hall,Conference Room, Offices, Journal of Advocacy "
                                 }
                             }
                         }]
@@ -119,6 +128,10 @@
         "y": 46.995,
         "width": 94.555,
         "height": 46.129,
+        "x_image_background": 5.34,
+        "y_image_background": 46.995,
+        "width_image_background": 94.555,
+        "height_image_background": 46.129,
         "default_style": {
             "background_color": "#439544",
             "background_opacity": 0
@@ -127,13 +140,17 @@
             "background_color": "#439544",
             "background_opacity": 0.7350427350427351
         },
-        "tooltip": {
-            "enable_tooltip": 0
+        "tooltip_style": {
+            "position": "left",
+            "width": 300,
+            "auto_width": 0,
+            "offset_x": 47.75506704980843,
+            "offset_y": -0.7348076360983953
         },
         "tooltip_content": {
             "squares_settings": {
                 "containers": [{
-                    "id": "sq-container-403761",
+                    "id": "sq-container-369331",
                     "settings": {
                         "elements": [{
                             "settings": {
@@ -142,7 +159,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Poly 1"
+                                    "text": "Awards & Trophies Gallery, First Floor Atrium, Conference Room, Reception Area"
                                 }
                             }
                         }]
