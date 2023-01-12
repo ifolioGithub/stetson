@@ -1,0 +1,63 @@
+{
+    "hallFameCase": {
+        "name": "Hall of Fame Cases",
+        "img_path": "../images/Edmunds_Center/StetsonU_EdmundsCenter_Hall-of-Fame-Trophy-Cases.jpg",
+        "price": "$25,000 each",
+        "fill": "#78bdcf",
+        "stroke": "#2998ac",
+        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich \n athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame \n inductees and student-athlete achievements. A touch screen videoboard will familiarize touring \n prospective students and student-athletes with Stetson’s championship history. Alumni and \n fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the \n Hall of Fame lounge"
+    },
+    "hallFameDisplay": {
+        "name": "Hall of Fame Display",
+        "img_path": "../images/Edmunds_Center/StetsonU_EdmundsCenter_Hall-of-Fame-Display.jpg",
+        "price": "$200,000",
+        "fill": "#78bdcf",
+        "stroke": "#2998ac",
+        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich \n athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame \n inductees and student-athlete achievements. A touch screen videoboard will familiarize touring \n prospective students and student-athletes with Stetson’s championship history. Alumni and \n fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the \n Hall of Fame lounge"
+    },
+    "lounge": {
+        "name": "Lounge",
+        "img_path": "../images/Edmunds_Center/StetsonU_EdmundsCenter_VIP-Lounge-01.jpg",
+        "price": "$1,500,00",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "svg_path": "284 175.78 0 171.78 0 117 17 117 17 39 0 39 0 0 284 0 284 39 270 39 270 117 284 117 284 175.78",
+        "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and \n catered events. It will also be used as a hospitality area during athletic events for premium seat \n donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces \n on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building \n (CUB)."
+    },
+    "cafe": {
+        "name": "Cafe Concessions Area",
+        "img_path": "../images/Edmunds_Center/StetsonU_EdmundsCenter_Cafe-concessions-area.jpg",
+        "description": "Event patrons will visit the café for concessions on busy game days.",
+        "price": "$125,000",
+        "fill": "#8dc640",
+        "stroke": "#698938",
+        "svg_path": "101.01 56.48 77.38 0 0 0 0 56.48 101.01 56.48"
+    },
+    "retail": {
+        "name": "Retail",
+        "img_path": "../images/Edmunds_Center/StetsonU_EdmundsCenter_Retail-Merchandise-Area.jpg",
+        "description": "Stetson fans can choose from the latest and greatest Hatter apparel.",
+        "price": "$75,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "svg_path": "0 0 43.94 105.7 70.13 .96 0 0"
+    },
+    "ticketing": {
+        "name": "Ticketing",
+        "img_path": "../images/Edmunds_Center/StetsonU_EdmundsCenter_Ticketing-Area.jpg",
+        "description": "Thousands of patrons each year will visit the ticketing area.",
+        "price": "$100,000",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "svg_path": "211.06 23.63 182.5 0 126.77 3.23 107.57 8.65 105.96 4.38 53.69 18.26 48.71 1.71 0 14.88 17.98 80.04 211.06 23.63"
+    },
+    "lobby": {
+        "name": "Lobby",
+        "img_path": "../images/Edmunds_Center/StetsonU_EdmundsCenter_Everyday_Cafe.jpg",
+        "description": "The impressive glass façade to the building will allow the lobby and Hall of Fame to be visible \n from the street. The main lobby is multi-use, providing a lounge area with furniture for staff, \n coaches and students to congregate and study. For non-athletic events, the lobby is a place for \n attendees to congregate before or after an event and is spacious enough to be used as a \n reception area. For athletic events, the lobby features a concession stand (café) and \n merchandise display. The furniture can be relocated to accommodate a stanchion for the \n concession stand line.",
+        "price": "$2,500,00",
+        "fill": "#3953a4",
+        "stroke": "#1b284f",
+        "svg_path": "492.74 111.82 448.8 6.12 0 0 35.56 31.58 485.14 142.23 518.93 7.08 492.74 111.82"
+    }
+}
