@@ -3,7 +3,7 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 2481,
     "editor": {
-        "previewMode": 1,
+        "selected_shape": "poly-981",
         "tool": "select",
         "shapeCounter": {
             "spots": 1,
@@ -16,13 +16,13 @@
     "general": {
         "name": "Exterior",
         "shortcode": "Exterior",
-        "width": 1920,
-        "height": 1037,
-        "naturalWidth": 1920,
-        "naturalHeight": 1037
+        "width": 1366,
+        "height": 738,
+        "naturalWidth": 1366,
+        "naturalHeight": 738
     },
     "image": {
-        "url": "https://api.ifolio.cloud/medias/4t/i2/4ti2EGb1xmipR8BTpIPu0Q8QE1jnrDjddJmfoY6A.jpg?width=1920"
+        "url": "https://api.ifolio.cloud/medias/SJ/0P/SJ0P6qRkGUZd50M2O7bBTYTVDPNOFw1dSzwWYjAY.jpg?width=1366"
     },
     "layers": {
         "layers_list": [{
@@ -51,13 +51,17 @@
             "background_color": "#006937",
             "background_opacity": 0.6991185897435898
         },
-        "tooltip": {
-            "enable_tooltip": 0
+        "tooltip_style": {
+            "position": "left",
+            "width": 300,
+            "auto_width": 0,
+            "offset_x": 22.013806992337162,
+            "offset_y": -0.6211117159351573
         },
         "tooltip_content": {
             "squares_settings": {
                 "containers": [{
-                    "id": "sq-container-403761",
+                    "id": "sq-container-974561",
                     "settings": {
                         "elements": [{
                             "settings": {
@@ -66,7 +70,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Poly 0"
+                                    "text": "Ticketing, Lobby Hall, Hall of Fame, Lounge, Cafe, Retail, Trophy Display"
                                 }
                             }
                         }]
@@ -105,13 +109,17 @@
             "background_color": "#8BC540",
             "background_opacity": 0.6734775641025641
         },
-        "tooltip": {
-            "enable_tooltip": 0
+        "tooltip_style": {
+            "position": "left",
+            "width": 300,
+            "auto_width": 0,
+            "offset_x": 51.85215948275862,
+            "offset_y": -0.6395986979410111
         },
         "tooltip_content": {
             "squares_settings": {
                 "containers": [{
-                    "id": "sq-container-403761",
+                    "id": "sq-container-78871",
                     "settings": {
                         "elements": [{
                             "settings": {
@@ -120,7 +128,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Poly 1"
+                                    "text": "Athletic Suite, Refuel Station, Offices, Basketball Suite, Balcony"
                                 }
                             }
                         }]
