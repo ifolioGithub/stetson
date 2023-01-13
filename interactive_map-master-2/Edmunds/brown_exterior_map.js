@@ -3,7 +3,7 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 2481,
     "editor": {
-        "selected_shape": "poly-981",
+        "selected_shape": "poly-1612",
         "tool": "select",
         "shapeCounter": {
             "spots": 1,
@@ -45,7 +45,7 @@
         "y_image_background": 51.786,
         "default_style": {
             "background_color": "#006937",
-            "background_opacity": 0.22903311965811965
+            "background_opacity": 0
         },
         "mouseover_style": {
             "background_color": "#006937",
@@ -103,7 +103,7 @@
         "y_image_background": 32.664,
         "default_style": {
             "background_color": "#8BC540",
-            "background_opacity": 0.16920405982905984
+            "background_opacity": 0
         },
         "mouseover_style": {
             "background_color": "#8BC540",
