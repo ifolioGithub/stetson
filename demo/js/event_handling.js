@@ -10,6 +10,7 @@
             var wd = $(window).width()
             if (wd >= 1024) {
                 $(`#card-${shapeName}`).show();
+                console.log($(`#card-${shapeName}`).$(".card-body")[0].innerheight)
             }
         }
 
