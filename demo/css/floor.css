@@ -4,7 +4,7 @@
 }
 
 .gOverlay{
-    background-image: linear-gradient(rgba(16, 94, 48,0),rgba(16, 94, 48,0));
+    background-image: linear-gradient(rgba(16, 94, 48,0),rgba(16, 94, 48,100));
     position:absolute;
     width:100%;
     margin-top:auto;
