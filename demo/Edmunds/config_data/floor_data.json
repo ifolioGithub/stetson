@@ -1,0 +1,114 @@
+{
+    "Cafe": {
+        "name": "Cafe",
+        "img_path": "https://api.ifolio.cloud/medias/eR/5b/eR5bLhftNGxfypS9XrdGNVGQWcXnNVfQG7FBy64p.jpg?width=1366",
+        "price": "$125,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Event patrons will visit the café for concessions on busy game days."
+    },
+    "Lobby": {
+        "name": "Lobby Entrance Corridor",
+        "img_path": "https://api.ifolio.cloud/medias/Jj/Bn/JjBnsqc2mZLCja3aIr8F6JFNzGleNGOtEzU8ILmQ.jpg?width=1366",
+        "price": "$2,500,000",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "description": "The impressive glass façade to the building will allow the lobby and Hall of Fame to be visible from the street. The main lobby is multi-use, providing a lounge area with furniture for staff, coaches and students to congregate and study. For non-athletic events, the lobby is a place for attendees to congregate before or after an event and is spacious enough to be used as a reception area. For athletic events, the lobby features a concession stand (café) and merchandise display.  The furniture can be relocated to accommodate a stanchion for the concession stand line."
+    },
+    "Ticketing": {
+        "name": "Ticketing",
+        "img_path": "https://api.ifolio.cloud/medias/7u/VK/7uVKMRMTZAlAKqNont6LmzDuEuDxhEJ3NPj0Fttq.jpg?width=1920",
+        "price": "Large $100,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "description": "Thousands of patrons each year will visit the ticketing area."
+    },
+    "HallOfFame": {
+        "name": "Hall of Fame",
+        "img_path": "https://api.ifolio.cloud/medias/xs/YV/xsYVbRbPXk5Mc7DaEFjrFSHZkMLsLuih0j9GDUSN.jpg?width=1366",
+        "price": "$200,000",
+        "fill": "#6fccdd",
+        "stroke": "#2998ac",
+        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge."
+    },
+    "Lounge": {
+        "name": "VIP Lounge",
+        "img_path": "https://api.ifolio.cloud/medias/xm/e5/xme5JEjXv3Af8yzV88dgUwIkxeQ5a2aisPDn2ljA.jpg?width=1366",
+        "price": "$1,500,000",
+        "fill": "#6fccdd",
+        "stroke": "#2998ac",
+        "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and catered events. It will also be used as a hospitality area during athletic events for premium seat donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building (CUB)."
+    },
+    "Retail": {
+        "name": "Retail",
+        "img_path": "https://api.ifolio.cloud/medias/Ho/Fa/HoFahaRdvmwvgeXYZjW2hoPicCubAtvm5M3IVWqO.jpg?width=1366",
+        "price": "$30,000",
+        "fill": "#3953a4",
+        "stroke": "#1c2952",
+        "description": "Stetson fans can choose from the latest and greatest Hatter apparel."
+    },
+    "Display": {
+        "name": "Hall of Fame Cases",
+        "img_path": "https://api.ifolio.cloud/medias/Pl/Pc/PlPc9VAgGeUDbubosv5Wa0GwrhMDswIFnrm7NBQJ.jpg?width=1366",
+        "price": "$25,000 each",
+        "fill": "#ec2027",
+        "stroke": "#9e0d12",
+        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge"
+    },
+    "Office": {
+        "name": "Offices",
+        "img_path": "https://api.ifolio.cloud/medias/pZ/y2/pZy2lTqZpW9PYIaZsXEkkKOll2d1qwVzSToRgjYF.jpg?width=1920",
+        "price": " Assistant Coaches (6): $50,000 <br> Administrator: $20,000 ",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Home to the basketball coaching staffs, this suite unites currently non-adjacent staff. It professionalizes and increases the efficiency of our operations while providing an impressive space for prospective student-athletes and their families as well as alumni."
+    },
+    "WHeadCoach": {
+        "name": "Head Coaches Offices",
+        "img_path": "https://api.ifolio.cloud/medias/pZ/y2/pZy2lTqZpW9PYIaZsXEkkKOll2d1qwVzSToRgjYF.jpg?width=1920",
+        "price": "150,000",
+        "fill": "#3953a4",
+        "stroke": "#1c2952",
+        "description": "Home to the basketball coaching staffs, this suite unites currently non-adjacent staff. It professionalizes and increases the efficiency of our operations while providing an impressive space for prospective student-athletes and their families as well as alumni. <br> The head coach offices for the men’s and women’s basketball teams are located in close proximity. Sharing a suite with their other staff professionalizes and increases the efficiency of our operations while providing a welcoming space for visitors."
+    },
+    "VIPRoom": {
+        "name": "VIP Room",
+        "img_path": "https://api.ifolio.cloud/medias/LW/wc/LWwcfpR6W7IGz6HQeBvdUo0L4MpWPp4kUqJebJ9S.jpg?width=1920",
+        "price": "$1,500,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and catered events. It will also be used as a hospitality area during athletic events for premium seat donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building (CUB)."
+    },
+    "Athlete": {
+        "name": "Athletic Director Suite",
+        "img_path": "https://api.ifolio.cloud/medias/yV/gw/yVgwHwCvDotwLbATTeQ3QA7LbOCXp1vPE3fuw1ky.jpg?width=1920",
+        "price": "$250,000",
+        "fill": "#439544",
+        "stroke": "#2b5f2c",
+        "description": "This new suite provides ample space for the Athletic Director and staff to more efficiently function on a daily basis, improving communications and overall operations. The current office layout is outdated with non-adjacent small offices. The suite and lounge will welcome alumni, donors, prospective student-athletes and families."
+    },
+    "RefuelStation": {
+        "name": "Refuel Station",
+        "img_path": "https://api.ifolio.cloud/medias/nl/N5/nlN59uiBCPtoMCuyx84GPqda8nEmyqN4aIowfeVl.jpg?width=1920",
+        "price": "$75,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "description": "Student-athletes can grab quick, nutritious snacks during their busy schedules."
+    },
+    "Basketball": {
+        "name": "Basketball Coaches Suite",
+        "img_path": "https://api.ifolio.cloud/medias/pZ/y2/pZy2lTqZpW9PYIaZsXEkkKOll2d1qwVzSToRgjYF.jpg?width=1920",
+        "price": "$200,000",
+        "fill": "#fbb03a",
+        "stroke": "#c27804",
+        "description": "Home to the basketball coaching staffs, this suite unites currently non-adjacent staff. It professionalizes and increases the efficiency of our operations while providing an impressive space for prospective student-athletes and their families as well as alumni."
+    },
+    "Balcony": {
+        "name": "VIP Balcony Seating",
+        "img_path": "https://api.ifolio.cloud/medias/TM/hR/TMhRaOhUm6RhDDPbKKroR3D6DphqbnUGbsWaYyDQ.jpg?width=1920",
+        "price": "$1,000,000",
+        "fill": "#3953a4",
+        "stroke": "#1c2952",
+        "description": "The new balcony provides a VIP-level view to the action on the court, while providing free-flow access to the VIP room. "
+    }
+}
