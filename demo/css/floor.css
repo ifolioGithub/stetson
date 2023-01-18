@@ -42,6 +42,10 @@
     overflow: scroll;
 }
 
+.card-left > div > img {
+    height: 255px;
+}
+
 .card-popup{
     margin-top: 0;
     margin-left: 0;
