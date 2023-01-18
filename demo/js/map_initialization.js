@@ -39,7 +39,6 @@
                                 <p class="card-price">${element.price}</p>
                                 <p class="card-text mt-2 mb-2">${element.description}</p>
                             </div>
-                            <div class="gOverlay"></div>
                         </div>              
                     `;
                 $(".all-cards").append(htmlCode)
