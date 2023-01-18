@@ -9,7 +9,7 @@
     },
     "lobby_entrance": {
         "name": "Lobby Entrance Corridor",
-        "img_path": "../assets/images/Brown_Hall/card_images/ BrownHall_Lobby.webp",
+        "img_path": "../assets/images/Brown_Hall/card_images/BrownHall_Lobby.webp",
         "price": "$200,000",
         "fill": "#ec2027",
         "stroke": "#9e0d12",

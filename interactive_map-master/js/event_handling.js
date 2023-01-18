@@ -9,6 +9,7 @@
         $.imageMapProEventHighlightedShape = function (imageMapName, shapeName) {
             var wd = $(window).width()
             if (wd >= 1024) {
+                console.log(shapeName)
                 $(`#card-${shapeName}`).show();
             }
         }
@@ -43,13 +44,18 @@
 
         // Nav card buttons change the floor.
         $(".button-list").click(function (e) {
+             var pnum = window.location.pathname.split("/").length - 2
             let arr = e.target.id.split("-")
             let str = arr.slice(1).join(" ")
+            console.log(arr)
+            console.log(str)
+            console.log(pnum)
+            console.log(arr.slice(pnum).join(" "))
             // If exterior is clicked, route the page to the exterior route.
             if (str === "Exterior") {
                 window.open(`index.html`, "_self")
             } else {
-                var map_name = window.location.pathname.split("/")[1]
+                var map_name = window.location.pathname.split("/")[pnum]
                 $.imageMapProGoToFloor(map_name, str);
             }
         })

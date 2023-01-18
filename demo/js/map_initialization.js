@@ -12,9 +12,12 @@
 
         // Gets query params to set the initial floor to be what was clicked on exterior
         var params = window.location.search
-        var pnum = window.location.pathname.split("/").length - 2
+
+        var pnum = window.location.pathname.split("/").length - 2 // use this to ensure that the path is able to be accessed no matter the length of the path
 
         var map_name = window.location.pathname.split("/")[pnum] // this will be either "brown_hall" or "edmund_center"
+        console.log(window.location.pathname)
+        console.log(window.location.pathname.split("/")[pnum])
         const floor_num = params ? params.charAt(params.length -1) : "1"
         // Navigate to the selected floor
         $.imageMapProGoToFloor(map_name, "Floor " + floor_num);
