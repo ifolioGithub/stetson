@@ -3,6 +3,15 @@
     src: url("../assets/fonts/AvenirLTStd-Book.otf") format("opentype");
 }
 
+.gOverlay{
+    background-image: linear-gradient(rgba(16, 94, 48,0),rgba(16, 94, 48,0));
+    position:absolute;
+    width:100%;
+    margin-top:auto;
+    margin-bottom:0px;
+    z-index:3;
+}
+
 .body {
     background-color: #ddd;
     font-family: "Avenir";
