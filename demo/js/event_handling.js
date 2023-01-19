@@ -9,11 +9,12 @@
         $.imageMapProEventHighlightedShape = function (imageMapName, shapeName) {
             var wd = $(window).width()
             if (wd >= 1024) {
+                
                 $(`#card-${shapeName}`).show();
-                if (document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body")[0] != null){
-                    console.log(document.getElementById(`card-${shapeName}`))
-                    console.log(document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body"))
-                    console.log(document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body")[0])
+                if ($(`#card-${shapeName}`).getElementsByClassName("card-body")[0] != null){
+                    console.log($(`#card-${shapeName}`))
+                    console.log($(`#card-${shapeName}`).getElementsByClassName("card-body"))
+                    console.log($(`#card-${shapeName}`).getElementsByClassName("card-body")[0])
                     console.log(document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body")[0].offsetHeight)
                 }
             }
