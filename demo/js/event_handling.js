@@ -11,11 +11,14 @@
             if (wd >= 1024) {
                 
                 $(`#card-${shapeName}`).show();
-                if ($(`#card-${shapeName}`).getElementsByClassName("card-body")[0] != null){
-                    console.log($(`#card-${shapeName}`))
-                    console.log($(`#card-${shapeName}`).getElementsByClassName("card-body"))
-                    console.log($(`#card-${shapeName}`).getElementsByClassName("card-body")[0])
-                    console.log(document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body")[0].offsetHeight)
+                
+                const cardset = document.getElementsByClassName("card-left");
+                for (int i = 0; i < cardset.length; i++){
+                    console.log("Part 1 Successful");
+                    if (cardset[i].style.display == "block"){
+                        console.log("Part 2 Successful");
+                        console.log(cardset.getElementByClassName("card-body")[0].offsetHeight);
+                    }
                 }
             }
         }
