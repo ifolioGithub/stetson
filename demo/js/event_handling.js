@@ -13,7 +13,7 @@
                 $(`#card-${shapeName}`).show();
                 
                 const cardset = document.getElementsByClassName("card-left");
-                for (int i = 0; i < cardset.length; i++){
+                for (i = 0; i < cardset.length; i++){
                     console.log("Part 1 Successful");
                     if (cardset[i].style.display == "block"){
                         console.log("Part 2 Successful");
