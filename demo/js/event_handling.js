@@ -10,8 +10,8 @@
             var wd = $(window).width()
             if (wd >= 1024) {
                 $(`#card-${shapeName}`).show();
-                if (document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body")[0].offsetHeight == true){
-                     console.log(document.getElementById(`card-${shapeName}`))
+                if (document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body")[0] != null){
+                    console.log(document.getElementById(`card-${shapeName}`))
                     console.log(document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body"))
                     console.log(document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body")[0])
                     console.log(document.getElementById(`card-${shapeName}`).getElementsByClassName("card-body")[0].offsetHeight)
