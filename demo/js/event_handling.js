@@ -11,6 +11,7 @@
             if (wd >= 1024) {
                 
                 $(`#card-${shapeName}`).show();
+                console.log("check")
                 
                 const cardset = document.getElementsByClassName("card-left");
                 for (i = 0; i < cardset.length; i++){
