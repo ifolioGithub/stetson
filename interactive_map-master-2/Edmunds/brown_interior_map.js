@@ -4,7 +4,6 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 6960,
     "editor": {
-        "selected_shape": "poly-6952",
         "tool": "select",
         "currentLayer": "1",
         "shapeCounter": {
@@ -377,14 +376,14 @@
         "id": "rect-2221",
         "title": "Office",
         "type": "rect",
-        "x": 69.232,
-        "y": 30.45,
-        "width": 7.78,
-        "height": 9.836,
-        "x_image_background": 69.232,
-        "y_image_background": 30.45,
-        "width_image_background": 7.78,
-        "height_image_background": 9.836,
+        "x": 73.7,
+        "y": 40.131,
+        "width": 4.322,
+        "height": 16.75,
+        "x_image_background": 73.7,
+        "y_image_background": 40.131,
+        "width_image_background": 4.322,
+        "height_image_background": 16.75,
         "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
@@ -502,57 +501,6 @@
             "border_width": 5,
             "border_color": "#3fbbd2",
             "border_opacity": 0.7863247863247863
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Rect 2"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        }
-    }, {
-        "id": "rect-2481",
-        "title": "Office",
-        "type": "rect",
-        "x": 73.843,
-        "y": 40.055,
-        "width": 4.034,
-        "height": 16.365,
-        "x_image_background": 73.843,
-        "y_image_background": 40.055,
-        "width_image_background": 4.034,
-        "height_image_background": 16.365,
-        "connected_to": "rect-8881",
-        "layerID": "1",
-        "default_style": {
-            "border_radius": 0,
-            "background_color": "#6fccdd",
-            "background_opacity": 0.18803418803418803,
-            "border_width": 5,
-            "border_color": "#7ACFDD"
-        },
-        "mouseover_style": {
-            "border_radius": 0,
-            "background_color": "#7ACFDD",
-            "background_opacity": 0.6905715811965812,
-            "border_width": 3,
-            "border_color": "#7ACFDD"
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1136,6 +1084,57 @@
             "x": 0,
             "y": 58.33092246503575
         }]
+    }, {
+        "id": "rect-4282",
+        "title": "Office",
+        "type": "rect",
+        "x": 69.232,
+        "y": 30.45,
+        "width": 7.78,
+        "height": 9.836,
+        "x_image_background": 69.232,
+        "y_image_background": 30.45,
+        "width_image_background": 7.78,
+        "height_image_background": 9.836,
+        "connected_to": "rect-8881",
+        "layerID": "1",
+        "default_style": {
+            "border_radius": 0,
+            "background_color": "#6fccdd",
+            "background_opacity": 0.2204861111111111,
+            "border_width": 5,
+            "border_color": "#3fbbd2"
+        },
+        "mouseover_style": {
+            "border_radius": 0,
+            "background_color": "#3fbbd2",
+            "background_opacity": 0.6666666666666666,
+            "border_width": 5,
+            "border_color": "#3fbbd2"
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Rect 2"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        }
     }]
 });
     });
