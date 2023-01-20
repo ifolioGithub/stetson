@@ -26,7 +26,7 @@
     "HallOfFame": {
         "name": "Hall of Fame",
         "img_path": "https://api.ifolio.cloud/medias/ze/OU/zeOULVKuhCUWBQQlgyaas2bk01reePXUHi5BstOU.jpg",
-        "price": "<span class='costshrink'>Touch Screen Display: $200,000<br>Championship Hall: $100,000<br>Historical Displays (10): $25,000 each<br>Trophy Cases (2): $25,000 each<br>History of Stetson Athletics Wall: $200,000 </span>",
+        "price": "<span class='costshrink'>Touch Screen Display: $200,000<br>Trophy Displays: $25,000 each</span>",
         "fill": "#6fccdd",
         "stroke": "#2998ac",
         "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge."
