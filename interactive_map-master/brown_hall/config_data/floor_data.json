@@ -1,7 +1,7 @@
 {
     "teaching_kitchen": {
         "name": "Teaching Kitchen Lab",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
+        "img_path": "https://api.ifolio.cloud/medias/q2/iS/q2iSqr9Kb8HzDuwXJKwPbyfJ1k07qF4aiLNVGdmD.jpg",
         "price": "$200,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -49,7 +49,7 @@
     },
     "offices": {
         "name": "Offices",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
+        "img_path": "https://api.ifolio.cloud/medias/JM/20/JM20AePyyKPuIvnlWbDV8i4mLAXL6EolaqSMbB1d.jpg",
         "price": "$15,000 - $20,000",
         "fill": "#ec2027",
         "stroke": "#9e0d12",
@@ -97,8 +97,8 @@
     },
     "classrooms2": {
         "name": "Classroom",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
-        "price": "Large or Geographical Information Systems (GIS) Lab $150,000<br/> Medium $100,000, Small $50,000",
+        "img_path": "https://api.ifolio.cloud/medias/ck/Hg/ckHgjKlpy2g6DN1hy4OAOGUigddqGBbXNZXYuTjK.jpg",
+        "price": "<span class='costshrink'>Large or Geographical Information Systems (GIS) Lab $150,000<br/> Medium $100,000, Small $50,000<span>",
         "fill": "#fbb03a",
         "stroke": "#c27804",
         "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning. The GIS lab will support efforts to emphasize GIS in student training; it is an essential skill for employment in numerous environmental-related fields."
@@ -146,7 +146,7 @@
     "student_study2": {
         "name": "Student Study Spaces",
         "img_path": "../assets/images/Brown_Hall/card_images/BrownHall_student_study_f2.webp",
-        "price": "$20,000 - $50,000",
+        "price": "$20,000 - $40,000",
         "fill": "#439544",
         "stroke": "#2b5f2c",
         "description": "Incorporating a diverse mix of formal and informal spaces, the Student Lounge encourages collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
