@@ -4,6 +4,7 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 6960,
     "editor": {
+        "selected_shape": "poly-6952",
         "tool": "select",
         "currentLayer": "1",
         "shapeCounter": {
@@ -951,6 +952,9 @@
             "stroke_color": "#82c449",
             "stroke_opacity": 1,
             "stroke_width": 5
+        },
+        "tooltip": {
+            "enable_tooltip": 0
         },
         "tooltip_content": {
             "squares_settings": {
