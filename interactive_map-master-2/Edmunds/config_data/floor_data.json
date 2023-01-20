@@ -1,48 +1,48 @@
 {
     "Cafe": {
-        "name": "Cafe",
-        "img_path": "https://api.ifolio.cloud/medias/eR/5b/eR5bLhftNGxfypS9XrdGNVGQWcXnNVfQG7FBy64p.jpg?width=1366",
+        "name": "Café Concessions Area",
+        "img_path": "https://api.ifolio.cloud/medias/r7/9b/r79b9tqLZZ3ujE6iAljuws16YS0jGiiBHeEE1k9N.jpg",
         "price": "$125,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "Event patrons will visit the café for concessions on busy game days."
     },
     "Lobby": {
-        "name": "Lobby Entrance Corridor",
-        "img_path": "https://api.ifolio.cloud/medias/Jj/Bn/JjBnsqc2mZLCja3aIr8F6JFNzGleNGOtEzU8ILmQ.jpg?width=1366",
+        "name": "Lobby",
+        "img_path": "https://api.ifolio.cloud/medias/Jj/Bn/JjBnsqc2mZLCja3aIr8F6JFNzGleNGOtEzU8ILmQ.jpg",
         "price": "$2,500,000",
         "fill": "#ec2027",
         "stroke": "#9e0d12",
         "description": "The impressive glass façade to the building will allow the lobby and Hall of Fame to be visible from the street. The main lobby is multi-use, providing a lounge area with furniture for staff, coaches and students to congregate and study. For non-athletic events, the lobby is a place for attendees to congregate before or after an event and is spacious enough to be used as a reception area. For athletic events, the lobby features a concession stand (café) and merchandise display.  The furniture can be relocated to accommodate a stanchion for the concession stand line."
     },
     "Ticketing": {
-        "name": "Ticketing",
-        "img_path": "https://api.ifolio.cloud/medias/7u/VK/7uVKMRMTZAlAKqNont6LmzDuEuDxhEJ3NPj0Fttq.jpg?width=1920",
-        "price": "Large $100,000",
+        "name": "Ticketing Area",
+        "img_path": "https://api.ifolio.cloud/medias/7u/VK/7uVKMRMTZAlAKqNont6LmzDuEuDxhEJ3NPj0Fttq.jpg",
+        "price": "$100,000",
         "fill": "#fbb03a",
         "stroke": "#c27804",
-        "description": "Thousands of patrons each year will visit the ticketing area."
+        "description": "The renovation will add a much-needed, ADA-compliant elevator to the Edmunds Center. An elevator will allow access to the second floor VIP area, balcony and athletic offices."
     },
     "HallOfFame": {
         "name": "Hall of Fame",
-        "img_path": "https://api.ifolio.cloud/medias/xs/YV/xsYVbRbPXk5Mc7DaEFjrFSHZkMLsLuih0j9GDUSN.jpg?width=1366",
-        "price": "$200,000",
+        "img_path": "https://api.ifolio.cloud/medias/ze/OU/zeOULVKuhCUWBQQlgyaas2bk01reePXUHi5BstOU.jpg",
+        "price": "<span class='costshrink'>Touch Screen Display: $200,000<br>Championship Hall: $100,000<br>Historical Displays (10): $25,000 each<br>Trophy Cases (2): $25,000 each<br>History of Stetson Athletics Wall: $200,000 </span>",
         "fill": "#6fccdd",
         "stroke": "#2998ac",
         "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge."
     },
     "Lounge": {
         "name": "VIP Lounge",
-        "img_path": "https://api.ifolio.cloud/medias/xm/e5/xme5JEjXv3Af8yzV88dgUwIkxeQ5a2aisPDn2ljA.jpg?width=1366",
+        "img_path": "https://api.ifolio.cloud/medias/t0/m4/t0m4J7BCTDh0ShDWayOFpM05ty49z6E5ZdPTbfYI.jpg",
         "price": "$1,500,000",
         "fill": "#6fccdd",
         "stroke": "#2998ac",
         "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and catered events. It will also be used as a hospitality area during athletic events for premium seat donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building (CUB)."
     },
     "Retail": {
-        "name": "Retail",
+        "name": "Retail Merchandise Area",
         "img_path": "https://api.ifolio.cloud/medias/Ho/Fa/HoFahaRdvmwvgeXYZjW2hoPicCubAtvm5M3IVWqO.jpg?width=1366",
-        "price": "$30,000",
+        "price": "$75,000",
         "fill": "#3953a4",
         "stroke": "#1c2952",
         "description": "Stetson fans can choose from the latest and greatest Hatter apparel."
@@ -53,7 +53,7 @@
         "price": "$25,000 each",
         "fill": "#ec2027",
         "stroke": "#9e0d12",
-        "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge"
+        "description": "Championship Hall will feature a written timeline with photographs of Stetson athletic achievements and Hall of Famers. It leads fans directly into the arena or to the elevator and stairway to the second floor."
     },
     "Office": {
         "name": "Offices",
@@ -81,7 +81,7 @@
     },
     "Athlete": {
         "name": "Athletic Director Suite",
-        "img_path": "https://api.ifolio.cloud/medias/yV/gw/yVgwHwCvDotwLbATTeQ3QA7LbOCXp1vPE3fuw1ky.jpg?width=1920",
+        "img_path": "https://api.ifolio.cloud/medias/Qy/mB/QymBphEIP6Z2OEGMz8tmCud4Kb472Vlj27QIq1YV.jpg",
         "price": "$250,000",
         "fill": "#439544",
         "stroke": "#2b5f2c",

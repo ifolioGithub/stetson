@@ -411,7 +411,7 @@
         }
     }, {
         "id": "rect-1441",
-        "title": "Display Copy",
+        "title": "Display",
         "type": "rect",
         "x": 65.758,
         "y": 43.529,
@@ -461,7 +461,7 @@
         }
     }, {
         "id": "rect-3887",
-        "title": "Display Copy Copy Copy",
+        "title": "Display",
         "type": "rect",
         "x": 51.108,
         "y": 42.575,
@@ -511,7 +511,7 @@
         }
     }, {
         "id": "rect-2221",
-        "title": "Office 5",
+        "title": "Office",
         "type": "rect",
         "x": 69.232,
         "y": 30.45,
@@ -664,7 +664,7 @@
         }
     }, {
         "id": "rect-2481",
-        "title": "Office 4",
+        "title": "Office",
         "type": "rect",
         "x": 73.843,
         "y": 40.055,
@@ -715,7 +715,7 @@
         }
     }, {
         "id": "poly-7070",
-        "title": "Office 3",
+        "title": "Office",
         "type": "poly",
         "x": 33.79,
         "y": 41.738,
@@ -788,7 +788,7 @@
         }]
     }, {
         "id": "poly-293",
-        "title": "Office 2",
+        "title": "Office",
         "type": "poly",
         "x": 33.605,
         "y": 30.915,
@@ -1130,7 +1130,7 @@
         }]
     }, {
         "id": "poly-543",
-        "title": "MHeadCoach",
+        "title": "WHeadCoach",
         "type": "poly",
         "x": 65.178,
         "y": 32.215,

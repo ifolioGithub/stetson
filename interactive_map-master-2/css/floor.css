@@ -3,6 +3,17 @@
     src: url("../assets/fonts/AvenirLTStd-Book.otf") format("opentype");
 }
 
+#gOverlay{
+    background-image: linear-gradient(rgba(16, 94, 48,0),rgba(16, 94, 48,100));
+    position:absolute;
+    width:400px;
+    height: 50px;
+    left: 1.35em;
+    bottom: 6vh;
+    z-index:3;
+    display: none;
+}
+
 .body {
     background-color: #ddd;
     font-family: "Avenir";
@@ -25,9 +36,14 @@
     margin-top: 1.5em;
     font-size: 0.9rem;
     z-index: 2;
-    position: absolute;
+    position: relative;
     max-height: 90vh;
+    width:400px;
     overflow: scroll;
+}
+
+.card-left > div > img {
+    height: 255px;
 }
 
 .card-popup{
@@ -53,6 +69,14 @@
     font-weight: bolder;
     font-size: 30px;
     color: white;
+}
+
+.card-price:has(.costshrink){
+    line-height: 22px;
+}
+
+.costshrink{
+    font-size: 18px;
 }
 
 .card-text {

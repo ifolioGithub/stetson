@@ -313,7 +313,7 @@
         }
     }, {
         "id": "rect-7972",
-        "title": "Delib1",
+        "title": "Delib",
         "type": "rect",
         "x": 54.098,
         "y": 30.965,
