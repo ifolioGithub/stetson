@@ -15,7 +15,7 @@
                 }
             },
             "general": {
-                "name": "BH int",
+                "name": "BrownHall",
                 "width": 1366,
                 "height": 854,
                 "naturalWidth": 1366,
