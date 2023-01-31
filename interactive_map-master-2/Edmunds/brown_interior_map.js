@@ -4,7 +4,6 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 6960,
     "editor": {
-        "selected_shape": "rect-2116",
         "tool": "select",
         "shapeCounter": {
             "spots": 1,
@@ -22,20 +21,20 @@
         "naturalHeight": 854
     },
     "image": {
-        "url": "https://api.ifolio.cloud/medias/gP/Kx/gPKxCGaQR4vlbi4n7TejZmDYYWNtwHBR678yqPeh.png"
+        "url": "https://api.ifolio.cloud/medias/F3/tO/F3tOYlTtN6mAMUCJ9avaYwx9rIkJB7qnxecuVtpH.jpg?width=1366"
     },
     "layers": {
         "enable_layers": 1,
         "layers_list": [{
             "id": 0,
             "title": "Floor 1",
-            "image_url": "https://api.ifolio.cloud/medias/TN/Bq/TNBqQmhirQEPz7k95wWP1bMWtCb602uJNlX8qNXN.jpg?width=1920",
+            "image_url": "https://api.ifolio.cloud/medias/gP/Kx/gPKxCGaQR4vlbi4n7TejZmDYYWNtwHBR678yqPeh.png",
             "image_width": 1920,
             "image_height": 1200
         }, {
             "id": 1,
             "title": "Floor 2",
-            "image_url": "https://api.ifolio.cloud/medias/8f/kC/8fkCKBLwqKicdfXeHayh6U4RXRecSFvOoPRYdE21.jpg?width=1366",
+            "image_url": "https://api.ifolio.cloud/medias/8f/kC/8fkCKBLwqKicdfXeHayh6U4RXRecSFvOoPRYdE21.jpg",
             "image_width": 1366,
             "image_height": 854
         }]
