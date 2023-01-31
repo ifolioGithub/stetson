@@ -21,12 +21,12 @@
         "price": "$100,000",
         "fill": "#fbb03a",
         "stroke": "#c27804",
-        "description": "The renovation will add a much-needed, ADA-compliant elevator to the Edmunds Center. An elevator will allow access to the second floor VIP area, balcony and athletic offices."
+        "description": "Fans can purchase tickets at the ticket windows on game day."
     },
     "HallOfFame": {
         "name": "Hall of Fame",
         "img_path": "https://api.ifolio.cloud/medias/ze/OU/zeOULVKuhCUWBQQlgyaas2bk01reePXUHi5BstOU.jpg",
-        "price": "<span class='costshrink'>Touch Screen Display: $200,000<br> Championship Hall: $100,000 <br>Historical Displays (10): $25,000 each<br>Trophy Cases (2): $25,000 each<br>Athletic Wall: $200,000</span>",
+        "price": "<span class='costshrink'>Touch Screen Display: $200,000<br> Championship Hall: $100,000 <br>Historical Displays (10): $25,000 each<br>Trophy Cases (2): $25,000 each<br>History Wall: $200,000 <br> Large Displays (2): $100,000 each</span>",
         "fill": "#6fccdd",
         "stroke": "#2998ac",
         "description": "The Hall of Fame is the centerpiece of the first floor and will showcase Stetson University’s rich athletic history. Glass trophy cases will highlight individual sports programs, Hall of Fame inductees and student-athlete achievements. A touch screen videoboard will familiarize touring prospective students and student-athletes with Stetson’s championship history. Alumni and fans of Stetson can relive their greatest Hatter athletic moments while sharing stories in the Hall of Fame lounge."
@@ -74,7 +74,7 @@
     "WHeadCoach": {
         "name": "Head Coaches Offices",
         "img_path": "https://api.ifolio.cloud/medias/pZ/y2/pZy2lTqZpW9PYIaZsXEkkKOll2d1qwVzSToRgjYF.jpg?width=1920",
-        "price": "150,000",
+        "price": "$150,000",
         "fill": "#3953a4",
         "stroke": "#1c2952",
         "description": "Home to the basketball coaching staffs, this suite unites currently non-adjacent staff. It professionalizes and increases the efficiency of our operations while providing an impressive space for prospective student-athletes and their families as well as alumni. <br> The head coach offices for the men’s and women’s basketball teams are located in close proximity. Sharing a suite with their other staff professionalizes and increases the efficiency of our operations while providing a welcoming space for visitors."
@@ -82,7 +82,7 @@
     "VIPRoom": {
         "name": "VIP Room",
         "img_path": "https://api.ifolio.cloud/medias/LW/wc/LWwcfpR6W7IGz6HQeBvdUo0L4MpWPp4kUqJebJ9S.jpg?width=1920",
-        "price": "$1,500,000",
+        "price": "$1,500,000 <br> Breakout Sections: $500,000 each",
         "fill": "#fbb03a",
         "stroke": "#c27804",
         "description": "This multi-purpose space can be used as a classroom or meeting space, or for receptions and catered events. It will also be used as a hospitality area during athletic events for premium seat donors and season ticketholders. The VIP room will serve as one of the larger meeting spaces on campus, with similar functionality and use as the Stetson Room in the Carlton Union Building (CUB)."
@@ -118,5 +118,13 @@
         "fill": "#3953a4",
         "stroke": "#1c2952",
         "description": "The new balcony provides a VIP-level view to the action on the court, while providing free-flow access to the VIP room. "
+    },
+    "Elevator": {
+        "name": "Elevator Vestibule",
+        "img_path": "https://api.ifolio.cloud/medias/TM/hR/TMhRaOhUm6RhDDPbKKroR3D6DphqbnUGbsWaYyDQ.jpg?width=1920",
+        "price": "$100,000",
+        "fill": "#3953a4",
+        "stroke": "#1c2952",
+        "description": " The renovation will add a much-needed, ADA-compliant elevator to the Edmunds Center. An elevator will allow access to the second floor VIP area, balcony and athletic offices."
     }
 }
