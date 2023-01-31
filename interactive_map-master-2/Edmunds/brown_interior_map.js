@@ -22,7 +22,7 @@
         "naturalHeight": 854
     },
     "image": {
-        "url": "https://api.ifolio.cloud/medias/F3/tO/F3tOYlTtN6mAMUCJ9avaYwx9rIkJB7qnxecuVtpH.jpg?width=1366"
+        "url": "https://api.ifolio.cloud/medias/gP/Kx/gPKxCGaQR4vlbi4n7TejZmDYYWNtwHBR678yqPeh.png"
     },
     "layers": {
         "enable_layers": 1,
