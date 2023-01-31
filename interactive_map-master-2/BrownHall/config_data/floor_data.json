@@ -1,0 +1,186 @@
+{
+    "sGR": {
+        "name": "Small Group Rooms (3)",
+        "img_path": "https://api.ifolio.cloud/medias/Y6/Ii/Y6IiqfcJu4lGL2Huukhf6WnmzOBQ8hfcRs434Yco.jpg",
+        "price": "$15,000 each",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), provides space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County. <br> The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
+    },
+    "bTL": {
+        "name": "Body Testing Lab",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$50,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The Body Testing Lab will enhance curricular offerings and research within the Health Sciences Department."
+    },
+    "sLab": {
+        "name": "Smart Lab",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$75,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The SMART Lab, part of the Center for Optimal Health Across the Lifespan (COHL), is designed to teach and research the efficacy of stress management and resiliency skills within the Volusia County population and Stetson’s student body. The lab targets significant reductions in stress levels, using biofeedback monitors, and can be combined with self-report measures of psychological disorders and indicators of resilience. The SMART Lab is capable of intervening with a wide age of demographics, from children to geriatric, and can be combined with other health initiatives."
+    },
+    "Offic": {
+        "name": "Offices",
+        "img_path": "https://api.ifolio.cloud/medias/0I/lt/0IltTl2qioT6aL34TSOxcmMlH7SIGg3aYG8rehWT.jpg",
+        "price": "$10,000 each",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Second floor offices are home to faculty in Health Sciences, Public Health and Counselor Education."
+    },
+    "stuLounge": {
+        "name": "Student Lounge",
+        "img_path": "https://api.ifolio.cloud/medias/Y6/Ii/Y6IiqfcJu4lGL2Huukhf6WnmzOBQ8hfcRs434Yco.jpg",
+        "price": "$40,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Incorporating a diverse mix of formal and informal spaces, the Student Lounge encourages collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
+    },
+    "cRom": {
+        "name": "Classrooms",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$75,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning. "
+    },
+    "ESSFRP": {
+        "name": "Environmental Science and Studies Faculty Research Pod",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$100,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": " The ENSS Faculty Research Pod with the lab will be the site of research activity and collaborations utilizing GIS (Geographical Information Systems) and other equipment and software."
+    },
+    "phle": {
+        "name": "Phlebotomy Area",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$20,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "A variety of student collaborative spaces dot the main corridor and provide entrance to myriad classrooms, labs and offices."
+    },
+    "sBar": {
+        "name": "Study Bar",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$7105,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Spaces throughout Brown Hall provide student with places to study, collaborate and relax."
+    },
+    "mCorridor": {
+        "name": "Main Corridor",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$100,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "A variety of student collaborative spaces dot the main corridor and provide entrance to myriad classrooms, labs and offices."
+    },
+    "collab": {
+        "name": "Student Collaboration Space",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$15,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": ""
+    },
+    "alcove": {
+        "name": "Student Alcove",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$50,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": ""
+    },
+    "TMS": {
+        "name": "The Monumental Stair",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$100,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The openness of the building's design extends to the grand staircase, which guides traffic upstairs while encouraging interaction among community members."
+    },
+    "SSS": {
+        "name": "Student Study Spaces",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$15,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Incorporating a diverse mix of formal and informal spaces, Brown Hall offers student gathering spaces that encourage collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
+    },
+    "WTL": {
+        "name": "Wet Teaching Labs (2)",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$150,000 each",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Wet teaching labs enhance the curriculum of the Environmental Science and Studies Department. The labs house equipment used in soil and water sampling and analysis, environmental surveying, and other hands-on training for students."
+    },
+    "gH": {
+        "name": "Greenhouse",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$100,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The new greenhouse, with an internal shade system and a butterfly roof to facilitate rainwater collection, houses plants and seedlings for classes and research."
+    },
+    "SR": {
+        "name": "Seminar Room",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "Needs Price",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Needs TXT"
+    },
+    "ESSRLMR": {
+        "name": "Environmental Science & Studies Field Studies Lab & Mud Room (2)",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$125,000 each",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The labs will house equipment used in soil and water sampling and analysis, environmental surveying and other hands-on training for students. The Mud Room will allow field specimens to be brought into the building for use in lab spaces."
+    },
+    "Ofi": {
+        "name": "Offices (12)",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$10,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "First floor offices house faculty in the Environmental Science and Studies Department and the Sustainable Food Systems Program, as well as the Institute for Water and Environmental Resilience."
+    },
+    "rA": {
+        "name": "Reception Area",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$30,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "A reception area welcomes students, faculty and staff and serves as a resource for visitors to navigate the building's offerings."
+    },
+    "clRom": {
+        "name": "",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "Large: $150,000 <br> Medium $100,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning."
+    },
+    "Lobby": {
+        "name": "Lobby and Entrance Corridor",
+        "img_path": "https://api.ifolio.cloud/medias/KP/HH/KPHH7bnTzLex5rus4QOkzUbvorTgtJCxZ5PZfftb.jpg?width=768",
+        "price": "$100,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "At the entrance of Brown Hall is a large common area that communicates the university's vision for the new building and its inhabitants. The connection back to Sage Hall will preserve and strengthen the interdisciplinary interactions between disciplines."
+    },
+    "TKL": {
+        "name": "Teaching Kitchen Lab",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$150,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The Teaching Kitchen supports hands-on experiential learning connected to the Sustainable Food Systems program. Blending commercial and residential kitchen elements, the Teaching Kitchen contains cooking stations for classroom demonstrations, a wide range of equipment and appliances and additional seating space. Our Sustainable Food Systems program can leverage this teaching kitchen to prepare students for complex global challenges related to a sustainable, equitable and healthy food future."
+    }
+}
