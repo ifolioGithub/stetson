@@ -4,11 +4,11 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 6960,
     "editor": {
+        "selected_shape": "rect-2116",
         "tool": "select",
-        "currentLayer": "1",
         "shapeCounter": {
             "spots": 1,
-            "rects": 4,
+            "rects": 5,
             "polys": 29,
             "texts": 2,
             "paths": 1
@@ -29,15 +29,15 @@
         "layers_list": [{
             "id": 0,
             "title": "Floor 1",
-            "image_url": "https://api.ifolio.cloud/medias/40/34/4034x2krPPvvN8MsY6Y3lGdPCg6lFHbmenlPzF8z.png?width=1366",
-            "image_width": 1366,
-            "image_height": 854
+            "image_url": "https://api.ifolio.cloud/medias/TN/Bq/TNBqQmhirQEPz7k95wWP1bMWtCb602uJNlX8qNXN.jpg?width=1920",
+            "image_width": 1920,
+            "image_height": 1200
         }, {
             "id": 1,
             "title": "Floor 2",
-            "image_url": "https://api.ifolio.cloud/medias/ic/Jn/icJn6N6QF45KmBupbtvNQBBzXGbAxCwaKSaPW7nU.jpg",
-            "image_width": 1152,
-            "image_height": 720
+            "image_url": "https://api.ifolio.cloud/medias/8f/kC/8fkCKBLwqKicdfXeHayh6U4RXRecSFvOoPRYdE21.jpg?width=1366",
+            "image_width": 1366,
+            "image_height": 854
         }]
     },
     "spots": [{
@@ -374,7 +374,7 @@
         }]
     }, {
         "id": "rect-2221",
-        "title": "OfficeR",
+        "title": "Office",
         "type": "rect",
         "x": 73.7,
         "y": 40.131,
@@ -475,7 +475,7 @@
         }
     }, {
         "id": "rect-8881",
-        "title": "OfficeR",
+        "title": "Office",
         "type": "rect",
         "x": 65.101,
         "y": 40.222,
@@ -535,7 +535,7 @@
         "height": 9.681,
         "x_image_background": 33.79,
         "y_image_background": 41.738,
-        "connected_to": "poly-293",
+        "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
             "background_color": "#6fccdd",
@@ -608,6 +608,7 @@
         "height": 8.528,
         "x_image_background": 33.605,
         "y_image_background": 30.915,
+        "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
             "background_color": "#6fccdd",
@@ -1085,13 +1086,13 @@
         }]
     }, {
         "id": "rect-4282",
-        "title": "OfficeR",
+        "title": "Office",
         "type": "rect",
-        "x": 69.088,
+        "x": 69.232,
         "y": 30.45,
         "width": 7.78,
         "height": 9.836,
-        "x_image_background": 69.088,
+        "x_image_background": 69.232,
         "y_image_background": 30.45,
         "width_image_background": 7.78,
         "height_image_background": 9.836,
@@ -1127,6 +1128,57 @@
                             "options": {
                                 "heading": {
                                     "text": "Rect 2"
+                                }
+                            }
+                        }]
+                    }
+                }]
+            }
+        }
+    }, {
+        "id": "rect-2116",
+        "title": "Elevator",
+        "type": "rect",
+        "x": 22.334,
+        "y": 32.248,
+        "width": 3.602,
+        "height": 9.914,
+        "x_image_background": 22.334,
+        "y_image_background": 32.248,
+        "width_image_background": 3.602,
+        "height_image_background": 9.914,
+        "default_style": {
+            "border_radius": 0,
+            "background_color": "#439544",
+            "background_opacity": 0.16920405982905984,
+            "stroke_color": "#82c449",
+            "stroke_opacity": 1,
+            "stroke_width": 5
+        },
+        "mouseover_style": {
+            "border_radius": 0,
+            "background_color": "#82c449",
+            "background_opacity": 0.7247596153846154,
+            "stroke_color": "#82c449",
+            "stroke_opacity": 0.9636752136752137,
+            "stroke_width": 3
+        },
+        "tooltip": {
+            "enable_tooltip": 0
+        },
+        "tooltip_content": {
+            "squares_settings": {
+                "containers": [{
+                    "id": "sq-container-403761",
+                    "settings": {
+                        "elements": [{
+                            "settings": {
+                                "name": "Heading",
+                                "iconClass": "fa fa-header"
+                            },
+                            "options": {
+                                "heading": {
+                                    "text": "Rect 4"
                                 }
                             }
                         }]
