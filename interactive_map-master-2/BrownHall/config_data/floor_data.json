@@ -182,5 +182,13 @@
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "The Teaching Kitchen supports hands-on experiential learning connected to the Sustainable Food Systems program. Blending commercial and residential kitchen elements, the Teaching Kitchen contains cooking stations for classroom demonstrations, a wide range of equipment and appliances and additional seating space. Our Sustainable Food Systems program can leverage this teaching kitchen to prepare students for complex global challenges related to a sustainable, equitable and healthy food future."
+    },
+    "pTC": {
+        "name": "Play Therapy Classroom",
+        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "price": "$75,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), provides space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County. <br> The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
     }
 }
