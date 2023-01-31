@@ -178,6 +178,23 @@
     border-bottom-color: #105e31 !important;
 }
 
+/* Call To Action Exterior page */
+.c2a{
+    font-family: "Avenir";
+    font-size: 30px;
+    margin: 0px auto 10px;
+    font-weight: 500;
+    color: white	;
+    z-index: 3;
+    position: absolute;
+    background-color: #575B5F;
+    top: 2.5%;
+    left: 2.5%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 0px 5px black;
+}
+
 @media screen and (max-width: 992px) {
     .floor-select {
         display: none;
