@@ -89,7 +89,7 @@
     },
     "alcove": {
         "name": "Student Alcove",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/wx/fx/wxfxvIAUyqVimiWp7YBUBqOv9OU0XmpJLsT03QBl.jpg",
         "price": "$50,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -97,7 +97,7 @@
     },
     "TMS": {
         "name": "The Monumental Stair",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/wx/fx/wxfxvIAUyqVimiWp7YBUBqOv9OU0XmpJLsT03QBl.jpg",
         "price": "$100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -105,7 +105,7 @@
     },
     "SSS": {
         "name": "Student Study Spaces",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/Rp/jj/RpjjQxk6w4lrlo3iKXF0sttBEMQwSXvpHUIqoHLJ.jpg",
         "price": "$15,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -145,7 +145,7 @@
     },
     "Ofi": {
         "name": "Offices (12)",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/0I/lt/0IltTl2qioT6aL34TSOxcmMlH7SIGg3aYG8rehWT.jpg",
         "price": "$10,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -153,15 +153,15 @@
     },
     "rA": {
         "name": "Reception Area",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/Ud/95/Ud95kpVMlVT1yhsDFue9d9thF18645Avz8EKs4xV.jpg",
         "price": "$30,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "A reception area welcomes students, faculty and staff and serves as a resource for visitors to navigate the building's offerings."
     },
     "clRom": {
-        "name": "",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "name": "Classrooms",
+        "img_path": "https://api.ifolio.cloud/medias/ck/Hg/ckHgjKlpy2g6DN1hy4OAOGUigddqGBbXNZXYuTjK.jpg",
         "price": "Large: $150,000 <br> Medium $100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -169,7 +169,7 @@
     },
     "Lobby": {
         "name": "Lobby and Entrance Corridor",
-        "img_path": "https://api.ifolio.cloud/medias/KP/HH/KPHH7bnTzLex5rus4QOkzUbvorTgtJCxZ5PZfftb.jpg?width=768",
+        "img_path": "https://api.ifolio.cloud/medias/KP/HH/KPHH7bnTzLex5rus4QOkzUbvorTgtJCxZ5PZfftb.jpg",
         "price": "$100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
