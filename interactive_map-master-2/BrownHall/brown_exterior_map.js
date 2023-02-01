@@ -72,7 +72,7 @@
                                     },
                                     "options": {
                                         "heading": {
-                                            "text": "Main Corridor, Offices, Research Labs, Classrooms, Student Study Spaces"
+                                            "text": "Main Corridor, Study Bar, Small Group Rooms, Officess, Smart Lab, Body Testing Lab, Phlebotomy Area"
                                         }
                                     }
                                 }]
@@ -169,7 +169,7 @@
                                     },
                                     "options": {
                                         "heading": {
-                                            "text": "Lobby, The Connector, Teaching Labs, Research Labs, Offices, Student Study Spaces"
+                                            "text": "Teaching Kitchen Lab, Study Spaces, Classrooms, Lobby, Offices, Wet Teaching Lab, Seminar Room, Greenhouse, Environmental Science & Studies Research Lab Mud Room"
                                         }
                                     }
                                 }]
