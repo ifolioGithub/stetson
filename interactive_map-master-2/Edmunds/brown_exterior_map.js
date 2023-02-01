@@ -70,7 +70,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Ticketing, Lobby Hall, Hall of Fame, Lounge, Cafe, Retail, Trophy Display"
+                                    "text": "Ticketing, Lobby, Hall of Fame, Lounge, Cafe, Retail, Elevator"
                                 }
                             }
                         }]
@@ -128,7 +128,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Athletic Suite, Refuel Station, Offices, Basketball Suite, Balcony"
+                                    "text": "Athletic Suite, Refuel Station, Offices, Basketball Suite, Balcony, VIP Room"
                                 }
                             }
                         }]
