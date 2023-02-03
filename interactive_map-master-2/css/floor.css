@@ -193,6 +193,7 @@
     padding: 5px 10px;
     display: flex;
     flex-direction: row;
+    gap: 15px;
 }
 
 @media screen and (max-width: 992px) {
