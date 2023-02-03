@@ -13,7 +13,7 @@
         "price": "$50,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The Body Testing Lab will enhance curricular offerings and research within the Health Sciences Department."
+        "description": "The Body Testing Lab will enhance curricular offerings and research within the Health Sciences department."
     },
     "sLab": {
         "name": "Smart Lab",
@@ -112,9 +112,9 @@
         "description": "Incorporating a diverse mix of formal and informal spaces, Brown Hall offers student gathering spaces that encourage collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
     },
     "WTL": {
-        "name": "Wet Teaching Labs (2)",
+        "name": "Wet Teaching Labs",
         "img_path": "https://api.ifolio.cloud/medias/7j/BB/7jBBT6wmqesk1O2UkQodqUiAi8mZ7tLar2gBAT88.jpg",
-        "price": "$150,000 each",
+        "price": "Wet Lab (2): $150,000 each",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "Wet teaching labs enhance the curriculum of the Environmental Science and Studies Department. The labs house equipment used in soil and water sampling and analysis, environmental surveying, and other hands-on training for students."
@@ -136,12 +136,12 @@
         "description": "The seminar room is used by all departments and programs in Brown Hall for small discussion-based classes as well as department faculty and other meetings.  "
     },
     "ESSRLMR": {
-        "name": "Environmental Science & Studies Field Studies Lab & Mudroom (2)",
+        "name": "Environmental Science & Studies Field Studies Lab (2)",
         "img_path": "https://api.ifolio.cloud/medias/8o/9Y/8o9YS0wVa5itTOL5z9aDQtcZfc6A4UXvgCevMLem.jpg",
         "price": "$75,000 each",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The labs will house equipment used in soil and water sampling and analysis, environmental surveying and other hands-on training for students. The Mud Room will allow field specimens to be brought into the building for use in lab spaces."
+        "description": "The labs will house equipment used in soil and water sampling and analysis, environmental surveying and other hands-on training for students. One of the labs will allow field specimens to be brought into the building for use in lab spaces."
     },
     "Ofi": {
         "name": "Offices (12)",
@@ -181,7 +181,7 @@
         "price": "$150,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The Teaching Kitchen supports hands-on experiential learning connected to the Sustainable Food Systems program. Blending commercial and residential kitchen elements, the Teaching Kitchen contains cooking stations for classroom demonstrations, a wide range of equipment and appliances and additional seating space. Our Sustainable Food Systems program can leverage this teaching kitchen to prepare students for complex global challenges related to a sustainable, equitable and healthy food future."
+        "description": "The Teaching Kitchen supports hands-on experiential learning connected to the Sustainable Food Systems program, Health Sciences, Chemistry and Counselor Education. Blending commercial and residential kitchen elements, the Teaching Kitchen contains cooking stations for classroom demonstrations, a wide range of equipment and appliances and additional seating space. Our Sustainable Food Systems program can leverage this teaching kitchen to prepare students for complex global challenges related to a sustainable, equitable and healthy food future."
     },
     "pTC": {
         "name": "Play Therapy Classroom",
