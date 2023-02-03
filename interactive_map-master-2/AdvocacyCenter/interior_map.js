@@ -5,7 +5,6 @@
     "id": 392,
     "editor": {
         "tool": "select",
-        "currentLayer": "1",
         "shapeCounter": {
             "spots": 1,
             "rects": 6,
@@ -749,16 +748,14 @@
         "width_image_background": 3.811,
         "height_image_background": 4.679,
         "default_style": {
-            "background_color": "#6fccdd",
-            "background_opacity": 0.21193910256410256,
-            "stroke_color": "#3fbbd2",
-            "stroke_opacity": 1,
+            "background_color": "#9ACF55",
+            "background_opacity": 0.18629807692307693,
+            "stroke_color": "#9ACF55",
             "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#3fbbd2",
-            "background_opacity": 0.7094017094017094,
-            "stroke_color": "#3fbbd2",
+            "background_color": "#9ACF55",
+            "stroke_color": "#9ACF55",
             "stroke_opacity": 1,
             "stroke_width": 5
         },
