@@ -4,8 +4,6 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 392,
     "editor": {
-        "previewMode": 1,
-        "selected_shape": "poly-2358",
         "tool": "select",
         "currentLayer": "1",
         "shapeCounter": {
@@ -31,13 +29,13 @@
         "layers_list": [{
             "id": 0,
             "title": "Floor 1",
-            "image_url": "https://api.ifolio.cloud/medias/Un/dU/UndUnjJ7IkJAM0NLMaVT0xhKXgeX9nrqVac5mt7u.png?width=1366",
+            "image_url": "https://api.ifolio.cloud/medias/vt/sE/vtsEfIUuig4LX9RSHtA2yyY3ewKZVl5sjOfyedM6.png?width=1366",
             "image_width": 1366,
             "image_height": 854
         }, {
             "id": 1,
             "title": "Floor 2",
-            "image_url": "https://api.ifolio.cloud/medias/hR/vD/hRvDbc72TjQasVGHiCqMSvSfCyUUn34uGLuc04Tv.png?width=1366",
+            "image_url": "https://api.ifolio.cloud/medias/dj/7W/dj7WZQ2qiYmI16eCiS27XjTe7ZqcibJY1y5z8XBq.png?width=1366",
             "image_width": 1366,
             "image_height": 854
         }]
@@ -371,13 +369,13 @@
         "title": "OfficeL",
         "type": "poly",
         "x": 45.678,
-        "y": 71.707,
+        "y": 65.213,
         "width": 4.034,
-        "height": 9.408,
+        "height": 15.902,
         "x_image_background": 45.678,
-        "y_image_background": 71.707,
+        "y_image_background": 65.213,
         "width_image_background": 4.034,
-        "height_image_background": 9.408,
+        "height_image_background": 15.902,
         "layerID": "1",
         "default_style": {
             "background_color": "#6fccdd",
@@ -680,14 +678,14 @@
         "id": "poly-6675",
         "title": "OfficeFirst",
         "type": "poly",
-        "x": 55.575,
+        "x": 56.216,
         "y": 72.446,
-        "width": 26.224,
-        "height": 7.836,
-        "x_image_background": 55.575,
+        "width": 25.583,
+        "height": 7.249,
+        "x_image_background": 56.216,
         "y_image_background": 72.446,
-        "width_image_background": 26.224,
-        "height_image_background": 7.836,
+        "width_image_background": 25.583,
+        "height_image_background": 7.249,
         "default_style": {
             "background_color": "#6fccdd",
             "background_opacity": 0.21193910256410256,
@@ -742,23 +740,25 @@
         "id": "poly-4130",
         "title": "Journal",
         "type": "poly",
-        "x": 72.945,
-        "y": 65.981,
-        "width": 4.178,
-        "height": 5.07,
-        "x_image_background": 72.945,
-        "y_image_background": 65.981,
-        "width_image_background": 4.178,
-        "height_image_background": 5.07,
+        "x": 72.801,
+        "y": 65.692,
+        "width": 3.811,
+        "height": 4.679,
+        "x_image_background": 72.801,
+        "y_image_background": 65.692,
+        "width_image_background": 3.811,
+        "height_image_background": 4.679,
         "default_style": {
-            "background_color": "#9ACF55",
-            "background_opacity": 0.18629807692307693,
-            "stroke_color": "#9ACF55",
+            "background_color": "#6fccdd",
+            "background_opacity": 0.21193910256410256,
+            "stroke_color": "#3fbbd2",
+            "stroke_opacity": 1,
             "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#9ACF55",
-            "stroke_color": "#9ACF55",
+            "background_color": "#3fbbd2",
+            "background_opacity": 0.7094017094017094,
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
             "stroke_width": 5
         },
@@ -803,13 +803,13 @@
         "title": "URA",
         "type": "poly",
         "x": 57.737,
-        "y": 62.535,
+        "y": 63.122,
         "width": 5.043,
-        "height": 7.836,
+        "height": 6.271,
         "x_image_background": 57.737,
-        "y_image_background": 62.535,
+        "y_image_background": 63.122,
         "width_image_background": 5.043,
-        "height_image_background": 7.836,
+        "height_image_background": 6.271,
         "default_style": {
             "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
@@ -1003,14 +1003,14 @@
         "id": "poly-2926",
         "title": "GVC",
         "type": "poly",
-        "x": 69.471,
-        "y": 49.139,
-        "width": 5.355,
-        "height": 17.055,
-        "x_image_background": 62.633,
-        "y_image_background": 49.481,
-        "width_image_background": 13.689,
-        "height_image_background": 17.055,
+        "x": 69.984,
+        "y": 50.646,
+        "width": 4.416,
+        "height": 15.688,
+        "x_image_background": 69.984,
+        "y_image_background": 50.646,
+        "width_image_background": 4.416,
+        "height_image_background": 15.688,
         "default_style": {
             "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
@@ -1048,34 +1048,34 @@
             }
         },
         "points": [{
-            "x": 1.5686274509804505,
-            "y": 32.95800530564672
+            "x": 0,
+            "y": 30.344242138748363
         }, {
-            "x": 4.745356803177935,
-            "y": 3.1069169714462785
+            "x": 1.357002686743581,
+            "y": 1.0799832699900218
         }, {
-            "x": 96.02240896358528,
+            "x": 100,
             "y": 0
         }, {
             "x": 100,
-            "y": 97.99472295514514
+            "y": 98.03414381789965
         }, {
-            "x": 0,
+            "x": 1.0290363752393492,
             "y": 100
         }, {
-            "x": 3.9775910364144482,
-            "y": 51.48479946434345
+            "x": 1.0290363752392924,
+            "y": 44.58086192242215
         }]
     }, {
         "id": "poly-7423",
         "title": "CollHall",
         "type": "poly",
-        "x": 35.688,
-        "y": 9.713,
+        "x": 35.517,
+        "y": 9.985,
         "width": 12.04,
         "height": 22.357,
-        "x_image_background": 35.688,
-        "y_image_background": 9.713,
+        "x_image_background": 35.517,
+        "y_image_background": 9.985,
         "width_image_background": 12.968,
         "height_image_background": 22.587,
         "default_style": {
@@ -1144,12 +1144,12 @@
         "id": "poly-1441",
         "title": "CourtroomLFirst",
         "type": "poly",
-        "x": 34.51,
-        "y": 32.939,
+        "x": 34.68,
+        "y": 32.803,
         "width": 12.449,
         "height": 17.286,
-        "x_image_background": 34.51,
-        "y_image_background": 32.939,
+        "x_image_background": 34.322,
+        "y_image_background": 32.803,
         "width_image_background": 12.248,
         "height_image_background": 18.899,
         "default_style": {
