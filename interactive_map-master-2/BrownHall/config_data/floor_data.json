@@ -5,11 +5,11 @@
         "price": "$15,000 each",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), provides space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County. <br> The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
+        "description": "Incorporating a diverse mix of formal and informal spaces, the small group rooms encourage collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
     },
     "bTL": {
         "name": "Body Testing Lab",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/Lh/Ht/LhHtHJiDrj6K9mCmGA8jiWjT1U9B5DsJTcAwuZfH.jpg",
         "price": "$50,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -17,14 +17,14 @@
     },
     "sLab": {
         "name": "Smart Lab",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/UK/BI/UKBIRdA2NGnUUhCmXESWzeJQSVvFssNM4Y1MFAle.jpg",
         "price": "$75,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "The SMART Lab, part of the Center for Optimal Health Across the Lifespan (COHL), is designed to teach and research the efficacy of stress management and resiliency skills within the Volusia County population and Stetson’s student body. The lab targets significant reductions in stress levels, using biofeedback monitors, and can be combined with self-report measures of psychological disorders and indicators of resilience. The SMART Lab is capable of intervening with a wide age of demographics, from children to geriatric, and can be combined with other health initiatives."
     },
     "Offic": {
-        "name": "Offices",
+        "name": "Offices (13)",
         "img_path": "https://api.ifolio.cloud/medias/0I/lt/0IltTl2qioT6aL34TSOxcmMlH7SIGg3aYG8rehWT.jpg",
         "price": "$10,000 each",
         "fill": "#cee0b3",
@@ -33,7 +33,7 @@
     },
     "stuLounge": {
         "name": "Student Lounge",
-        "img_path": "https://api.ifolio.cloud/medias/Y6/Ii/Y6IiqfcJu4lGL2Huukhf6WnmzOBQ8hfcRs434Yco.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/LI/L2/LIL2RVZaTqFrq3SgTfx7TC0E4v4qz1K077e0UWpX.jpg",
         "price": "$40,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -41,39 +41,39 @@
     },
     "cRom": {
         "name": "Classrooms",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/18/z6/18z6qyqwFKmOWbxSKijDQE7NFjlUEWYFON9Jjqlt.jpg",
+        "price": "Large: $100,000<br>Medium: $75,000<br>Small: $40,000",
+        "fill": "#cee0b3",
+        "stroke": "#72953d",
+        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning."
+    },
+    "ESSFRP": {
+        "name": "GIS (Geographical Information Systems) Lab",
+        "img_path": "https://api.ifolio.cloud/medias/5v/Si/5vSiKFY01QVfkDSHK1CGedygMcv40xz1AfuoK2Bq.jpg",
         "price": "$75,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning. "
-    },
-    "ESSFRP": {
-        "name": "Environmental Science and Studies Faculty Research Pod",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
-        "price": "$100,000",
-        "fill": "#cee0b3",
-        "stroke": "#72953d",
-        "description": " The ENSS Faculty Research Pod with the lab will be the site of research activity and collaborations utilizing GIS (Geographical Information Systems) and other equipment and software."
+        "description": "The GIS (geographical information systems) classroom and lab support efforts to emphasize GIS in student training with over a dozen state-of-the-art computers for teaching digital mapping and spatial analysis; it is an essential skill for employment in numerous environmental-related fields. THE ENSS Faculty Research Pod within the lab will be the site of research activity and collaborations using GIS and other equipment and software."
     },
     "phle": {
         "name": "Phlebotomy Area",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/NI/b6/NIb6pzoviLUUjr1eOfT10LQeoIlPmKrVrSfppRSJ.jpg",
         "price": "$20,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "A variety of student collaborative spaces dot the main corridor and provide entrance to myriad classrooms, labs and offices."
+        "description": "Students receive hands-on training in health sciences."
     },
     "sBar": {
         "name": "Study Bar",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
-        "price": "$7105,000",
+        "img_path": "https://api.ifolio.cloud/medias/ge/lu/geluUHGEn91xomP0VLhD0NcSW2RKzuzXAWnLLumJ.jpg",
+        "price": "$10,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "Spaces throughout Brown Hall provide student with places to study, collaborate and relax."
     },
     "mCorridor": {
         "name": "Main Corridor",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/NI/b6/NIb6pzoviLUUjr1eOfT10LQeoIlPmKrVrSfppRSJ.jpg",
         "price": "$100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -81,7 +81,7 @@
     },
     "collab": {
         "name": "Student Collaboration Space",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/wx/fx/wxfxvIAUyqVimiWp7YBUBqOv9OU0XmpJLsT03QBl.jpg",
         "price": "$15,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -113,7 +113,7 @@
     },
     "WTL": {
         "name": "Wet Teaching Labs (2)",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/7j/BB/7jBBT6wmqesk1O2UkQodqUiAi8mZ7tLar2gBAT88.jpg",
         "price": "$150,000 each",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -121,24 +121,24 @@
     },
     "gH": {
         "name": "Greenhouse",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/Gj/4Q/Gj4QXqS8DHjyvBF3jbFxAMm8jVvjXuCUf0yXxE9K.jpg",
         "price": "$100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The new greenhouse, with an internal shade system and a butterfly roof to facilitate rainwater collection, houses plants and seedlings for classes and research."
+        "description": "The new greenhouse, with an internal shade system and a butterfly roof to facilitate rainwater collection, houses plants and seedlings for classes and research. As well as for planting in the Teaching Garden. Shared by the Biology and Environmental Science and Studies departments, the greenhouse has two separate rooms that can be independently controlled to manage temperature, humidity and light conditions. State-of-the-art control systems can be monitored remotely through apps that faculty using the greenhouse keep on their laptops or smart phones."
     },
     "SR": {
         "name": "Seminar Room",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
-        "price": "Needs Price",
+        "img_path": "https://api.ifolio.cloud/medias/tx/D1/txD1Qlc9jGA6ZSFtYlei247uMmU8lDxvrPEAbk9b.jpg",
+        "price": "$20,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "Needs TXT"
+        "description": "The seminar room is used by all departments and programs in Brown Hall for small discussion-based classes as well as department faculty and other meetings.  "
     },
     "ESSRLMR": {
-        "name": "Environmental Science & Studies Field Studies Lab & Mud Room (2)",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
-        "price": "$125,000 each",
+        "name": "Environmental Science & Studies Field Studies Lab & Mudroom (2)",
+        "img_path": "https://api.ifolio.cloud/medias/8o/9Y/8o9YS0wVa5itTOL5z9aDQtcZfc6A4UXvgCevMLem.jpg",
+        "price": "$75,000 each",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "The labs will house equipment used in soil and water sampling and analysis, environmental surveying and other hands-on training for students. The Mud Room will allow field specimens to be brought into the building for use in lab spaces."
@@ -146,7 +146,7 @@
     "Ofi": {
         "name": "Offices (12)",
         "img_path": "https://api.ifolio.cloud/medias/0I/lt/0IltTl2qioT6aL34TSOxcmMlH7SIGg3aYG8rehWT.jpg",
-        "price": "$10,000",
+        "price": "$10,000 each",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "First floor offices house faculty in the Environmental Science and Studies Department and the Sustainable Food Systems Program, as well as the Institute for Water and Environmental Resilience."
@@ -161,7 +161,7 @@
     },
     "clRom": {
         "name": "Classrooms",
-        "img_path": "https://api.ifolio.cloud/medias/ck/Hg/ckHgjKlpy2g6DN1hy4OAOGUigddqGBbXNZXYuTjK.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/vG/W8/vGW8f19AL01W8pgDFMd18vP8ucNf5OzVYEd28QiW.jpg",
         "price": "Large: $150,000 <br> Medium $100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -177,7 +177,7 @@
     },
     "TKL": {
         "name": "Teaching Kitchen Lab",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/lS/I3/lSI3orzX3seQVGGcxMEs6qSiAqtS9V0vw6Y0RZZc.jpg",
         "price": "$150,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -185,10 +185,10 @@
     },
     "pTC": {
         "name": "Play Therapy Classroom",
-        "img_path": "https://api.ifolio.cloud/medias/K2/oR/K2oRx3WHvfWTnYd1Gxth3FZtRaj6FMkjc0i1n50Q.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/z8/QJ/z8QJ8fVs91d9ZS5hXhTPbQiMagbVXaKoEvlZfn0n.jpg",
         "price": "$75,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), provides space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County. <br> The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
+        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), provides space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County.<br>The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
     }
 }
