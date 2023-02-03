@@ -20,7 +20,7 @@
     "URA": {
         "name": "Reception Area",
         "img_path": "https://api.ifolio.cloud/medias/BN/0S/BN0SUX3PH658bFFLefsU4xTwNgJl0RWtswaLNWob.jpg",
-        "price": "",
+        "price": "$35,000",
         "description": "The need for gathering space for students, faculty, guests, and others is in high demand at Stetson Law. This designated reception area provides the perfect meeting space for small groups to assemble."
     },
     "SFPC": {
@@ -48,15 +48,15 @@
         "description": "This Advocacy Institute Conference Room has been strategically located in a high traffic area to accommodate interaction between and among larger groups. It is anticipated it will be used by students, faculty, Advocacy teams and many others who require a larger space to facilitate discussion, practice, and exchange ideas."
     },
     "OfficeL": {
-        "name": "Large Office",
+        "name": "Office (7)",
         "img_path": "https://api.ifolio.cloud/medias/gu/JX/guJXPWSaXJS9IF2oEA7nh520sTkMF6sgJs01TM6N.jpg",
-        "price": "$40,000",
-        "description": "These second-floor office spaces have been designated for the Advocacy Center and are designed to promote student and faculty interaction. Guests to the Institute will find this to be the perfect workspace for providing faculty support to the various components of the Institute.  These are prime name opportunities for individuals wishing to honor professors, family members, programs, firms, and others as we build the Stetson Law’s advocacy legacy for the future."
+        "price": "$25,000",
+        "description": "Office space for faculty and staff on the law school campus is at a premium. These offices on the first floor provide critical space for the Elder Law Center and Biodiversity Institute faculty and staff. Additionally, these spaces offer excellent opportunities for donors to honor a valued professor, individual, law firm or family member."
     },
     "OfficeS": {
         "name": "Advocacy Center Small Office (6)",
         "img_path": "https://api.ifolio.cloud/medias/gu/JX/guJXPWSaXJS9IF2oEA7nh520sTkMF6sgJs01TM6N.jpg",
-        "price": "$25,000",
+        "price": "$25,000 each",
         "description": "These second-floor office spaces have been designated for the Advocacy Center and designed to promote student and faculty interaction. (Additional centers including Biodiversity will be accommodated in the new building, but exact space has yet to be formalized.) Guests to the Institute will find this to be the perfect workspace for providing faculty support to the various components of the Institute.  This is prime name opportunities for individuals wishing to honor professors, family members, programs, firms, and others as we build the Stetson Law’s advocacy legacy for the future."
     },
     "JRNL": {
