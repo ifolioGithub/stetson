@@ -4,7 +4,7 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 392,
     "editor": {
-        "selected_shape": "poly-1441",
+        "selected_shape": "poly-2926",
         "tool": "select",
         "shapeCounter": {
             "spots": 1,
@@ -18,8 +18,8 @@
         "name": "AdvocacyCenter",
         "width": 1366,
         "height": 854,
-        "naturalWidth": 1152,
-        "naturalHeight": 720
+        "naturalWidth": 1366,
+        "naturalHeight": 854
     },
     "image": {
         "url": "https://api.ifolio.cloud/medias/F3/tO/F3tOYlTtN6mAMUCJ9avaYwx9rIkJB7qnxecuVtpH.jpg?width=1366"
@@ -29,13 +29,13 @@
         "layers_list": [{
             "id": 0,
             "title": "Floor 1",
-            "image_url": "https://api.ifolio.cloud/medias/VJ/0x/VJ0xzj9YPnIPaybdZ7vCeYQS4T6rY4r9hChPiOMN.png?width=1366",
+            "image_url": "https://api.ifolio.cloud/medias/Un/dU/UndUnjJ7IkJAM0NLMaVT0xhKXgeX9nrqVac5mt7u.png?width=1366",
             "image_width": 1366,
             "image_height": 854
         }, {
             "id": 1,
             "title": "Floor 2",
-            "image_url": "https://api.ifolio.cloud/medias/dj/7W/dj7WZQ2qiYmI16eCiS27XjTe7ZqcibJY1y5z8XBq.png?width=1366",
+            "image_url": "https://api.ifolio.cloud/medias/hR/vD/hRvDbc72TjQasVGHiCqMSvSfCyUUn34uGLuc04Tv.png?width=1366",
             "image_width": 1366,
             "image_height": 854
         }]
@@ -687,79 +687,16 @@
         "width_image_background": 26.224,
         "height_image_background": 7.836,
         "default_style": {
-            "background_color": "#E73A42",
-            "background_opacity": 0.19484508547008547,
-            "stroke_color": "#E73A42",
-            "stroke_opacity": 0.8205128205128205,
-            "stroke_width": 5
-        },
-        "mouseover_style": {
-            "background_color": "#E73A42",
-            "background_opacity": 0.7094017094017094,
-            "stroke_color": "#E73A42",
+            "background_color": "#6fccdd",
+            "background_opacity": 0.21193910256410256,
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
             "stroke_width": 5
         },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Poly 30"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        },
-        "points": [{
-            "x": 0,
-            "y": 1.2195121951219512
-        }, {
-            "x": 100,
-            "y": 0
-        }, {
-            "x": 100,
-            "y": 100
-        }, {
-            "x": 0,
-            "y": 100
-        }]
-    }, {
-        "id": "poly-1873",
-        "title": "OfficeFirst",
-        "type": "poly",
-        "x": 78.197,
-        "y": 61.383,
-        "width": 3.602,
-        "height": 7.836,
-        "x_image_background": 78.197,
-        "y_image_background": 61.383,
-        "width_image_background": 3.602,
-        "height_image_background": 7.836,
-        "connected_to": "poly-6675",
-        "default_style": {
-            "background_color": "#E73A42",
-            "background_opacity": 0.19484508547008547,
-            "stroke_color": "#E73A42",
-            "stroke_opacity": 0.8205128205128205,
-            "stroke_width": 5
-        },
         "mouseover_style": {
-            "background_color": "#E73A42",
+            "background_color": "#3fbbd2",
             "background_opacity": 0.7094017094017094,
-            "stroke_color": "#E73A42",
+            "stroke_color": "#3fbbd2",
             "stroke_opacity": 1,
             "stroke_width": 5
         },
@@ -803,25 +740,23 @@
         "id": "poly-4130",
         "title": "Journal",
         "type": "poly",
-        "x": 72.434,
-        "y": 65.301,
+        "x": 72.945,
+        "y": 65.981,
         "width": 4.178,
         "height": 5.07,
-        "x_image_background": 72.434,
-        "y_image_background": 65.301,
+        "x_image_background": 72.945,
+        "y_image_background": 65.981,
         "width_image_background": 4.178,
         "height_image_background": 5.07,
         "default_style": {
-            "background_color": "#6fccdd",
-            "background_opacity": 0.21193910256410256,
-            "stroke_color": "#3fbbd2",
-            "stroke_opacity": 1,
+            "background_color": "#9ACF55",
+            "background_opacity": 0.18629807692307693,
+            "stroke_color": "#9ACF55",
             "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#3fbbd2",
-            "background_opacity": 0.7094017094017094,
-            "stroke_color": "#3fbbd2",
+            "background_color": "#9ACF55",
+            "stroke_color": "#9ACF55",
             "stroke_opacity": 1,
             "stroke_width": 5
         },
@@ -1066,25 +1001,26 @@
         "id": "poly-2926",
         "title": "GVC",
         "type": "poly",
-        "x": 62.634,
-        "y": 48.937,
-        "width": 13.689,
+        "x": 69.471,
+        "y": 49.139,
+        "width": 5.355,
         "height": 17.055,
-        "x_image_background": 62.634,
-        "y_image_background": 48.937,
+        "x_image_background": 62.633,
+        "y_image_background": 49.481,
         "width_image_background": 13.689,
         "height_image_background": 17.055,
         "default_style": {
-            "background_color": "#9ACF55",
-            "background_opacity": 0.18629807692307693,
-            "stroke_color": "#9ACF55",
+            "background_color": "#fbb03a",
+            "background_opacity": 0.1794871794871795,
+            "stroke_color": "#f59605",
+            "stroke_opacity": 1,
             "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#9ACF55",
-            "stroke_color": "#9ACF55",
-            "stroke_opacity": 1,
-            "stroke_width": 5
+            "background_color": "#fbb03a",
+            "background_opacity": 0.6752136752136753,
+            "stroke_color": "#f59605",
+            "stroke_width": 3
         },
         "tooltip": {
             "enable_tooltip": 0
@@ -1110,47 +1046,48 @@
             }
         },
         "points": [{
-            "x": 8.42282124333405,
-            "y": 30.952728260791844
+            "x": 1.5686274509804505,
+            "y": 32.95800530564672
         }, {
-            "x": 9.665526019505979,
-            "y": 1.1016399265914043
+            "x": 4.745356803177935,
+            "y": 3.1069169714462785
         }, {
-            "x": 100,
+            "x": 96.02240896358528,
             "y": 0
         }, {
             "x": 100,
-            "y": 100
+            "y": 97.99472295514514
         }, {
             "x": 0,
             "y": 100
         }, {
-            "x": 0,
-            "y": 33.4490328269937
+            "x": 3.9775910364144482,
+            "y": 51.48479946434345
         }]
     }, {
         "id": "poly-7423",
         "title": "CollHall",
         "type": "poly",
-        "x": 35.517,
-        "y": 9.985,
+        "x": 35.688,
+        "y": 9.713,
         "width": 12.04,
         "height": 22.357,
-        "x_image_background": 35.517,
-        "y_image_background": 9.985,
+        "x_image_background": 35.688,
+        "y_image_background": 9.713,
         "width_image_background": 12.968,
         "height_image_background": 22.587,
         "default_style": {
-            "background_color": "#fbb03a",
-            "background_opacity": 0.1794871794871795,
-            "stroke_color": "#f59605",
-            "stroke_opacity": 1,
+            "background_color": "#4353a4",
+            "background_opacity": 0.2204861111111111,
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8290598290598291,
             "stroke_width": 5
         },
         "mouseover_style": {
-            "background_color": "#fbb03a",
-            "background_opacity": 0.6752136752136753,
-            "stroke_color": "#f59605",
+            "background_color": "#2f4486",
+            "background_opacity": 0.6734775641025641,
+            "stroke_color": "#2f4486",
+            "stroke_opacity": 0.8376068376068376,
             "stroke_width": 3
         },
         "tooltip": {
@@ -1205,12 +1142,12 @@
         "id": "poly-1441",
         "title": "CourtroomLFirst",
         "type": "poly",
-        "x": 34.68,
-        "y": 32.803,
+        "x": 34.51,
+        "y": 32.939,
         "width": 12.449,
         "height": 17.286,
-        "x_image_background": 34.322,
-        "y_image_background": 32.803,
+        "x_image_background": 34.51,
+        "y_image_background": 32.939,
         "width_image_background": 12.248,
         "height_image_background": 18.899,
         "default_style": {
