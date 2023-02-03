@@ -4,8 +4,10 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 392,
     "editor": {
-        "selected_shape": "poly-2926",
+        "previewMode": 1,
+        "selected_shape": "poly-2358",
         "tool": "select",
+        "currentLayer": "1",
         "shapeCounter": {
             "spots": 1,
             "rects": 6,
@@ -369,13 +371,13 @@
         "title": "OfficeL",
         "type": "poly",
         "x": 45.678,
-        "y": 65.213,
+        "y": 71.707,
         "width": 4.034,
-        "height": 15.902,
+        "height": 9.408,
         "x_image_background": 45.678,
-        "y_image_background": 65.213,
+        "y_image_background": 71.707,
         "width_image_background": 4.034,
-        "height_image_background": 15.902,
+        "height_image_background": 9.408,
         "layerID": "1",
         "default_style": {
             "background_color": "#6fccdd",
