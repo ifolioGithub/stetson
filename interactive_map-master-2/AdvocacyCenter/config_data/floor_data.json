@@ -70,5 +70,35 @@
         "img_path": "https://api.ifolio.cloud/medias/Hl/vq/Hlvq2V09IMvCKqSiMlTdbilfFG5zmiJYiCiiLQ61.jpg",
         "price": "$300,000",
         "description": "The Advocacy Institute features new classrooms that will afford students the opportunity to learn from our nationally renowned faculty using state-of-the-art technology."
+    },
+    "CollHall": {
+        "name": "Collaboration Hall (2)",
+        "img_path": "https://api.ifolio.cloud/medias/4s/BK/4sBKblYgGbww3cNNLuLx7z4HuaWpJpB6c0FCGRkF.jpg",
+        "price": "$150,000",
+        "description": "There are two Collaboration Halls in the new Advocacy Institute. These areas will serve as space for law students and faculty to gather and discuss classes, projects, or competition strategies, or simply to socialize."
+    },
+    "CourtroomLFirst": {
+        "name": "Large Courtroom",
+        "img_path": "https://api.ifolio.cloud/medias/uy/LB/uyLBxAv8aTiE5Y163VYutH6a3M8Z1C9vn6Jq66uH.jpg",
+        "price": "",
+        "description": "This large courtroom will provide critically needed space for teaching; local, national and international competitions; and practice space and activities supporting communication, and media-related events."
+    },
+    "OfficeFirst": {
+        "name": "Advocacy Center Large Office",
+        "img_path": "https://api.ifolio.cloud/medias/gu/JX/guJXPWSaXJS9IF2oEA7nh520sTkMF6sgJs01TM6N.jpg",
+        "price": "$40,000",
+        "description": ""
+    },
+    "Journal": {
+        "name": "Journal of Advocacy & the Law Workspace",
+        "img_path": "https://api.ifolio.cloud/medias/wS/Ja/wSJaVtrrCKTrWBVfrBOlF7oqwXhd3fth2pU4uLr0.jpg",
+        "price": "$10,000",
+        "description": ""
+    },
+    "GVC": {
+        "name": "Glass View Courtroom",
+        "img_path": "https://api.ifolio.cloud/medias/tk/BR/tkBRXhjFTzSX1QqyBEDdDP9F9txl3t2OEYaUVzIe.jpg",
+        "price": "$750,000",
+        "description": "This space is a large courtroom and will be used for practice trials, classes, and competitions held on the Stetson Law campus."
     }
 }
