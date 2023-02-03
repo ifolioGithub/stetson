@@ -73,7 +73,7 @@
     },
     "mCorridor": {
         "name": "Main Corridor",
-        "img_path": "https://api.ifolio.cloud/medias/NI/b6/NIb6pzoviLUUjr1eOfT10LQeoIlPmKrVrSfppRSJ.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/ue/Xt/ueXtHwEfL7tJMUjNKFh9N2rLu9V5aWOhlZx8EpII.jpg",
         "price": "$100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
@@ -105,7 +105,7 @@
     },
     "SSS": {
         "name": "Student Study Spaces",
-        "img_path": "https://api.ifolio.cloud/medias/Rp/jj/RpjjQxk6w4lrlo3iKXF0sttBEMQwSXvpHUIqoHLJ.jpg",
+        "img_path": "https://api.ifolio.cloud/medias/3H/7r/3H7riRlNzM2sFTEwAtpXJlh9bWrNuAeOq5sAqerL.jpg",
         "price": "$15,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
