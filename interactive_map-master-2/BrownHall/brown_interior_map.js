@@ -34,7 +34,7 @@
         }, {
             "id": 1,
             "title": "Floor 2",
-            "image_url": "https://api.ifolio.cloud/medias/iT/UJ/iTUJX11EcxYzaRvHqRHDOpVo9Lv5JrWxvHbTcgWL.png?width=1366",
+            "image_url": "https://api.ifolio.cloud/medias/Xt/LA/XtLA9Cyk9u9GLY9RMjMi9VAZByGHMlEfIN9agf0A.png?width=1366",
             "image_width": 1366,
             "image_height": 854
         }]
