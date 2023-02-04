@@ -19,8 +19,8 @@
                 "shortcode": "brown_hall",
                 "width": 3024,
                 "height": 1632,
-                "naturalWidth": 3024,
-                "naturalHeight": 1632
+                "naturalWidth": 30240,
+                "naturalHeight": 16320
             },
             "image": {
                 "url": "../assets/images/Brown_Hall/floorplan/StetsonU_BrownHall_Exterior01_Interactive_large.jpg"
