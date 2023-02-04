@@ -3,6 +3,8 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 3659,
     "editor": {
+        "previewMode": 1,
+        "selected_shape": "poly-7190",
         "tool": "select",
         "currentLayer": 7,
         "shapeCounter": {
@@ -18,12 +20,12 @@
         "name": "Exterior",
         "shortcode": "brown_hall",
         "width": 1920,
-        "height": 1300,
+        "height": 1250,
         "naturalWidth": 19200,
-        "naturalHeight": 13000
+        "naturalHeight": 12500
     },
     "image": {
-        "url": "https://api.ifolio.cloud/medias/6j/R7/6jR7SzkkH16SQkAlYJJQGdf4JbhTCi1YYb2c7rPb.jpg?width=1920"
+        "url": "https://api.ifolio.cloud/medias/YU/0f/YU0ftXtZuPtG4fN3838ZxW3cyzNjPF6n4wbIZSlF.jpg?width=1920"
     },
     "layers": {
         "layers_list": [{
@@ -39,15 +41,15 @@
         "title": "Floor 2",
         "type": "poly",
         "x": 0,
-        "y": 29.297,
+        "y": 25.977,
         "width": 100,
-        "height": 35.341,
+        "height": 38.661,
         "x_image_background": 0,
-        "y_image_background": 29.492,
+        "y_image_background": 29.297,
         "layerID": "7",
         "default_style": {
             "background_color": "#105e31",
-            "background_opacity": 0.2222222222222222
+            "background_opacity": 0
         },
         "mouseover_style": {
             "background_color": "#105e31",
@@ -57,8 +59,8 @@
             "position": "left",
             "width": 250,
             "auto_width": 0,
-            "offset_x": 51.191012247838614,
-            "offset_y": 1.7270229411264495
+            "offset_x": 48.30916786743516,
+            "offset_y": 0.6108757453827067
         },
         "tooltip_content": {
             "squares_settings": {
@@ -82,52 +84,52 @@
         },
         "points": [{
             "x": 0,
-            "y": 46.345096027886086
+            "y": 44.08269425766499
         }, {
-            "x": 21.72672115384615,
-            "y": 51.43908801848822
+            "x": 21.00672115384615,
+            "y": 52.17426174498283
         }, {
-            "x": 34.59695192307692,
-            "y": 17.083280760129334
+            "x": 34.74095192307692,
+            "y": 17.905397875949507
         }, {
-            "x": 51.885432692307695,
-            "y": 27.780914868069868
+            "x": 51.453432692307686,
+            "y": 27.112723886612542
         }, {
-            "x": 67.68472115384616,
+            "x": 68.26072115384615,
             "y": 0
         }, {
             "x": 100,
-            "y": 30.84324690446901
+            "y": 32.775459494334605
         }, {
             "x": 99.88,
-            "y": 56.68858398309072
+            "y": 60.40797920426277
         }, {
             "x": 100,
-            "y": 77.23721154217483
+            "y": 79.19198038597186
         }, {
             "x": 100,
             "y": 100
         }, {
             "x": 88.18714423076925,
-            "y": 97.60082887996035
+            "y": 97.80685921605381
         }, {
             "x": 71.1885096153846,
-            "y": 93.19489481414361
+            "y": 93.77928752247635
         }, {
             "x": 59.54384615384615,
-            "y": 92.5654756618841
+            "y": 93.20392013767957
         }, {
             "x": 50.300096211538445,
-            "y": 95.71290011985016
+            "y": 96.08105753129779
         }, {
             "x": 37.455,
-            "y": 94.4537331186627
+            "y": 94.93002229206994
         }, {
             "x": 27.130865384615376,
-            "y": 99.4890863367389
+            "y": 99.53296137044417
         }, {
             "x": 0,
-            "y": 99.48882198069501
+            "y": 99.53271971614261
         }]
     }, {
         "id": "poly-7190",
@@ -144,7 +146,7 @@
         "layerID": "7",
         "default_style": {
             "background_color": "#8bc540",
-            "background_opacity": 0.5384615384615384,
+            "background_opacity": 0,
             "stroke_color": "#00ff00"
         },
         "mouseover_style": {
