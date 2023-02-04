@@ -17,6 +17,7 @@
 .body {
     background-color: #ddd;
     font-family: "Avenir";
+    overflow: hidden;
 }
 
 .my-container {
@@ -39,7 +40,7 @@
     position: relative;
     max-height: 90vh;
     width:400px;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 .card-left > div > img {
