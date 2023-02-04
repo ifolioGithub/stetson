@@ -15,8 +15,8 @@
         "shortcode": "Exterior",
         "width": 1366,
         "height": 738,
-        "naturalWidth": 1366,
-        "naturalHeight": 738
+        "naturalWidth": 13660,
+        "naturalHeight": 7380
     },
     "image": {
         "url": "https://api.ifolio.cloud/medias/W7/Eb/W7EbQNyQluTS8R3PteFMwdGLcmyE7Z1WbOoQ543u.jpg?width=1366"
