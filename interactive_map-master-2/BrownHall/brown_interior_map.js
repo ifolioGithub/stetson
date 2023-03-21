@@ -28,15 +28,15 @@
         "layers_list": [{
             "id": 0,
             "title": "Floor 1",
-            "image_url": "https://api.ifolio.cloud/medias/Xt/VO/XtVOCyIhk9Usqhr1rVlDeO09eLhA83tHYy5QMm0i.png?width=1920",
+            "image_url": "https://api.ifolio.cloud/medias/sw/ga/swgawhWEJ9JAEjJd36MyxKvI0kXVzqp1Pn06ITGy.png?width=1920",
             "image_width": 1920,
             "image_height": 1200
         }, {
             "id": 1,
             "title": "Floor 2",
-            "image_url": "https://api.ifolio.cloud/medias/tn/j7/tnj73LQvejyezDRPlBaA0xSE7fvVPGxnQcTlpm2T.png?width=1366",
-            "image_width": 1366,
-            "image_height": 854
+            "image_url": "https://api.ifolio.cloud/medias/2M/51/2M51LIcrtPZ3linR2bJ0QynImgFlyTSifViC6WIa.png?width=1920",
+            "image_width": 1920,
+            "image_height": 1200
         }]
     },
     "spots": [{
