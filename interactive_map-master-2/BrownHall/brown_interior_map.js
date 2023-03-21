@@ -28,27 +28,27 @@
         "layers_list": [{
             "id": 0,
             "title": "Floor 1",
-            "image_url": "https://api.ifolio.cloud/medias/93/Xm/93XmEg7SA3FeiSXr0xGNcaDjCifMD4ms8lxJiBhu.png?width=1920",
-            "image_width": 2638.94,
-            "image_height": 1658.01
+            "image_url": "https://api.ifolio.cloud/medias/tC/sj/tCsjY1e5HkwFNiSlYbndau46wHqGLhKqgyQdPkfv.png?width=1920",
+            "image_width": 1920,
+            "image_height": 1206
         }, {
             "id": 1,
             "title": "Floor 2",
-            "image_url": "https://api.ifolio.cloud/medias/fo/9E/fo9EjVRkQBPm2iYcODcOlOUfja9vS6pmqrJTarYj.png?width=1920",
-            "image_width": 2638.94,
-            "image_height": 1658.01
+            "image_url": "https://api.ifolio.cloud/medias/93/Xm/93XmEg7SA3FeiSXr0xGNcaDjCifMD4ms8lxJiBhu.png?width=1920",
+            "image_width": 1920,
+            "image_height": 1206
         }]
     },
     "spots": [{
         "id": "poly-7162",
         "title": "TKL",
         "type": "poly",
-        "x": 13.256,
-        "y": 42.625,
+        "x": 12.964,
+        "y": 40.766,
         "width": 14.698,
         "height": 15.903,
-        "x_image_background": 13.256,
-        "y_image_background": 42.625,
+        "x_image_background": 12.964,
+        "y_image_background": 40.766,
         "width_image_background": 14.698,
         "height_image_background": 15.903,
         "default_style": {
@@ -103,12 +103,12 @@
         "id": "poly-7023",
         "title": "Lobby",
         "type": "poly",
-        "x": 7.493,
-        "y": 42.855,
-        "width": 32.421,
+        "x": 7.201,
+        "y": 41.228,
+        "width": 31.985,
         "height": 29.501,
-        "x_image_background": 7.493,
-        "y_image_background": 42.855,
+        "x_image_background": 7.201,
+        "y_image_background": 41.228,
         "width_image_background": 32.421,
         "height_image_background": 29.501,
         "default_style": {
@@ -152,43 +152,43 @@
             "x": 0,
             "y": 46.51093931470302
         }, {
-            "x": 17.334196971098976,
+            "x": 17.570537436824367,
             "y": 45.73575699279129
         }, {
-            "x": 17.333909091843765,
+            "x": 17.570245632523346,
             "y": 55.064147957687325
         }, {
-            "x": 75.11111111111107,
+            "x": 76.13520210365886,
             "y": 55.05969569094101
         }, {
-            "x": 75.55555555555556,
+            "x": 76.58570625811842,
             "y": 0
         }, {
-            "x": 87.99999999999999,
+            "x": 87.83042668458623,
             "y": 0
         }, {
-            "x": 88.44444444444444,
+            "x": 88.28093083904577,
             "y": 49.611668602349894
         }, {
-            "x": 99.55555555555554,
+            "x": 100,
             "y": 48.836486280438166
         }, {
-            "x": 100,
+            "x": 99.99403885499326,
             "y": 65.11531504058428
         }, {
-            "x": 0.44472888888888834,
+            "x": 0.45079247711837367,
             "y": 100
         }]
     }, {
         "id": "poly-4152",
         "title": "clRom",
         "type": "poly",
-        "x": 8.645,
-        "y": 65.673,
+        "x": 8.353,
+        "y": 63.814,
         "width": 22.911,
         "height": 26.044,
-        "x_image_background": 8.645,
-        "y_image_background": 65.673,
+        "x_image_background": 8.353,
+        "y_image_background": 63.814,
         "default_style": {
             "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
@@ -242,12 +242,12 @@
         "id": "poly-2269",
         "title": "rA",
         "type": "poly",
-        "x": 36.312,
-        "y": 47.925,
+        "x": 35.582,
+        "y": 46.531,
         "width": 7.204,
         "height": 9.374,
-        "x_image_background": 36.599,
-        "y_image_background": 47.925,
+        "x_image_background": 35.582,
+        "y_image_background": 46.531,
         "width_image_background": 6.917,
         "height_image_background": 9.681,
         "default_style": {
@@ -310,12 +310,12 @@
         "id": "poly-2309",
         "title": "Ofi",
         "type": "poly",
-        "x": 52.45,
-        "y": 43.238,
-        "width": 18.588,
-        "height": 14.981,
-        "x_image_background": 52.45,
-        "y_image_background": 43.238,
+        "x": 52.012,
+        "y": 41.611,
+        "width": 18.152,
+        "height": 14.751,
+        "x_image_background": 52.012,
+        "y_image_background": 41.611,
         "default_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.19484508547008547,
@@ -357,26 +357,25 @@
             "x": 0,
             "y": 0
         }, {
-            "x": 100,
+            "x": 99.98848624113779,
             "y": 0
         }, {
-            "x": 99.22579076753628,
-            "y": 100
+            "x": 100,
+            "y": 98.40687087011722
         }, {
-            "x": 0.7742092324636826,
-            "y": 98.46473878956704
+            "x": 0.792801337072028,
+            "y": 100
         }]
     }, {
         "id": "poly-4355",
         "title": "Ofi",
         "type": "poly",
-        "x": 82.853,
-        "y": 51.152,
-        "width": 6.485,
-        "height": 6.914,
-        "x_image_background": 82.853,
-        "y_image_background": 51.152,
-        "connected_to": "poly-2309",
+        "x": 82.269,
+        "y": 50.455,
+        "width": 6.34,
+        "height": 5.754,
+        "x_image_background": 82.269,
+        "y_image_background": 50.455,
         "default_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.19484508547008547,
@@ -415,28 +414,28 @@
             }
         },
         "points": [{
-            "x": 2.2219980473080136,
+            "x": 2.2727851254393467,
+            "y": 0
+        }, {
+            "x": 99.98284187767983,
             "y": 0
         }, {
             "x": 100,
-            "y": 0
-        }, {
-            "x": 97.765425443744,
-            "y": 100
+            "y": 99.96514678347035
         }, {
             "x": 0,
-            "y": 96.67349516894275
+            "y": 100
         }]
     }, {
         "id": "poly-6715",
         "title": "ESSRLMR",
         "type": "poly",
-        "x": 71.182,
-        "y": 43.085,
+        "x": 70.598,
+        "y": 41.226,
         "width": 5.476,
         "height": 14.751,
-        "x_image_background": 71.182,
-        "y_image_background": 43.085,
+        "x_image_background": 70.598,
+        "y_image_background": 41.226,
         "default_style": {
             "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
@@ -490,13 +489,12 @@
         "id": "poly-4432",
         "title": "ESSRLMR",
         "type": "poly",
-        "x": 77.234,
-        "y": 43.085,
+        "x": 76.504,
+        "y": 41.458,
         "width": 5.476,
         "height": 14.751,
-        "x_image_background": 77.234,
-        "y_image_background": 43.085,
-        "connected_to": "poly-6715",
+        "x_image_background": 76.504,
+        "y_image_background": 41.458,
         "default_style": {
             "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
@@ -550,12 +548,12 @@
         "id": "poly-1381",
         "title": "WTL",
         "type": "poly",
-        "x": 38.473,
-        "y": 62.907,
-        "width": 11.527,
-        "height": 22.587,
-        "x_image_background": 38.473,
-        "y_image_background": 62.907,
+        "x": 38.327,
+        "y": 61.28,
+        "width": 11.089,
+        "height": 22.355,
+        "x_image_background": 38.327,
+        "y_image_background": 61.28,
         "width_image_background": 11.527,
         "height_image_background": 22.587,
         "default_style": {
@@ -597,27 +595,27 @@
         },
         "points": [{
             "x": 0,
-            "y": 90.81632653061227
+            "y": 91.75881759547929
         }, {
-            "x": 13.750110000880033,
+            "x": 14.293220126264222,
             "y": 0
         }, {
             "x": 100,
-            "y": 8.162912182149611
+            "y": 7.2098276653193265
         }, {
-            "x": 86.25069000552004,
+            "x": 85.7076114792704,
             "y": 100
         }]
     }, {
         "id": "poly-9418",
         "title": "SR",
         "type": "poly",
-        "x": 50.576,
-        "y": 64.981,
-        "width": 6.196,
-        "height": 14.521,
-        "x_image_background": 50.576,
-        "y_image_background": 64.981,
+        "x": 49.846,
+        "y": 63.819,
+        "width": 6.488,
+        "height": 14.753,
+        "x_image_background": 50.138,
+        "y_image_background": 64.051,
         "width_image_background": 6.196,
         "height_image_background": 14.521,
         "default_style": {
@@ -656,28 +654,28 @@
             }
         },
         "points": [{
-            "x": 23.25363338021578,
+            "x": 15.456151729934694,
             "y": 0
         }, {
             "x": 100,
-            "y": 7.939529780643406
+            "y": 9.387237303919381
         }, {
-            "x": 79.0703904627956,
+            "x": 80.01235192778687,
             "y": 100
         }, {
             "x": 0,
-            "y": 93.6507463525305
+            "y": 90.59869096353927
         }]
     }, {
         "id": "poly-1346",
         "title": "gH",
         "type": "poly",
-        "x": 61.239,
-        "y": 88.476,
+        "x": 60.947,
+        "y": 86.849,
         "width": 11.383,
         "height": 11.524,
-        "x_image_background": 60.951,
-        "y_image_background": 85.249,
+        "x_image_background": 60.947,
+        "y_image_background": 86.849,
         "default_style": {
             "background_color": "#9ACF55",
             "background_opacity": 0.18629807692307693,
@@ -730,15 +728,14 @@
         "id": "poly-8246",
         "title": "WTL",
         "type": "poly",
-        "x": 55.188,
-        "y": 66.133,
+        "x": 54.604,
+        "y": 64.739,
         "width": 10.951,
         "height": 21.896,
-        "x_image_background": 55.188,
-        "y_image_background": 66.133,
+        "x_image_background": 54.604,
+        "y_image_background": 64.739,
         "width_image_background": 10.951,
         "height_image_background": 21.896,
-        "connected_to": "poly-1381",
         "default_style": {
             "background_color": "#4353a4",
             "background_opacity": 0.2204861111111111,
@@ -793,12 +790,12 @@
         "id": "poly-357",
         "title": "SSS",
         "type": "poly",
-        "x": 27.81,
-        "y": 42.777,
-        "width": 4.178,
-        "height": 15.443,
-        "x_image_background": 27.81,
-        "y_image_background": 42.777,
+        "x": 27.518,
+        "y": 40.765,
+        "width": 3.886,
+        "height": 15.675,
+        "x_image_background": 27.518,
+        "y_image_background": 40.997,
         "default_style": {
             "background_color": "#439544",
             "background_opacity": 0.16920405982905984,
@@ -837,14 +834,14 @@
             }
         },
         "points": [{
-            "x": 3.457484963857979,
-            "y": 0
+            "x": 3.717285686824149,
+            "y": 1.4798131286347165
         }, {
             "x": 100,
-            "y": 0.00025825467571085324
+            "y": 0
         }, {
-            "x": 96.56017215692759,
-            "y": 99.99666598706295
+            "x": 92.54462153156041,
+            "y": 98.5166477626003
         }, {
             "x": 0,
             "y": 100
@@ -853,13 +850,12 @@
         "id": "poly-6870",
         "title": "SSS",
         "type": "poly",
-        "x": 75.072,
-        "y": 60.832,
-        "width": 5.812,
-        "height": 7.143,
-        "x_image_background": 75.072,
-        "y_image_background": 60.832,
-        "connected_to": "poly-357",
+        "x": 74.532,
+        "y": 59.205,
+        "width": 5.865,
+        "height": 6.603,
+        "x_image_background": 74.532,
+        "y_image_background": 59.205,
         "default_style": {
             "background_color": "#439544",
             "background_opacity": 0.16920405982905984,
@@ -898,17 +894,17 @@
             }
         },
         "points": [{
-            "x": 0,
-            "y": 3.2333446563730086
-        }, {
-            "x": 99.1521912221708,
-            "y": 0
+            "x": 1.7469478941878183,
+            "y": 3.498022630713682
         }, {
             "x": 100,
-            "y": 96.78755526788582
+            "y": 0
         }, {
-            "x": 5.773197473767821,
+            "x": 99.90238412315465,
             "y": 100
+        }, {
+            "x": 0,
+            "y": 97.62932023937321
         }]
     }, {
         "id": "poly-6084",
@@ -1489,10 +1485,10 @@
         "id": "poly-7454",
         "title": "stuLounge",
         "type": "poly",
-        "x": 35.591,
-        "y": 43.008,
-        "width": 5.331,
-        "height": 14.52,
+        "x": 36.029,
+        "y": 42.776,
+        "width": 4.893,
+        "height": 14.752,
         "x_image_background": 35.591,
         "y_image_background": 43.008,
         "width_image_background": 5.331,
@@ -1537,16 +1533,16 @@
         },
         "points": [{
             "x": 100,
-            "y": 0
+            "y": 1.5724020228324889
         }, {
             "x": 0,
-            "y": 0.0002746603051966014
+            "y": 0
         }, {
             "x": 0,
             "y": 100
         }, {
-            "x": 98.20091076566622,
-            "y": 99.48322318496405
+            "x": 98.03986415118875,
+            "y": 99.49134899405718
         }]
     }, {
         "id": "poly-1098",
@@ -1625,11 +1621,11 @@
         "title": "sLab",
         "type": "poly",
         "x": 80.444,
-        "y": 42.929,
+        "y": 42.776,
         "width": 8.502,
         "height": 14.444,
         "x_image_background": 80.444,
-        "y_image_background": 42.929,
+        "y_image_background": 42.47,
         "layerID": "1",
         "default_style": {
             "background_color": "#439544",
@@ -1881,7 +1877,7 @@
         "width": 5.187,
         "height": 6.223,
         "x_image_background": 79.738,
-        "y_image_background": 61.94,
+        "y_image_background": 61.479,
         "connected_to": "poly-8774",
         "layerID": "1",
         "default_style": {
@@ -1938,12 +1934,12 @@
         "id": "poly-8753",
         "title": "TMS",
         "type": "poly",
-        "x": 29.538,
-        "y": 62.681,
-        "width": 10.231,
+        "x": 28.954,
+        "y": 61.287,
+        "width": 10.377,
         "height": 21.902,
-        "x_image_background": 28.818,
-        "y_image_background": 62.681,
+        "x_image_background": 29.1,
+        "y_image_background": 61.287,
         "default_style": {
             "background_color": "#6fccdd",
             "background_opacity": 0.21193910256410256,
@@ -1982,28 +1978,28 @@
             }
         },
         "points": [{
-            "x": 84.50759965748024,
-            "y": 94.73662811192281
+            "x": 84.72557117622436,
+            "y": 94.73662811192285
         }, {
             "x": 100,
             "y": 0
         }, {
             "x": 0,
-            "y": 16.8399531411373
+            "y": 13.657595365591693
         }, {
-            "x": 22.537801113189285,
+            "x": 23.627661481067722,
             "y": 100
         }]
     }, {
         "id": "poly-9951",
         "title": "alcove",
         "type": "poly",
-        "x": 28.963,
-        "y": 65.216,
+        "x": 28.671,
+        "y": 63.357,
         "width": 5.475,
         "height": 20.058,
-        "x_image_background": 28.963,
-        "y_image_background": 65.216,
+        "x_image_background": 28.671,
+        "y_image_background": 63.357,
         "width_image_background": 5.475,
         "height_image_background": 20.058,
         "default_style": {
@@ -2060,12 +2056,12 @@
         "id": "poly-5807",
         "title": "collab",
         "type": "poly",
-        "x": 35.879,
-        "y": 62.219,
-        "width": 4.179,
+        "x": 35.587,
+        "y": 61.289,
+        "width": 3.887,
         "height": 6.916,
-        "x_image_background": 35.879,
-        "y_image_background": 61.527,
+        "x_image_background": 35.587,
+        "y_image_background": 61.289,
         "default_style": {
             "background_color": "#439544",
             "background_opacity": 0.16920405982905984,
@@ -2104,17 +2100,17 @@
             }
         },
         "points": [{
-            "x": 17.245400461074432,
+            "x": 18.54091292174692,
             "y": 100
         }, {
             "x": 0,
-            "y": 23.33897266866961
+            "y": 23.338972668669573
         }, {
             "x": 100,
             "y": 0
         }, {
-            "x": 86.2074173276021,
-            "y": 86.66423591867704
+            "x": 88.92739825367877,
+            "y": 86.664235918677
         }]
     }]
 });
