@@ -74,7 +74,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Main Corridor, Study Bar, Small Group Rooms, Offices, Smart Lab, Body Testing Lab, Phlebotomy Area, Classrooms, Play Therapy Classroom, GIS Lab""
+                                    "text": "Main Corridor, Study Bar, Small Group Rooms, Offices, Smart Lab, Body Testing Lab, Phlebotomy Area, Classrooms, Play Therapy Classroom, GIS Lab"
                                 }
                             }
                         }]
