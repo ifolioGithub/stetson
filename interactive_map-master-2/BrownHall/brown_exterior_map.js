@@ -74,7 +74,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Main Corridor, Study Bar, Small Group Rooms, Offices, Smart Lab, Body Testing Lab, Phlebotomy Area"
+                                    "text": "Main Corridor, Study Bar, Small Group Rooms, Offices, Smart Lab, Body Testing Lab, Phlebotomy Area, Classrooms, Play Therapy Classroom, GIS Lab""
                                 }
                             }
                         }]
@@ -172,7 +172,7 @@
                             },
                             "options": {
                                 "heading": {
-                                    "text": "Teaching Kitchen Lab, Study Spaces, Classrooms, Lobby, Offices, Wet Teaching Lab, Seminar Room, Greenhouse, Environmental Science & Studies Research Lab Mud Room"
+                                    "text": "Teaching Kitchen Lab, Study Spaces, Classrooms, Lobby, Offices, Wet Teaching Lab, Seminar Room, Greenhouse, Environmental Science & Studies Field Studies Labs"
                                 }
                             }
                         }]
