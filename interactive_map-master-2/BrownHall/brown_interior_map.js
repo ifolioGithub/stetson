@@ -4,6 +4,7 @@
         $('#image-map-pro-container').imageMapPro({
     "id": 3161,
     "editor": {
+        "selected_shape": "poly-6715",
         "tool": "select",
         "shapeCounter": {
             "spots": 1,
@@ -184,11 +185,11 @@
         "title": "clRom",
         "type": "poly",
         "x": 8.353,
-        "y": 63.814,
-        "width": 22.911,
-        "height": 26.044,
-        "x_image_background": 8.353,
-        "y_image_background": 63.814,
+        "y": 64.046,
+        "width": 22.765,
+        "height": 25.347,
+        "x_image_background": 8.207,
+        "y_image_background": 63.349,
         "default_style": {
             "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
@@ -226,17 +227,17 @@
             }
         },
         "points": [{
-            "x": 11.32106562316189,
+            "x": 10.752336239501952,
             "y": 100
         }, {
             "x": 0,
-            "y": 24.77933298769787
+            "y": 27.295259728236214
         }, {
-            "x": 87.42229878533672,
+            "x": 88.62430430357341,
             "y": 0
         }, {
             "x": 100,
-            "y": 72.56590801152812
+            "y": 71.81151648132867
         }]
     }, {
         "id": "poly-2269",
@@ -430,11 +431,11 @@
         "id": "poly-6715",
         "title": "ESSRLMR",
         "type": "poly",
-        "x": 70.598,
+        "x": 70.452,
         "y": 41.226,
         "width": 5.476,
         "height": 14.751,
-        "x_image_background": 70.598,
+        "x_image_background": 70.452,
         "y_image_background": 41.226,
         "default_style": {
             "background_color": "#fbb03a",
@@ -548,10 +549,10 @@
         "id": "poly-1381",
         "title": "WTL",
         "type": "poly",
-        "x": 38.327,
-        "y": 61.28,
-        "width": 11.089,
-        "height": 22.355,
+        "x": 38.035,
+        "y": 60.815,
+        "width": 11.381,
+        "height": 22.588,
         "x_image_background": 38.327,
         "y_image_background": 61.28,
         "width_image_background": 11.527,
@@ -595,15 +596,15 @@
         },
         "points": [{
             "x": 0,
-            "y": 91.75881759547929
+            "y": 90.81230597427567
         }, {
-            "x": 14.293220126264222,
+            "x": 16.49218152887656,
             "y": 0
         }, {
             "x": 100,
-            "y": 7.2098276653193265
+            "y": 9.19407196113927
         }, {
-            "x": 85.7076114792704,
+            "x": 84.79146856107805,
             "y": 100
         }]
     }, {
@@ -1935,10 +1936,10 @@
         "title": "TMS",
         "type": "poly",
         "x": 28.954,
-        "y": 61.287,
+        "y": 60.59,
         "width": 10.377,
-        "height": 21.902,
-        "x_image_background": 29.1,
+        "height": 21.669,
+        "x_image_background": 28.954,
         "y_image_background": 61.287,
         "default_style": {
             "background_color": "#6fccdd",
@@ -1979,13 +1980,13 @@
         },
         "points": [{
             "x": 84.72557117622436,
-            "y": 94.73662811192285
+            "y": 94.68003271527687
         }, {
             "x": 100,
             "y": 0
         }, {
             "x": 0,
-            "y": 13.657595365591693
+            "y": 14.875105159314653
         }, {
             "x": 23.627661481067722,
             "y": 100
@@ -1994,12 +1995,12 @@
         "id": "poly-9951",
         "title": "alcove",
         "type": "poly",
-        "x": 28.671,
-        "y": 63.357,
+        "x": 28.525,
+        "y": 62.892,
         "width": 5.475,
         "height": 20.058,
-        "x_image_background": 28.671,
-        "y_image_background": 63.357,
+        "x_image_background": 28.525,
+        "y_image_background": 62.892,
         "width_image_background": 5.475,
         "height_image_background": 20.058,
         "default_style": {
@@ -2056,12 +2057,12 @@
         "id": "poly-5807",
         "title": "collab",
         "type": "poly",
-        "x": 35.587,
-        "y": 61.289,
+        "x": 35.441,
+        "y": 60.359,
         "width": 3.887,
         "height": 6.916,
-        "x_image_background": 35.587,
-        "y_image_background": 61.289,
+        "x_image_background": 35.441,
+        "y_image_background": 60.359,
         "default_style": {
             "background_color": "#439544",
             "background_opacity": 0.16920405982905984,
