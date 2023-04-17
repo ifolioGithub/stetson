@@ -3,31 +3,31 @@
         "name": "Awards & Trophies Gallery",
         "img_path": "https://api.ifolio.cloud/medias/Vk/zj/VkzjnIe7MjCpkpT08KtfG3YmYZAVqPSiODp47Vak.png",
         "price": "",
-        "description": "This area will be used to display the many awards and trophies that Stetson Law has earned over its 120+ year history. The displays are designed to adjust easily for the addition of new awards."
+        "description": "This area is to display the many awards and trophies that Stetson Law has earned over its 120+ year history. The displays are designed to adjust easily for the addition of new awards."
     },
     "FFA": {
         "name": "Atrium",
         "img_path": "https://api.ifolio.cloud/medias/ZW/ja/ZWjaVUeBc0384T7ziF8ESAdvJmNVAYaAHTC7QNOx.jpg",
         "price": "$1,250,000",
-        "description": "This space is one of the first a patron, student, donor, volunteer sees when entering the Advocacy Institute. It sets the tone for the innovative space to follow throughout the building. Infused with natural light, the donor(s) who name this space will have his/her/their name(s) prominently displayed in the entryway as traffic ascends the staircase. Additional donors to this space will be prominently identified and recognized atop the staircase at the entrance to the Institute."
+        "description": "This space is one of the first a patron, student, donor, volunteer sees when entering the Advocacy Institute. It sets the tone for the innovative space to follow throughout the building. Infused with natural light, the donor(s) who name this space have his/her/their name(s) prominently displayed in the entryway as traffic ascends the staircase. Additional donors to this space will be prominently identified and recognized atop the staircase at the entrance to the Institute."
     },
     "UCR": {
         "name": "Conference Room",
         "img_path": "https://api.ifolio.cloud/medias/43/2K/432KWfqSQQWDIuAD9BHb2hKcMQcKIM3qceTeE1a5.jpg",
         "price": "$25,000",
-        "description": "Meeting spaces for students, faculty, conferences and discussions and are in short supply at the law school. This much-needed space adds exponentially to multi-purpose use by several Stetson Law constituents."
+        "description": "Meeting spaces for students, faculty, conferences and discussions are in short supply at the law school. This much-needed space adds exponentially to multi-purpose use by several Stetson Law constituents."
     },
     "URA": {
         "name": "Reception Area",
         "img_path": "https://api.ifolio.cloud/medias/BN/0S/BN0SUX3PH658bFFLefsU4xTwNgJl0RWtswaLNWob.jpg",
-        "price": "",
+        "price": "$35,000",
         "description": "The need for gathering space for students, faculty, guests, and others is in high demand at Stetson Law. This designated reception area provides the perfect meeting space for small groups to assemble."
     },
     "SFPC": {
         "name": "Practice Courtroom (4)",
         "img_path": "https://api.ifolio.cloud/medias/Hi/JO/HiJOEUKdTz35jZtF2Th2K8FsM4kkLw9lzmp01Nd6.jpg",
         "price": "$250,000 each",
-        "description": "In these practice courtrooms, law students will work with faculty to hone their litigation skills, the hallmark of a Stetson Law graduate. These spaces will also be used to hold the various on-campus competitions in which Stetson Law hosts and/or participates in."
+        "description": "In these practice courtrooms, law students work with faculty to hone their litigation skills, the hallmark of a Stetson Law graduate. These spaces is also used to hold the various on-campus competitions in which Stetson Law hosts and/or participates in."
     },
     "Delib": {
         "name": "Deliberation/Jury Room (2)",
@@ -39,19 +39,19 @@
         "name": "Collaboration Hall (2)",
         "img_path": "https://api.ifolio.cloud/medias/4s/BK/4sBKblYgGbww3cNNLuLx7z4HuaWpJpB6c0FCGRkF.jpg",
         "price": "$150,000",
-        "description": "There are two Collaboration Halls in the new Advocacy Institute. These areas will serve as space for law students and faculty to gather and discuss classes, projects, or competition strategies, or simply to socialize."
+        "description": "There are two Collaboration Halls in the new Advocacy Institute. These areas serve as space for law students and faculty to gather and discuss classes, projects, or competition strategies, or simply to socialize."
     },
     "ACCR": {
         "name": "Advocacy Institute Conference Room",
         "img_path": "https://api.ifolio.cloud/medias/43/2K/432KWfqSQQWDIuAD9BHb2hKcMQcKIM3qceTeE1a5.jpg",
         "price": "$40,000",
-        "description": "This Advocacy Institute Conference Room has been strategically located in a high traffic area to accommodate interaction between and among larger groups. It is anticipated it will be used by students, faculty, Advocacy teams and many others who require a larger space to facilitate discussion, practice, and exchange ideas."
+        "description": "This Advocacy Institute Conference Room has been strategically located in a high traffic area to accommodate interaction between and among larger groups. It is used by students, faculty, Advocacy teams and many others who require a larger space to facilitate discussion, practice, and exchange ideas."
     },
     "OfficeL": {
         "name": "Advocacy Center Large Office",
         "img_path": "https://api.ifolio.cloud/medias/gu/JX/guJXPWSaXJS9IF2oEA7nh520sTkMF6sgJs01TM6N.jpg",
         "price": "L: $40,000",
-        "description": "These second-floor office spaces have been designated for the Advocacy Center and are designed to promote student and faculty interaction. Guests to the Institute will find this to be the perfect workspace for providing faculty support to the various components of the Institute.  These are prime name opportunities for individuals wishing to honor professors, family members, programs, firms, and others as we build the Stetson Law’s advocacy legacy for the future."
+        "description": "These second-floor office spaces have been designated for the Advocacy Center and Biodiversity Institute, and are designed to promote student and faculty interaction. Guests to the Institute find this to be the perfect workspace for providing faculty support to the various components of the Institute.  These are prime name opportunities for individuals wishing to honor professors, family members, programs, firms, and others as we build the Stetson Law’s advocacy legacy for the future."
     },
     "OfficeS": {
         "name": "Advocacy Center Small Office (6)",
@@ -69,7 +69,7 @@
         "name": "Classroom/Lecture Hall",
         "img_path": "https://api.ifolio.cloud/medias/Hl/vq/Hlvq2V09IMvCKqSiMlTdbilfFG5zmiJYiCiiLQ61.jpg",
         "price": "$300,000",
-        "description": "The Advocacy Institute features new classrooms that will afford students the opportunity to learn from our nationally renowned faculty using state-of-the-art technology."
+        "description": "The Advocacy Institute features new classrooms that afford students the opportunity to learn from our nationally renowned faculty using state-of-the-art technology."
     },
     "CollHall": {
         "name": "Collaboration Hall (2)",
@@ -81,7 +81,7 @@
         "name": "Large Courtroom",
         "img_path": "https://api.ifolio.cloud/medias/uy/LB/uyLBxAv8aTiE5Y163VYutH6a3M8Z1C9vn6Jq66uH.jpg",
         "price": "",
-        "description": "This large courtroom will provide critically needed space for teaching; local, national and international competitions; and practice space and activities supporting communication, and media-related events."
+        "description": "This large courtroom provides critically needed space for teaching; local, national and international competitions; and practice space and activities supporting communication, and media-related events."
     },
     "OfficeFirst": {
         "name": "Advocacy Center Large Office",
@@ -99,6 +99,6 @@
         "name": "Glass View Courtroom",
         "img_path": "https://api.ifolio.cloud/medias/tk/BR/tkBRXhjFTzSX1QqyBEDdDP9F9txl3t2OEYaUVzIe.jpg",
         "price": "$750,000",
-        "description": "This space is a large courtroom and will be used for practice trials, classes, and competitions held on the Stetson Law campus."
+        "description": "This space is a large courtroom and is for practice trials, classes, and competitions held on the Stetson Law campus."
     }
 }
