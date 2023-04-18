@@ -29,7 +29,7 @@
         "layers_list": [{
             "id": 0,
             "title": "Floor 1",
-            "image_url": "https://api.ifolio.cloud/medias/mq/hY/mqhYPHfNGFx18K6BWz16gBwniliTXKjylDVdYRWx.png",
+            "image_url": "https://api.ifolio.cloud/medias/6y/pt/6yptK901OAeA8HFUGxvK6prdj0ymx1NEqQm8Y6n9.png",
             "image_width": 2620,
             "image_height": 1646
         }, {
