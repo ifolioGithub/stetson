@@ -2,9 +2,9 @@
     $(document).ready(function () {
         // Code from the textarea goes here...
         $('#image-map-pro-container').imageMapPro({
-    "id": 3161,
+    "id": 6591,
     "editor": {
-        "selected_shape": "poly-1381",
+        "selected_shape": "poly-9418",
         "tool": "select",
         "shapeCounter": {
             "spots": 1,
@@ -18,8 +18,8 @@
         "name": "BrownHall",
         "width": 1366,
         "height": 854,
-        "naturalWidth": 1920,
-        "naturalHeight": 1200
+        "naturalWidth": 2620,
+        "naturalHeight": 1646
     },
     "image": {
         "url": "https://api.ifolio.cloud/medias/F3/tO/F3tOYlTtN6mAMUCJ9avaYwx9rIkJB7qnxecuVtpH.jpg?width=1366"
@@ -29,9 +29,9 @@
         "layers_list": [{
             "id": 0,
             "title": "Floor 1",
-            "image_url": "https://api.ifolio.cloud/medias/tC/sj/tCsjY1e5HkwFNiSlYbndau46wHqGLhKqgyQdPkfv.png?width=1920",
-            "image_width": 1920,
-            "image_height": 1206
+            "image_url": "https://api.ifolio.cloud/medias/mq/hY/mqhYPHfNGFx18K6BWz16gBwniliTXKjylDVdYRWx.png",
+            "image_width": 2620,
+            "image_height": 1646
         }, {
             "id": 1,
             "title": "Floor 2",
@@ -44,12 +44,12 @@
         "id": "poly-7162",
         "title": "TKL",
         "type": "poly",
-        "x": 12.964,
-        "y": 40.766,
+        "x": 12.14,
+        "y": 40.204,
         "width": 14.698,
         "height": 15.903,
-        "x_image_background": 12.964,
-        "y_image_background": 40.766,
+        "x_image_background": 12.14,
+        "y_image_background": 40.204,
         "width_image_background": 14.698,
         "height_image_background": 15.903,
         "default_style": {
@@ -104,12 +104,12 @@
         "id": "poly-7023",
         "title": "Lobby",
         "type": "poly",
-        "x": 7.201,
-        "y": 41.228,
+        "x": 6.26,
+        "y": 40.479,
         "width": 31.985,
         "height": 29.501,
-        "x_image_background": 7.201,
-        "y_image_background": 41.228,
+        "x_image_background": 6.26,
+        "y_image_background": 40.479,
         "width_image_background": 32.421,
         "height_image_background": 29.501,
         "default_style": {
@@ -184,12 +184,12 @@
         "id": "poly-4152",
         "title": "clRom",
         "type": "poly",
-        "x": 8.353,
-        "y": 64.046,
+        "x": 7.412,
+        "y": 63.671,
         "width": 22.327,
         "height": 25.347,
-        "x_image_background": 8.353,
-        "y_image_background": 64.046,
+        "x_image_background": 7.412,
+        "y_image_background": 63.671,
         "default_style": {
             "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
@@ -243,12 +243,12 @@
         "id": "poly-2269",
         "title": "rA",
         "type": "poly",
-        "x": 35.582,
-        "y": 46.531,
+        "x": 34.759,
+        "y": 45.595,
         "width": 7.204,
         "height": 9.374,
-        "x_image_background": 35.582,
-        "y_image_background": 46.531,
+        "x_image_background": 34.759,
+        "y_image_background": 45.595,
         "width_image_background": 6.917,
         "height_image_background": 9.681,
         "default_style": {
@@ -290,33 +290,39 @@
         },
         "points": [{
             "x": 41.991311741200484,
-            "y": 0.0046956925395034745
+            "y": 0.004695692539503471
         }, {
             "x": 0,
             "y": 0
         }, {
+            "x": 0.7405447781194685,
+            "y": 54.10733810420566
+        }, {
             "x": 1.3199919902519093,
             "y": 100
+        }, {
+            "x": 50.172214140074445,
+            "y": 98.66644910762247
         }, {
             "x": 100,
             "y": 98.35252470198401
         }, {
             "x": 100,
-            "y": 46.719286965553174
+            "y": 46.71928696555314
         }, {
             "x": 43.99412751974093,
-            "y": 49.17839748320335
+            "y": 49.178397483203305
         }]
     }, {
         "id": "poly-2309",
         "title": "Ofi",
         "type": "poly",
-        "x": 52.012,
-        "y": 41.611,
+        "x": 51.777,
+        "y": 41.424,
         "width": 18.152,
         "height": 14.519,
-        "x_image_background": 52.012,
-        "y_image_background": 41.611,
+        "x_image_background": 51.777,
+        "y_image_background": 41.424,
         "default_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.19484508547008547,
@@ -371,12 +377,12 @@
         "id": "poly-4355",
         "title": "Ofi",
         "type": "poly",
-        "x": 82.269,
-        "y": 50.455,
+        "x": 81.798,
+        "y": 50.08,
         "width": 6.34,
         "height": 5.754,
-        "x_image_background": 82.269,
-        "y_image_background": 50.455,
+        "x_image_background": 81.798,
+        "y_image_background": 50.08,
         "default_style": {
             "background_color": "#E73A42",
             "background_opacity": 0.19484508547008547,
@@ -431,11 +437,11 @@
         "id": "poly-6715",
         "title": "ESSRLMR",
         "type": "poly",
-        "x": 70.306,
+        "x": 69.835,
         "y": 41.226,
         "width": 5.476,
         "height": 14.751,
-        "x_image_background": 70.306,
+        "x_image_background": 69.835,
         "y_image_background": 41.226,
         "default_style": {
             "background_color": "#fbb03a",
@@ -490,12 +496,12 @@
         "id": "poly-4432",
         "title": "ESSRLMR",
         "type": "poly",
-        "x": 76.504,
-        "y": 41.458,
+        "x": 76.386,
+        "y": 41.271,
         "width": 5.476,
         "height": 14.751,
-        "x_image_background": 76.504,
-        "y_image_background": 41.458,
+        "x_image_background": 76.386,
+        "y_image_background": 41.271,
         "default_style": {
             "background_color": "#fbb03a",
             "background_opacity": 0.1794871794871795,
@@ -549,12 +555,12 @@
         "id": "poly-1381",
         "title": "WTL",
         "type": "poly",
-        "x": 38.035,
-        "y": 60.815,
+        "x": 37.211,
+        "y": 60.628,
         "width": 11.089,
         "height": 22.588,
-        "x_image_background": 38.327,
-        "y_image_background": 61.28,
+        "x_image_background": 37.211,
+        "y_image_background": 60.628,
         "width_image_background": 11.527,
         "height_image_background": 22.587,
         "default_style": {
@@ -611,12 +617,12 @@
         "id": "poly-9418",
         "title": "SR",
         "type": "poly",
-        "x": 50.43,
+        "x": 50.077,
         "y": 63.122,
         "width": 5.174,
         "height": 14.288,
-        "x_image_background": 49.846,
-        "y_image_background": 63.819,
+        "x_image_background": 50.077,
+        "y_image_background": 63.122,
         "width_image_background": 6.196,
         "height_image_background": 14.521,
         "default_style": {
@@ -729,12 +735,12 @@
         "id": "poly-8246",
         "title": "WTL",
         "type": "poly",
-        "x": 54.312,
-        "y": 64.274,
+        "x": 53.606,
+        "y": 64.087,
         "width": 11.243,
         "height": 22.361,
-        "x_image_background": 54.312,
-        "y_image_background": 64.042,
+        "x_image_background": 53.606,
+        "y_image_background": 64.087,
         "width_image_background": 10.951,
         "height_image_background": 21.896,
         "default_style": {
@@ -791,12 +797,12 @@
         "id": "poly-357",
         "title": "SSS",
         "type": "poly",
-        "x": 27.518,
-        "y": 40.765,
+        "x": 26.459,
+        "y": 40.016,
         "width": 3.886,
         "height": 15.675,
-        "x_image_background": 27.518,
-        "y_image_background": 40.997,
+        "x_image_background": 26.459,
+        "y_image_background": 40.016,
         "default_style": {
             "background_color": "#439544",
             "background_opacity": 0.16920405982905984,
@@ -1935,12 +1941,12 @@
         "id": "poly-8753",
         "title": "TMS",
         "type": "poly",
-        "x": 28.516,
-        "y": 60.59,
+        "x": 27.692,
+        "y": 60.216,
         "width": 10.815,
         "height": 21.901,
-        "x_image_background": 28.954,
-        "y_image_background": 60.59,
+        "x_image_background": 27.692,
+        "y_image_background": 60.216,
         "default_style": {
             "background_color": "#6fccdd",
             "background_opacity": 0.21193910256410256,
@@ -1990,128 +1996,6 @@
         }, {
             "x": 25.37071134434024,
             "y": 100
-        }]
-    }, {
-        "id": "poly-9951",
-        "title": "alcove",
-        "type": "poly",
-        "x": 28.525,
-        "y": 62.892,
-        "width": 5.475,
-        "height": 20.058,
-        "x_image_background": 28.525,
-        "y_image_background": 62.892,
-        "width_image_background": 5.475,
-        "height_image_background": 20.058,
-        "default_style": {
-            "background_color": "#439544",
-            "background_opacity": 0.16920405982905984,
-            "stroke_color": "#82c449",
-            "stroke_opacity": 1,
-            "stroke_width": 5
-        },
-        "mouseover_style": {
-            "background_color": "#82c449",
-            "background_opacity": 0.7247596153846154,
-            "stroke_color": "#82c449",
-            "stroke_opacity": 0.9636752136752137,
-            "stroke_width": 3
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Poly 63"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        },
-        "points": [{
-            "x": 100,
-            "y": 95.4001138200892
-        }, {
-            "x": 47.37482012646671,
-            "y": 100
-        }, {
-            "x": 0,
-            "y": 4.597630467462651
-        }, {
-            "x": 52.63307483475845,
-            "y": 0
-        }]
-    }, {
-        "id": "poly-5807",
-        "title": "collab",
-        "type": "poly",
-        "x": 35.441,
-        "y": 60.359,
-        "width": 3.887,
-        "height": 6.916,
-        "x_image_background": 35.441,
-        "y_image_background": 60.359,
-        "default_style": {
-            "background_color": "#439544",
-            "background_opacity": 0.16920405982905984,
-            "stroke_color": "#82c449",
-            "stroke_opacity": 1,
-            "stroke_width": 5
-        },
-        "mouseover_style": {
-            "background_color": "#82c449",
-            "background_opacity": 0.7247596153846154,
-            "stroke_color": "#82c449",
-            "stroke_opacity": 0.9636752136752137,
-            "stroke_width": 3
-        },
-        "tooltip": {
-            "enable_tooltip": 0
-        },
-        "tooltip_content": {
-            "squares_settings": {
-                "containers": [{
-                    "id": "sq-container-403761",
-                    "settings": {
-                        "elements": [{
-                            "settings": {
-                                "name": "Heading",
-                                "iconClass": "fa fa-header"
-                            },
-                            "options": {
-                                "heading": {
-                                    "text": "Poly 64"
-                                }
-                            }
-                        }]
-                    }
-                }]
-            }
-        },
-        "points": [{
-            "x": 18.54091292174692,
-            "y": 100
-        }, {
-            "x": 0,
-            "y": 23.338972668669573
-        }, {
-            "x": 100,
-            "y": 0
-        }, {
-            "x": 88.92739825367877,
-            "y": 86.664235918677
         }]
     }]
 });
