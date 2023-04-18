@@ -44,7 +44,7 @@
 }
 
 .card-left > div > img {
-    height: 255px;
+    width: 100%;
 }
 
 .card-popup{
