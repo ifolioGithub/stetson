@@ -13,7 +13,7 @@
         "price": "$50,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The Body Testing Lab will enhance curricular offerings and research within the Health Sciences department."
+        "description": "The Body Testing Lab enhances curricular offerings and research within the Health Sciences department."
     },
     "sLab": {
         "name": "Smart Lab",
@@ -21,7 +21,7 @@
         "price": "$75,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The SMART Lab, part of the Center for Optimal Health Across the Lifespan (COHL), is designed to teach and research the efficacy of stress management and resiliency skills within the Volusia County population and Stetson’s student body. The lab targets significant reductions in stress levels, using biofeedback monitors, and can be combined with self-report measures of psychological disorders and indicators of resilience. The SMART Lab is capable of intervening with a wide age of demographics, from children to geriatric, and can be combined with other health initiatives."
+        "description": "The SMART Lab, part of the Center for Optimal Health Across the Lifespan (COHL), is designed to teach and research the efficacy of stress management and resiliency skills within the Volusia County population and Stetson’s student body. The lab targets significant reductions in stress levels, using biofeedback monitors, and is combined with self-report measures of psychological disorders and indicators of resilience. The SMART Lab is capable of intervening with a wide age of demographics, from children to geriatric, and is combined with other health initiatives."
     },
     "Offic": {
         "name": "Offices (13)",
@@ -45,7 +45,7 @@
         "price": "Large: $100,000<br>Medium: $75,000<br>Small: $40,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning."
+        "description": "Classrooms accommodate a wide variety of pedagogical styles and are easily reconfigured to facilitate small group work and active learning."
     },
     "ESSFRP": {
         "name": "GIS (Geographical Information Systems) Lab",
@@ -53,7 +53,7 @@
         "price": "$75,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The GIS (geographical information systems) classroom and lab support efforts to emphasize GIS in student training with over a dozen state-of-the-art computers for teaching digital mapping and spatial analysis; it is an essential skill for employment in numerous environmental-related fields. THE ENSS Faculty Research Pod within the lab will be the site of research activity and collaborations using GIS and other equipment and software."
+        "description": "The GIS (geographical information systems) classroom and lab support efforts to emphasize GIS in student training with over a dozen state-of-the-art computers for teaching digital mapping and spatial analysis; it is an essential skill for employment in numerous environmental-related fields. THE ENSS Faculty Research Pod within the lab is the site of research activity and collaborations using GIS and other equipment and software."
     },
     "phle": {
         "name": "Phlebotomy Area",
@@ -98,13 +98,13 @@
     "TMS": {
         "name": "The Hub",
         "img_path": "https://api.ifolio.cloud/medias/wx/fx/wxfxvIAUyqVimiWp7YBUBqOv9OU0XmpJLsT03QBl.jpg",
-        "price": "$100,000",
+        "price": "$150,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
         "description": "Varied configurations of study spaces are situated in and around the lobby, near the reception area where Brown Hall and Sage Hall connect. The openness of the building’s design extends to the open staircase, which guides traffic upstairs while encouraging interaction among community members."
     },
     "SSS": {
-        "name": "Small Group Room",
+        "name": "Small Group Rooms (3)",
         "img_path": "https://api.ifolio.cloud/medias/3H/7r/3H7riRlNzM2sFTEwAtpXJlh9bWrNuAeOq5sAqerL.jpg",
         "price": "$15,000",
         "fill": "#cee0b3",
@@ -125,7 +125,7 @@
         "price": "$100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The new greenhouse, with an internal shade system and a butterfly roof to facilitate rainwater collection, houses plants and seedlings for classes and research. As well as for planting in the Teaching Garden. Shared by the Biology and Environmental Science and Studies departments, the greenhouse has two separate rooms that can be independently controlled to manage temperature, humidity and light conditions. State-of-the-art control systems can be monitored remotely through apps that faculty using the greenhouse keep on their laptops or smart phones."
+        "description": "The new greenhouse, with an internal shade system and a butterfly roof to facilitate rainwater collection, houses plants and seedlings for classes and research. As well as for planting in the Teaching Garden. Shared by the Biology and Environmental Science and Studies departments, the greenhouse has two separate rooms that is independently controlled to manage temperature, humidity and light conditions. State-of-the-art control systems is monitored remotely through apps that faculty using the greenhouse keep on their laptops or smart phones."
     },
     "SR": {
         "name": "Seminar Room",
@@ -133,7 +133,7 @@
         "price": "$20,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The seminar room is used by all departments and programs in Brown Hall for small discussion-based classes as well as department faculty and other meetings.  "
+        "description": "The seminar room is used by all departments and programs in Brown Hall for small discussion-based classes as well as department faculty and other meetings."
     },
     "ESSRLMR": {
         "name": "Environmental Science & Studies Field Studies Lab (2)",
@@ -141,7 +141,7 @@
         "price": "$75,000 each",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The labs will house equipment used in soil and water sampling and analysis, environmental surveying and other hands-on training for students. One of the labs will allow field specimens to be brought into the building for use in lab spaces."
+        "description": "The labs house equipment used in soil and water sampling and analysis, environmental surveying and other hands-on training for students. One of the labs allows field specimens to be brought into the building for use in lab spaces."
     },
     "Ofi": {
         "name": "Offices (12)",
@@ -165,7 +165,7 @@
         "price": "Large: $150,000 <br> Medium $100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning."
+        "description": "Classrooms accommodate a wide variety of pedagogical styles and are easily reconfigured to facilitate small group work and active learning. "
     },
     "Lobby": {
         "name": "Atrium",
@@ -181,7 +181,7 @@
         "price": "$150,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The Teaching Kitchen supports hands-on experiential learning connected to the Sustainable Food Systems program, Health Sciences, Chemistry and Counselor Education. Blending commercial and residential kitchen elements, the Teaching Kitchen contains cooking stations for classroom demonstrations, a wide range of equipment and appliances and additional seating space. Our Sustainable Food Systems program can leverage this teaching kitchen to prepare students for complex global challenges related to a sustainable, equitable and healthy food future."
+        "description": "The Teaching Kitchen supports hands-on experiential learning connected to the Sustainable Food Systems program, Health Sciences, Chemistry and Counselor Education. Blending commercial and residential kitchen elements, the Teaching Kitchen contains cooking stations for classroom demonstrations, a wide range of equipment and appliances and additional seating space. Our Sustainable Food Systems program leverages this teaching kitchen to prepare students for complex global challenges related to a sustainable, equitable and healthy food future."
     },
     "pTC": {
         "name": "Play Therapy Classroom",
@@ -189,6 +189,6 @@
         "price": "$75,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), provides space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County.<br>The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
+        "description": "The Play Therapy classroom, part of the Center for Optimal Health Across the Lifespan (COHL), provides space for children and their families to engage in expressive arts and therapeutic play activities to facilitate the healing of trauma and other mental/behavioral health disorders, as well as to support the health and wellbeing of families in Volusia County. <br>The Play and Creativity in Counseling concentration is housed in the Department of Counselor Education."
     }
 }
