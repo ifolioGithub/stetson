@@ -96,12 +96,12 @@
         "description": ""
     },
     "TMS": {
-        "name": "The Monumental Stair",
+        "name": "The Hub",
         "img_path": "https://api.ifolio.cloud/medias/wx/fx/wxfxvIAUyqVimiWp7YBUBqOv9OU0XmpJLsT03QBl.jpg",
         "price": "$100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "The openness of the building's design extends to the grand staircase, which guides traffic upstairs while encouraging interaction among community members."
+        "description": "Varied configurations of study spaces are situated in and around the lobby, near the reception area where Brown Hall and Sage Hall connect. The openness of the building’s design extends to the open staircase, which guides traffic upstairs while encouraging interaction among community members."
     },
     "SSS": {
         "name": "Small Group Room",
@@ -168,12 +168,12 @@
         "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning."
     },
     "Lobby": {
-        "name": "Lobby and Entrance Corridor",
+        "name": "Atrium",
         "img_path": "https://api.ifolio.cloud/medias/KP/HH/KPHH7bnTzLex5rus4QOkzUbvorTgtJCxZ5PZfftb.jpg",
         "price": "$100,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
-        "description": "At the entrance of Brown Hall is a large common area that communicates the university's vision for the new building and its inhabitants. The connection back to Sage Hall will preserve and strengthen the interdisciplinary interactions between disciplines."
+        "description": "At the entrance of Brown Hall is a large common area that communicates the university's vision for the new building and its inhabitants. The connection back to Sage Hall preserves and strengthens the interdisciplinary interactions between disciplines."
     },
     "TKL": {
         "name": "Teaching Kitchen Lab",
